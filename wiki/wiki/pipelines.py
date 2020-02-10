@@ -16,7 +16,7 @@ class BuscadorwikiPipeline(object):
         
     def open_spider(self, spider):
       # Proceso a ejecutar
-      self.file = open('crawlOut.json', 'w')
+      self.file = open('jsonCrawler.json', 'w')
       self.conjPages={}
 
     def close_spider(self, spider):

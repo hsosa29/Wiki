@@ -2,7 +2,7 @@
 import json           
     
     
-data= json.loads(open('crawlOut.json').read().encode("utf-8").decode("utf-8","ignore"))
+data= json.loads(open('jsonCrawler.json').read().encode("utf-8").decode("utf-8","ignore"))
 dkeys = data.keys()
 dkeys = list(dkeys)
 from random import choice
