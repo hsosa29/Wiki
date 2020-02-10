@@ -3,7 +3,7 @@ import json
 
 #with open('indice.json') as data_file:
 #    data = json.load(data_file)
-data=json.loads(open('indexerOut.json').read().encode("utf-8").decode("utf-8","ignore"))
+data=json.loads(open('jsonIndexer.json').read().encode("utf-8").decode("utf-8","ignore"))
 #pprint(data)
 
 def obtenerRelevancia(lista, palabras):

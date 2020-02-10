@@ -41,7 +41,7 @@ while maximoPuntaje < 400:
                     url = choice(dkeys)
                     puntero=url
                     
-with open('pageRankOut.json', 'w') as outfile:
+with open('jsonPageRank.json', 'w') as outfile:
     json.dump(data, outfile)
 
 

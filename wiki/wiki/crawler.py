@@ -36,7 +36,7 @@ def getPalabras(ruta_actual,nombre_arc_act):
 
     return frecPalabras
 
-archivo_pags=open('pageRankOut.json','r').read()
+archivo_pags=open('jsonPageRank.json','r').read()
 pageRankArchivo=json.loads(archivo_pags)
 lista_pags=list(pageRankArchivo.keys())
 print len(lista_pags)
@@ -51,6 +51,6 @@ for url_act in lista_pags:
   pageRankArchivo[url_act]['palabras']=calif_pags
   pags_index+=1
   print('Páginas indexadas: '+str(pags_index))
-  archivo_pagerankfinal=open('indexerOut.json','w')
+  archivo_pagerankfinal=open('jsonIndexer.json','w')
   archivo_pagerankfinal.write(json.dumps(pageRankArchivo,indent=4))
   archivo_pagerankfinal.close()
