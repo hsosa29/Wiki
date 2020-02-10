@@ -8,4 +8,18 @@
 
 class WikispiderPipeline(object):
     def process_item(self, item, spider):
-        return item
+        a={'ranking':'1','enlaces':item['enlaces'],'ruta':item['ruta'],'palabras':item['palabras']}
+        self.conjPages[item['url']]=a
+        
+           
+        
+    def open_spider(self, spider):
+      # Proceso a ejecutar
+      self.file = open('crawlOut.json', 'w')
+      self.conjPages={}
+
+    def close_spider(self, spider):
+      # Proceso a ejecutar      
+      line = json.dumps(self.conjPages)
+      self.file.write(line)
+      self.file.close()

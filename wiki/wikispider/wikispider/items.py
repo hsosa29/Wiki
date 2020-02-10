@@ -11,4 +11,10 @@ import scrapy
 class WikispiderItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
+    url=scrapy.Field()
+    ranking=scrapy.Field()
+    enlaces=scrapy.Field()
+    ruta=scrapy.Field()
+    palabras=scrapy.Field()
     pass
+   
