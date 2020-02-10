@@ -1,0 +1,1213 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Multiple comparisons problem - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XjbKhwpAAEUAAGmSXU4AAACH","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Multiple_comparisons_problem","wgTitle":"Multiple comparisons problem","wgCurRevisionId":933687048,"wgRevisionId":933687048,"wgArticleId":9444220,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: multiple names: authors list","All articles with unsourced statements","Articles with unsourced statements from June 2016",
+"Articles with unsourced statements from August 2012","Articles with unsourced statements from January 2012","Statistical hypothesis testing","Multiple comparisons"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Multiple_comparisons_problem","wgRelevantArticleId":9444220,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1038757","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={
+"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.math.scripts","ext.scribunto.logs","site","mediawiki.page.startup","skins.vector.js","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher",
+"ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.15"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Spurious_correlations_-_spelling_bee_spiders.svg/1200px-Spurious_correlations_-_spelling_bee_spiders.svg.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Multiple_comparisons_problem"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Multiple_comparisons_problem&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Multiple_comparisons_problem&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Multiple_comparisons_problem"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Multiple_comparisons_problem rootpage-Multiple_comparisons_problem skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Multiple comparisons problem</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Spurious_correlations_-_spelling_bee_spiders.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Spurious_correlations_-_spelling_bee_spiders.svg/220px-Spurious_correlations_-_spelling_bee_spiders.svg.png" decoding="async" width="220" height="87" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Spurious_correlations_-_spelling_bee_spiders.svg/330px-Spurious_correlations_-_spelling_bee_spiders.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Spurious_correlations_-_spelling_bee_spiders.svg/440px-Spurious_correlations_-_spelling_bee_spiders.svg.png 2x" data-file-width="1040" data-file-height="410" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Spurious_correlations_-_spelling_bee_spiders.svg" class="internal" title="Enlarge"></a></div>An example of data produced by <a href="/wiki/Data_dredging" title="Data dredging">data dredging</a>, showing a correlation between the number of letters in a spelling bee's winning word and the number of people in the United States killed by venomous spiders. The clear similarity in trends is a coincidence. If many data series are compared, similarly convincing but coincidental data may be obtained.</div></div></div>
+<p>In <a href="/wiki/Statistics" title="Statistics">statistics</a>, the <b>multiple comparisons</b>, <b>multiplicity</b> or <b>multiple testing problem</b> occurs when one considers a set of <a href="/wiki/Statistical_inference" title="Statistical inference">statistical inferences</a> simultaneously<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> or infers a subset of parameters selected based on the observed values.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> In certain fields it is known as the <a href="/wiki/Look-elsewhere_effect" title="Look-elsewhere effect">look-elsewhere effect</a>.
+</p><p>The more inferences are made, the more likely erroneous inferences are to occur.  Several statistical techniques have been developed to prevent this from happening, allowing significance levels for single and multiple comparisons to be directly compared.  These techniques generally require a stricter significance threshold for individual comparisons, so as to compensate for the number of inferences being made.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Definition"><span class="tocnumber">2</span> <span class="toctext">Definition</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Classification_of_multiple_hypothesis_tests"><span class="tocnumber">2.1</span> <span class="toctext">Classification of multiple hypothesis tests</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Controlling_procedures"><span class="tocnumber">3</span> <span class="toctext">Controlling procedures</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Large-scale_multiple_testing"><span class="tocnumber">4</span> <span class="toctext">Large-scale multiple testing</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Assessing_whether_any_alternative_hypotheses_are_true"><span class="tocnumber">4.1</span> <span class="toctext">Assessing whether any alternative hypotheses are true</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Further_reading"><span class="tocnumber">7</span> <span class="toctext">Further reading</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Multiple_comparisons_problem&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The interest in the problem of multiple comparisons began in the 1950s with the work of <a href="/wiki/Tukey" class="mw-redirect" title="Tukey">Tukey</a> and <a href="/wiki/Scheff%C3%A9" class="mw-redirect" title="Scheffé">Scheffé</a>. Other methods, such as the <a href="/wiki/Closed_testing_procedure" title="Closed testing procedure">closed testing procedure</a> (Marcus et al., 1976) and the <a href="/wiki/Holm%E2%80%93Bonferroni_method" title="Holm–Bonferroni method">Holm–Bonferroni method</a> (1979), later emerged. In 1995, work on the <a href="/wiki/False_discovery_rate" title="False discovery rate">false discovery rate</a> began. In 1996, the first conference on multiple comparisons took place in <a href="/wiki/Israel" title="Israel">Israel</a>. This was followed by conferences around the world, usually taking place about every two years.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Definition">Definition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Multiple_comparisons_problem&amp;action=edit&amp;section=2" title="Edit section: Definition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Multiple comparisons arise when a statistical analysis involves multiple simultaneous statistical tests, each of which has a potential to produce a "discovery." A stated confidence level generally applies only to each test considered individually, but often it is desirable to have a confidence level for the whole family of simultaneous tests.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>  Failure to compensate for multiple comparisons can have important real-world consequences, as illustrated by the following examples:
+</p>
+<ul><li>Suppose the treatment is a new way of teaching writing to students, and the control is the standard way of teaching writing.  Students in the two groups can be compared in terms of grammar, spelling, organization, content, and so on.  As more attributes are compared, it becomes increasingly likely that the treatment and control groups will appear to differ on at least one attribute due to random <a href="/wiki/Sampling_error" title="Sampling error">sampling error</a> alone.</li>
+<li>Suppose we consider the efficacy of a <a href="/wiki/Pharmacology" title="Pharmacology">drug</a> in terms of the reduction of any one of a number of disease symptoms.  As more symptoms are considered, it becomes increasingly likely that the drug will appear to be an improvement over existing drugs in terms of at least one symptom.</li></ul>
+<p>In both examples, as the number of comparisons increases, it becomes more likely that the groups being compared will appear to differ in terms of at least one attribute. Our confidence that a result will generalize to independent data should generally be weaker if it is observed as part of an analysis that involves multiple comparisons, rather than an analysis that involves only a single comparison.
+</p><p>For example, if one test is performed at the 5% level and the corresponding null hypothesis is true, there is only a 5% chance of incorrectly rejecting the null hypothesis.  However, if 100 tests are conducted and all corresponding null hypotheses are true, the <a href="/wiki/Expected_number" class="mw-redirect" title="Expected number">expected number</a> of incorrect rejections (also known as <a href="/wiki/False_positive" class="mw-redirect" title="False positive">false positives</a> or <a href="/wiki/Type_I_error" class="mw-redirect" title="Type I error">Type I errors</a>) is 5.  If the tests are statistically independent from each other, the probability of at least one incorrect rejection is 99.4%.
+</p><p>The multiple comparisons problem also applies to <a href="/wiki/Confidence_intervals" class="mw-redirect" title="Confidence intervals">confidence intervals</a>. A single confidence interval with a 95% <a href="/wiki/Coverage_probability" title="Coverage probability">coverage probability</a> level will contain the population parameter in 95% of experiments.  However, if one considers 100 confidence intervals simultaneously, each with 95% coverage probability, the expected number of non-covering intervals is 5. If the intervals are statistically independent from each other, the probability that at least one interval does not contain the population parameter is 99.4%.
+</p><p>Techniques have been developed to prevent the inflation of false positive rates and non-coverage rates that occur with multiple statistical tests.
+</p>
+<h3><span class="mw-headline" id="Classification_of_multiple_hypothesis_tests">Classification of multiple hypothesis tests<span id="Classification_of_&#39;&#39;m&#39;&#39;_hypothesis_tests"></span></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Multiple_comparisons_problem&amp;action=edit&amp;section=3" title="Edit section: Classification of multiple hypothesis tests">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The following table defines the possible outcomes when testing multiple null hypotheses. 
+Suppose we have a number <i>m</i> of null hypotheses, denoted by: <span class="texhtml"><i>H</i><sub>1</sub>,&#160;<i>H</i><sub>2</sub>,&#160;...,&#160;<i>H</i><sub><i>m</i></sub>.</span>
+Using a <a href="/wiki/Statistical_hypothesis_testing" title="Statistical hypothesis testing">statistical test</a>, we reject the null hypothesis if the test is declared significant. We do not reject the null hypothesis if the test is non-significant.
+Summing each type of outcome over all <i>H<sub>i</sub></i>&#160; yields the following random variables:
+</p>
+<table class="wikitable">
+<tbody><tr>
+<td>
+</td>
+<th>Null hypothesis is true (H<sub>0</sub>)
+</th>
+<th>Alternative hypothesis is true (H<sub>A</sub>)
+</th>
+<th>Total
+</th></tr>
+<tr align="center">
+<th style="background: #ececec; color: black; font-weight: bold; vertical-align: middle; text-align: left;" class="table-rh">Test is declared significant
+</th>
+<td><span class="texhtml mvar" style="font-style:italic;">V</span>
+</td>
+<td><span class="texhtml mvar" style="font-style:italic;">S</span>
+</td>
+<td><span class="texhtml mvar" style="font-style:italic;">R</span>
+</td></tr>
+<tr align="center">
+<th style="background: #ececec; color: black; font-weight: bold; vertical-align: middle; text-align: left;" class="table-rh">Test is declared non-significant
+</th>
+<td><span class="texhtml mvar" style="font-style:italic;">U</span>
+</td>
+<td><span class="texhtml mvar" style="font-style:italic;">T</span>
+</td>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle m-R}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>m</mi>
+        <mo>&#x2212;<!-- − --></mo>
+        <mi>R</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle m-R}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7c9bf03e2b488956ca5af783661fc8c734e6440a" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.505ex; width:6.645ex; height:2.343ex;" alt="m - R"/></span>
+</td></tr>
+<tr align="center">
+<th style="background: #ececec; color: black; font-weight: bold; vertical-align: middle; text-align: left;" class="table-rh">Total
+</th>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle m_{0}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>m</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>0</mn>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle m_{0}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3a6ff51ee949104fe6fae553cfbdfba29d5fac1e" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:3.095ex; height:2.009ex;" alt="m_{0}"/></span>
+</td>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle m-m_{0}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>m</mi>
+        <mo>&#x2212;<!-- − --></mo>
+        <msub>
+          <mi>m</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>0</mn>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle m-m_{0}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d5aa8c55f7307feb806e7d5f8df5f40c0843497c" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:7.975ex; height:2.343ex;" alt="m - m_0"/></span>
+</td>
+<td><span class="texhtml mvar" style="font-style:italic;">m</span>
+</td></tr></tbody></table>
+<ul><li><span class="texhtml mvar" style="font-style:italic;">m</span> is the total number hypotheses tested</li>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle m_{0}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>m</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>0</mn>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle m_{0}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3a6ff51ee949104fe6fae553cfbdfba29d5fac1e" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:3.095ex; height:2.009ex;" alt="m_{0}"/></span> is the number of true <a href="/wiki/Null_hypothesis" title="Null hypothesis">null hypotheses</a>, an unknown parameter</li>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle m-m_{0}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>m</mi>
+        <mo>&#x2212;<!-- − --></mo>
+        <msub>
+          <mi>m</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>0</mn>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle m-m_{0}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d5aa8c55f7307feb806e7d5f8df5f40c0843497c" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:7.975ex; height:2.343ex;" alt="m - m_0"/></span> is the number of true <a href="/wiki/Alternative_hypothesis" title="Alternative hypothesis">alternative hypotheses</a></li>
+<li><span class="texhtml mvar" style="font-style:italic;">V</span> is the number of <a href="/wiki/Type_I_and_type_II_errors" title="Type I and type II errors">false positives (Type I error)</a> (also called "false discoveries")</li>
+<li><span class="texhtml mvar" style="font-style:italic;">S</span> is the number of <a href="/wiki/Type_I_and_type_II_errors" title="Type I and type II errors">true positives</a> (also called "true discoveries")</li>
+<li><span class="texhtml mvar" style="font-style:italic;">T</span> is the number of <a href="/wiki/Type_I_and_type_II_errors" title="Type I and type II errors">false negatives (Type II error)</a></li>
+<li><span class="texhtml mvar" style="font-style:italic;">U</span> is the number of <a href="/wiki/Type_I_and_type_II_errors" title="Type I and type II errors">true negatives</a></li>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle R=V+S}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>R</mi>
+        <mo>=</mo>
+        <mi>V</mi>
+        <mo>+</mo>
+        <mi>S</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle R=V+S}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6d0c6c98e2eeaa462ce03b0f2c46e83ad2d35960" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.505ex; width:10.989ex; height:2.343ex;" alt="{\displaystyle R=V+S}"/></span> is the number of rejected null hypotheses (also called "discoveries", either true or false)</li></ul>
+<p>In <span class="texhtml mvar" style="font-style:italic;">m</span> hypothesis tests of which <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle m_{0}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>m</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>0</mn>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle m_{0}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3a6ff51ee949104fe6fae553cfbdfba29d5fac1e" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:3.095ex; height:2.009ex;" alt="m_{0}"/></span> are true null hypotheses, <span class="texhtml mvar" style="font-style:italic;">R</span> is an observable random variable, and <span class="texhtml mvar" style="font-style:italic;">S</span>, <span class="texhtml mvar" style="font-style:italic;">T</span>, <span class="texhtml mvar" style="font-style:italic;">U</span>, and <span class="texhtml mvar" style="font-style:italic;">V</span> are unobservable <a href="/wiki/Random_variable" title="Random variable">random variables</a>.
+</p>
+<h2><span class="mw-headline" id="Controlling_procedures">Controlling procedures</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Multiple_comparisons_problem&amp;action=edit&amp;section=4" title="Edit section: Controlling procedures">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Further information: <a href="/wiki/Family-wise_error_rate#Controlling_procedures" title="Family-wise error rate">Family-wise error rate §&#160;Controlling procedures</a></div>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/False_coverage_rate#Controlling_procedures" title="False coverage rate">False coverage rate §&#160;Controlling procedures</a>, and <a href="/wiki/False_discovery_rate#Controlling_procedures" title="False discovery rate">False discovery rate §&#160;Controlling procedures</a></div>
+<p>If <i>m</i> independent comparisons are performed, the <i><a href="/wiki/Family-wise_error_rate" title="Family-wise error rate">family-wise error rate</a></i> (FWER), is given by
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle {\bar {\alpha }}=1-\left(1-\alpha _{\{{\text{per comparison}}\}}\right)^{m}.}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mover>
+              <mi>&#x03B1;<!-- α --></mi>
+              <mo stretchy="false">&#x00AF;<!-- ¯ --></mo>
+            </mover>
+          </mrow>
+        </mrow>
+        <mo>=</mo>
+        <mn>1</mn>
+        <mo>&#x2212;<!-- − --></mo>
+        <msup>
+          <mrow>
+            <mo>(</mo>
+            <mrow>
+              <mn>1</mn>
+              <mo>&#x2212;<!-- − --></mo>
+              <msub>
+                <mi>&#x03B1;<!-- α --></mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mo fence="false" stretchy="false">{</mo>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mtext>per comparison</mtext>
+                  </mrow>
+                  <mo fence="false" stretchy="false">}</mo>
+                </mrow>
+              </msub>
+            </mrow>
+            <mo>)</mo>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>m</mi>
+          </mrow>
+        </msup>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\bar {\alpha }}=1-\left(1-\alpha _{\{{\text{per comparison}}\}}\right)^{m}.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f54d3ac68709e04fcec408cf9bd0771fba1aa830" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.171ex; width:31.419ex; height:3.509ex;" alt="{\displaystyle {\bar {\alpha }}=1-\left(1-\alpha _{\{{\text{per comparison}}\}}\right)^{m}.}"/></span></dd></dl>
+<p>Hence, unless the tests are perfectly positively dependent (i.e., identical), <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle {\bar {\alpha }}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mover>
+              <mi>&#x03B1;<!-- α --></mi>
+              <mo stretchy="false">&#x00AF;<!-- ¯ --></mo>
+            </mover>
+          </mrow>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\bar {\alpha }}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ef29452eb836fce0a8544d63f3a8f76fccc74ece" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.488ex; height:2.009ex;" alt="{\bar  {\alpha }}"/></span> increases as the number of comparisons increases.
+If we do not assume that the comparisons are independent, then we can still say:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle {\bar {\alpha }}\leq m\cdot \alpha _{\{{\text{per comparison}}\}},}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mover>
+              <mi>&#x03B1;<!-- α --></mi>
+              <mo stretchy="false">&#x00AF;<!-- ¯ --></mo>
+            </mover>
+          </mrow>
+        </mrow>
+        <mo>&#x2264;<!-- ≤ --></mo>
+        <mi>m</mi>
+        <mo>&#x22C5;<!-- ⋅ --></mo>
+        <msub>
+          <mi>&#x03B1;<!-- α --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo fence="false" stretchy="false">{</mo>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mtext>per comparison</mtext>
+            </mrow>
+            <mo fence="false" stretchy="false">}</mo>
+          </mrow>
+        </msub>
+        <mo>,</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\bar {\alpha }}\leq m\cdot \alpha _{\{{\text{per comparison}}\}},}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bb4362e3a2606b85ec063bc74e9f8ef5ee6e0dc9" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.171ex; width:23.328ex; height:2.843ex;" alt="{\displaystyle {\bar {\alpha }}\leq m\cdot \alpha _{\{{\text{per comparison}}\}},}"/></span></dd></dl>
+<p>which follows from <a href="/wiki/Boole%27s_inequality" title="Boole&#39;s inequality">Boole's inequality</a>. Example: <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle 0.2649=1-(1-.05)^{6}\leq .05\times 6=0.3}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mn>0.2649</mn>
+        <mo>=</mo>
+        <mn>1</mn>
+        <mo>&#x2212;<!-- − --></mo>
+        <mo stretchy="false">(</mo>
+        <mn>1</mn>
+        <mo>&#x2212;<!-- − --></mo>
+        <mn>.05</mn>
+        <msup>
+          <mo stretchy="false">)</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>6</mn>
+          </mrow>
+        </msup>
+        <mo>&#x2264;<!-- ≤ --></mo>
+        <mn>.05</mn>
+        <mo>&#x00D7;<!-- × --></mo>
+        <mn>6</mn>
+        <mo>=</mo>
+        <mn>0.3</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle 0.2649=1-(1-.05)^{6}\leq .05\times 6=0.3}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2c618417ce6add425ba72766f6b3ba5543a2b10f" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:39.542ex; height:3.176ex;" alt="{\displaystyle 0.2649=1-(1-.05)^{6}\leq .05\times 6=0.3}"/></span>
+</p><p>There are different ways to assure that the family-wise error rate is at most <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle {\bar {\alpha }}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mover>
+              <mi>&#x03B1;<!-- α --></mi>
+              <mo stretchy="false">&#x00AF;<!-- ¯ --></mo>
+            </mover>
+          </mrow>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\bar {\alpha }}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ef29452eb836fce0a8544d63f3a8f76fccc74ece" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.488ex; height:2.009ex;" alt="{\bar  {\alpha }}"/></span>. The most conservative method, which is free of dependence and distributional assumptions, is the <a href="/wiki/Bonferroni_correction" title="Bonferroni correction">Bonferroni correction</a> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \alpha _{\mathrm {\{per\ comparison\}} }={\alpha }/m}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>&#x03B1;<!-- α --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mrow class="MJX-TeXAtom-ORD">
+              <mo fence="false" stretchy="false">{</mo>
+              <mi mathvariant="normal">p</mi>
+              <mi mathvariant="normal">e</mi>
+              <mi mathvariant="normal">r</mi>
+              <mtext>&#xA0;</mtext>
+              <mi mathvariant="normal">c</mi>
+              <mi mathvariant="normal">o</mi>
+              <mi mathvariant="normal">m</mi>
+              <mi mathvariant="normal">p</mi>
+              <mi mathvariant="normal">a</mi>
+              <mi mathvariant="normal">r</mi>
+              <mi mathvariant="normal">i</mi>
+              <mi mathvariant="normal">s</mi>
+              <mi mathvariant="normal">o</mi>
+              <mi mathvariant="normal">n</mi>
+              <mo fence="false" stretchy="false">}</mo>
+            </mrow>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi>&#x03B1;<!-- α --></mi>
+        </mrow>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo>/</mo>
+        </mrow>
+        <mi>m</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \alpha _{\mathrm {\{per\ comparison\}} }={\alpha }/m}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/97beaa1bc85c24980bc314157a7f87c40bd8dfc9" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.171ex; width:22.165ex; height:3.176ex;" alt="{\displaystyle \alpha _{\mathrm {\{per\ comparison\}} }={\alpha }/m}"/></span>.  A marginally less conservative correction can be obtained by solving the equation for the family-wise error rate of <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle m}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>m</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle m}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0a07d98bb302f3856cbabc47b2b9016692e3f7bc" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:2.04ex; height:1.676ex;" alt="m"/></span> independent comparisons for <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \alpha _{\mathrm {\{per\ comparison\}} }}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>&#x03B1;<!-- α --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mrow class="MJX-TeXAtom-ORD">
+              <mo fence="false" stretchy="false">{</mo>
+              <mi mathvariant="normal">p</mi>
+              <mi mathvariant="normal">e</mi>
+              <mi mathvariant="normal">r</mi>
+              <mtext>&#xA0;</mtext>
+              <mi mathvariant="normal">c</mi>
+              <mi mathvariant="normal">o</mi>
+              <mi mathvariant="normal">m</mi>
+              <mi mathvariant="normal">p</mi>
+              <mi mathvariant="normal">a</mi>
+              <mi mathvariant="normal">r</mi>
+              <mi mathvariant="normal">i</mi>
+              <mi mathvariant="normal">s</mi>
+              <mi mathvariant="normal">o</mi>
+              <mi mathvariant="normal">n</mi>
+              <mo fence="false" stretchy="false">}</mo>
+            </mrow>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \alpha _{\mathrm {\{per\ comparison\}} }}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8fd80177cec4399fefa76386d26cbd12ecb611c8" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.171ex; width:14.376ex; height:2.509ex;" alt="\alpha _{{\mathrm  {\{per\ comparison\}}}}"/></span>. This yields <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \alpha _{\{{\text{per comparison}}\}}=1-{(1-{\alpha })}^{1/m}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>&#x03B1;<!-- α --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo fence="false" stretchy="false">{</mo>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mtext>per comparison</mtext>
+            </mrow>
+            <mo fence="false" stretchy="false">}</mo>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mn>1</mn>
+        <mo>&#x2212;<!-- − --></mo>
+        <msup>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo stretchy="false">(</mo>
+            <mn>1</mn>
+            <mo>&#x2212;<!-- − --></mo>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi>&#x03B1;<!-- α --></mi>
+            </mrow>
+            <mo stretchy="false">)</mo>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mo>/</mo>
+            </mrow>
+            <mi>m</mi>
+          </mrow>
+        </msup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \alpha _{\{{\text{per comparison}}\}}=1-{(1-{\alpha })}^{1/m}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/497da6c1fe4d752c05fb70903c3836c3423ff8e2" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.171ex; width:32.096ex; height:3.843ex;" alt="{\displaystyle \alpha _{\{{\text{per comparison}}\}}=1-{(1-{\alpha })}^{1/m}}"/></span>, which is known as the <a href="/wiki/%C5%A0id%C3%A1k_correction" title="Šidák correction">Šidák correction</a>. Another procedure is the <a href="/wiki/Holm%E2%80%93Bonferroni_method" title="Holm–Bonferroni method">Holm–Bonferroni method</a>, which uniformly delivers more power than the simple Bonferroni correction, by testing only the lowest p-value (<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle i=1}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>i</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle i=1}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9fb857369fbc28dab4b5d76bb835e6f196b1d1cf" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:5.063ex; height:2.176ex;" alt="i=1"/></span>) against the strictest criterion, and the higher p-values (<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle i&gt;1}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>i</mi>
+        <mo>&gt;</mo>
+        <mn>1</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle i&gt;1}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/dea233301b9ca8fe5dde94824f918c0ceaf7fd5f" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:5.063ex; height:2.176ex;" alt="i&gt;1"/></span>) against progressively less strict criteria.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \alpha _{\mathrm {\{per\ comparison\}} }={\alpha }/(m-i+1)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>&#x03B1;<!-- α --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mrow class="MJX-TeXAtom-ORD">
+              <mo fence="false" stretchy="false">{</mo>
+              <mi mathvariant="normal">p</mi>
+              <mi mathvariant="normal">e</mi>
+              <mi mathvariant="normal">r</mi>
+              <mtext>&#xA0;</mtext>
+              <mi mathvariant="normal">c</mi>
+              <mi mathvariant="normal">o</mi>
+              <mi mathvariant="normal">m</mi>
+              <mi mathvariant="normal">p</mi>
+              <mi mathvariant="normal">a</mi>
+              <mi mathvariant="normal">r</mi>
+              <mi mathvariant="normal">i</mi>
+              <mi mathvariant="normal">s</mi>
+              <mi mathvariant="normal">o</mi>
+              <mi mathvariant="normal">n</mi>
+              <mo fence="false" stretchy="false">}</mo>
+            </mrow>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi>&#x03B1;<!-- α --></mi>
+        </mrow>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo>/</mo>
+        </mrow>
+        <mo stretchy="false">(</mo>
+        <mi>m</mi>
+        <mo>&#x2212;<!-- − --></mo>
+        <mi>i</mi>
+        <mo>+</mo>
+        <mn>1</mn>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \alpha _{\mathrm {\{per\ comparison\}} }={\alpha }/(m-i+1)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f116fa9a6c18f6902b7461cd07251e21addbf0b3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.171ex; width:31.62ex; height:3.176ex;" alt="{\displaystyle \alpha _{\mathrm {\{per\ comparison\}} }={\alpha }/(m-i+1)}"/></span>.
+</p><p><span id="Correction"></span>
+</p>
+<table class="box-Cleanup_merge plainlinks metadata ambox ambox-move" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Split-arrows.svg/50px-Split-arrows.svg.png" decoding="async" width="50" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Split-arrows.svg/75px-Split-arrows.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Split-arrows.svg/100px-Split-arrows.svg.png 2x" data-file-width="60" data-file-height="20" /></div></td><td class="mbox-text"><div class="mbox-text-span"><b>This article may need to be cleaned up.</b> It has been merged from <i><a href="/wiki/Multiple_testing_correction" class="mw-redirect" title="Multiple testing correction">Multiple testing correction</a></i>.</div></td></tr></tbody></table>
+<p><b>Multiple testing correction</b> refers to re-calculating probabilities obtained from a statistical test which was repeated multiple times. In order to retain a prescribed family-wise error rate α in an analysis involving more than one comparison, the error rate for each comparison must be more stringent than&#160;<i>α</i>.  Boole's inequality implies that if each of <i>m</i> tests is performed to have type I error rate&#160;<i>α</i>/<i>m</i>, the total error rate will not exceed&#160;<i>α</i>.  This is called the <a href="/wiki/Bonferroni_correction" title="Bonferroni correction">Bonferroni correction</a>, and is one of the most commonly used approaches for multiple comparisons.
+</p><p>In some situations, the Bonferroni correction is substantially conservative, i.e., the actual family-wise error rate is much less than the prescribed level&#160;<i>α</i>.  This occurs when the test statistics are highly dependent (in the extreme case where the tests are perfectly dependent, the family-wise error rate with no multiple comparisons adjustment and the per-test error rates are identical).  For example, in fMRI analysis,<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> tests are done on over 100,000 <a href="/wiki/Voxel" title="Voxel">voxels</a> in the brain.  The Bonferroni method would require p-values to be smaller than .05/100000 to declare significance.  Since adjacent voxels tend to be highly correlated, this threshold is generally too stringent.
+</p><p>Because simple techniques such as the Bonferroni method can be conservative, there has been a great deal of attention paid to developing better techniques, such that the overall rate of false positives can be maintained without excessively inflating the rate of false negatives. Such methods can be divided into general categories:
+</p>
+<ul><li>Methods where total alpha can be proved to never exceed 0.05 (or some other chosen value) under any conditions. These methods provide "strong" control against Type I error, in all conditions including a partially correct null hypothesis.</li>
+<li>Methods where total alpha can be proved not to exceed 0.05 except under certain defined conditions.</li>
+<li>Methods which rely on an <a href="/wiki/Omnibus_test" title="Omnibus test">omnibus test</a> before proceeding to multiple comparisons. Typically these methods require a significant <a href="/wiki/ANOVA" class="mw-redirect" title="ANOVA">ANOVA</a>, <a href="/wiki/MANOVA" class="mw-redirect" title="MANOVA">MANOVA</a>, or <a href="/wiki/Tukey%27s_range_test" title="Tukey&#39;s range test">Tukey's range test</a>. These methods generally provide only "weak" control of Type I error, except for certain numbers of hypotheses.</li>
+<li>Empirical methods, which control the proportion of Type I errors adaptively, utilizing correlation and distribution characteristics of the observed data.</li></ul>
+<p>The advent of computerized <a href="/wiki/Resampling_(statistics)" title="Resampling (statistics)">resampling</a> methods, such as <a href="/wiki/Bootstrapping_(statistics)" title="Bootstrapping (statistics)">bootstrapping</a> and <a href="/wiki/Monte_Carlo_simulation" class="mw-redirect" title="Monte Carlo simulation">Monte Carlo simulations</a>, has given rise to many techniques in the latter category. In some cases where exhaustive permutation resampling is performed, these tests provide exact, strong control of Type I error rates; in other cases, such as bootstrap sampling, they provide only approximate control.
+</p>
+<h2><span class="mw-headline" id="Large-scale_multiple_testing">Large-scale multiple testing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Multiple_comparisons_problem&amp;action=edit&amp;section=5" title="Edit section: Large-scale multiple testing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Traditional methods for multiple comparisons adjustments focus on correcting for modest numbers of comparisons, often in an <a href="/wiki/Analysis_of_variance" title="Analysis of variance">analysis of variance</a>.  A different set of techniques have been developed for "large-scale multiple testing", in which thousands or even greater numbers of tests are performed. For example, in <a href="/wiki/Genomics" title="Genomics">genomics</a>, when using technologies such as <a href="/wiki/DNA_microarray" title="DNA microarray">microarrays</a>, expression levels of tens of thousands of genes can be measured, and genotypes for millions of genetic markers can be measured.  Particularly in the field of <a href="/wiki/Genetic_association" title="Genetic association">genetic association</a> studies, there has been a serious problem with non-replication — a result being strongly statistically significant in one study but failing to be replicated in a follow-up study.  Such non-replication can have many causes, but it is widely considered that failure to fully account for the consequences of making multiple comparisons is one of the causes.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p><p>In different branches of science, multiple testing is handled in different ways.  It has been argued that if statistical tests are only performed when there is a strong basis for expecting the result to be true, multiple comparisons adjustments are not necessary.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>  It has also been argued that use of multiple testing corrections is an inefficient way to perform <a href="/wiki/Empirical_research" title="Empirical research">empirical research</a>, since multiple testing adjustments control false positives at the potential expense of many more <a href="/wiki/Type_I_and_type_II_errors" title="Type I and type II errors">false negatives</a>.  On the other hand, it has been argued that advances in <a href="/wiki/Measurement" title="Measurement">measurement</a> and <a href="/wiki/Information_technology" title="Information technology">information technology</a> have made it far easier to generate large datasets for <a href="/wiki/Exploratory_data_analysis" title="Exploratory data analysis">exploratory analysis</a>, often leading to the testing of large numbers of hypotheses with no prior basis for expecting many of the hypotheses to be true.  In this situation, very high <a href="/wiki/False_positive_rate" title="False positive rate">false positive rates</a> are expected unless multiple comparisons adjustments are made.
+</p><p>For large-scale testing problems where the goal is to provide definitive results, the <a href="/wiki/Familywise_error_rate" class="mw-redirect" title="Familywise error rate">familywise error rate</a> remains the most accepted parameter for ascribing significance levels to statistical tests.  Alternatively, if a study is viewed as exploratory, or if significant results can be easily re-tested in an independent study, control of the <a href="/wiki/False_discovery_rate" title="False discovery rate">false discovery rate</a> (FDR)<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup> is often preferred.  The FDR, loosely defined as the expected proportion of false positives among all significant tests, allows researchers to identify a set of "candidate positives" that can be more rigorously evaluated in a follow-up study.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup>
+</p><p>The practice of trying many unadjusted comparisons in the hope of finding a significant one is a known problem, whether applied unintentionally or deliberately, is sometimes called "p-hacking."<sup id="cite_ref-Deming_14-0" class="reference"><a href="#cite_note-Deming-14">&#91;14&#93;</a></sup><sup id="cite_ref-bmj02_15-0" class="reference"><a href="#cite_note-bmj02-15">&#91;15&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Assessing_whether_any_alternative_hypotheses_are_true">Assessing whether any alternative hypotheses are true</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Multiple_comparisons_problem&amp;action=edit&amp;section=6" title="Edit section: Assessing whether any alternative hypotheses are true">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:327px;"><a href="/wiki/File:Quantile_meta_test.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Quantile_meta_test.svg/325px-Quantile_meta_test.svg.png" decoding="async" width="325" height="244" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Quantile_meta_test.svg/488px-Quantile_meta_test.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/66/Quantile_meta_test.svg/650px-Quantile_meta_test.svg.png 2x" data-file-width="720" data-file-height="540" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Quantile_meta_test.svg" class="internal" title="Enlarge"></a></div>A <a href="/wiki/Q-Q_plot" class="mw-redirect" title="Q-Q plot">normal quantile plot</a> for a simulated set of test statistics that have been standardized to be <a href="/wiki/Standard_score" title="Standard score">Z-scores</a> under the null hypothesis. The departure of the upper tail of the distribution from the expected trend along the diagonal is due to the presence of substantially more large test statistic values than would be expected if all null hypotheses were true.  The red point corresponds to the fourth largest observed test statistic, which is 3.13, versus an expected value of 2.06.  The blue point corresponds to the fifth smallest test statistic, which is -1.75, versus an expected value of -1.96.  The graph suggests that it is unlikely that all the null hypotheses are true, and that most or all instances of a true alternative hypothesis result from deviations in the positive direction.</div></div></div>
+<p>A basic question faced at the outset of analyzing a large set of testing results is whether there is evidence that any of the alternative hypotheses are true.  One simple meta-test that can be applied when it is assumed that the tests are independent of each other is to use the <a href="/wiki/Poisson_distribution" title="Poisson distribution">Poisson distribution</a> as a model for the number of significant results at a given level α that would be found when all null hypotheses are true.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (June 2016)">citation needed</span></a></i>&#93;</sup>  If the observed number of positives is substantially greater than what should be expected, this suggests that there are likely to be some true positives among the significant results.  For example, if 1000 independent tests are performed, each at level α&#160;=&#160;0.05, we expect 0.05 × 1000 = 50 significant tests to occur when all null hypotheses are true.  Based on the Poisson distribution with mean 50, the probability of observing more than 61 significant tests is less than 0.05, so if more than 61 significant results are observed, it is very likely that some of them correspond to situations where the alternative hypothesis holds.  A drawback of this approach is that it over-states the evidence that some of the alternative hypotheses are true when the <a href="/wiki/Test_statistic" title="Test statistic">test statistics</a> are positively correlated, which commonly occurs in practice.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (August 2012)">citation needed</span></a></i>&#93;</sup>. On the other hand, the approach remains valid even in the presence of correlation among the test statistics, as long as the Poisson distribution can be shown to provide a good approximation for the number of significant results. This scenario arises, for instance, when mining significant frequent itemsets from transactional datasets. Furthermore, a careful two stage analysis can bound the FDR at a pre-specified level.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup>
+</p><p>Another common approach that can be used in situations where the <a href="/wiki/Test_statistic" title="Test statistic">test statistics</a> can be standardized to <a href="/wiki/Standard_score" title="Standard score">Z-scores</a> is to make a <a href="/wiki/Q-Q_plot" class="mw-redirect" title="Q-Q plot">normal quantile plot</a> of the test statistics.  If the observed quantiles are markedly more <a href="/wiki/Statistical_dispersion" title="Statistical dispersion">dispersed</a> than the normal quantiles, this suggests that some of the significant results may be true positives.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2012)">citation needed</span></a></i>&#93;</sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Multiple_comparisons_problem&amp;action=edit&amp;section=7" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl><dt>Key concepts</dt></dl>
+<ul><li><a href="/wiki/Familywise_error_rate" class="mw-redirect" title="Familywise error rate">Familywise error rate</a></li>
+<li><a href="/wiki/False_positive_rate" title="False positive rate">False positive rate</a></li>
+<li><a href="/wiki/False_discovery_rate" title="False discovery rate">False discovery rate</a> (FDR)</li>
+<li><a href="/wiki/False_coverage_rate" title="False coverage rate">False coverage rate</a> (FCR)</li>
+<li><a href="/wiki/Interval_estimation" title="Interval estimation">Interval estimation</a></li>
+<li><a href="/wiki/Post-hoc_analysis" class="mw-redirect" title="Post-hoc analysis">Post-hoc analysis</a></li>
+<li><a href="/wiki/Experimentwise_error_rate" class="mw-redirect" title="Experimentwise error rate">Experimentwise error rate</a></li></ul>
+<dl><dt>General methods of alpha adjustment for multiple comparisons</dt></dl>
+<ul><li><a href="/wiki/Closed_testing_procedure" title="Closed testing procedure">Closed testing procedure</a></li>
+<li><a href="/wiki/Bonferroni_correction" title="Bonferroni correction">Bonferroni correction</a></li>
+<li>Boole–<a href="/wiki/Bonferroni_bound" class="mw-redirect" title="Bonferroni bound">Bonferroni bound</a></li>
+<li><a href="/wiki/Holm%E2%80%93Bonferroni_method" title="Holm–Bonferroni method">Holm–Bonferroni method</a></li>
+<li><a href="/wiki/Harmonic_mean_p-value" title="Harmonic mean p-value">Harmonic mean p-value</a> procedure</li></ul>
+<dl><dt>Related concepts</dt></dl>
+<ul><li><a href="/wiki/Testing_hypotheses_suggested_by_the_data" title="Testing hypotheses suggested by the data">Testing hypotheses suggested by the data</a></li>
+<li><a href="/wiki/Texas_sharpshooter_fallacy" title="Texas sharpshooter fallacy">Texas sharpshooter fallacy</a></li>
+<li><a href="/wiki/Model_selection" title="Model selection">Model selection</a></li>
+<li><a href="/wiki/Look-elsewhere_effect" title="Look-elsewhere effect">Look-elsewhere effect</a></li>
+<li><a href="/wiki/Data_dredging" title="Data dredging">Data dredging</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Multiple_comparisons_problem&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation book">Miller, R.G. (1981). <i>Simultaneous Statistical Inference 2nd Ed</i>. Springer Verlag New York. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-387-90548-8" title="Special:BookSources/978-0-387-90548-8"><bdi>978-0-387-90548-8</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Simultaneous+Statistical+Inference+2nd+Ed&amp;rft.pub=Springer+Verlag+New+York&amp;rft.date=1981&amp;rft.isbn=978-0-387-90548-8&amp;rft.aulast=Miller&amp;rft.aufirst=R.G.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMultiple+comparisons+problem" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r935243608">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation journal">Benjamini, Y. (2010). "Simultaneous and selective inference: Current successes and future challenges". <i>Biometrical Journal</i>. <b>52</b> (6): 708–721. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1002%2Fbimj.200900299">10.1002/bimj.200900299</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//pubmed.ncbi.nlm.nih.gov/21154895">21154895</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Biometrical+Journal&amp;rft.atitle=Simultaneous+and+selective+inference%3A+Current+successes+and+future+challenges&amp;rft.volume=52&amp;rft.issue=6&amp;rft.pages=708-721&amp;rft.date=2010&amp;rft_id=info%3Adoi%2F10.1002%2Fbimj.200900299&amp;rft_id=info%3Apmid%2F21154895&amp;rft.aulast=Benjamini&amp;rft.aufirst=Y.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMultiple+comparisons+problem" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.mcp-conference.org">[1]</a></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation book">Kutner, Michael; Nachtsheim, Christopher; <a href="/wiki/John_Neter" title="John Neter">Neter, John</a>; Li, William (2005). <i>Applied Linear Statistical Models</i>. pp.&#160;744–745.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Applied+Linear+Statistical+Models&amp;rft.pages=744-745&amp;rft.date=2005&amp;rft.aulast=Kutner&amp;rft.aufirst=Michael&amp;rft.au=Nachtsheim%2C+Christopher&amp;rft.au=Neter%2C+John&amp;rft.au=Li%2C+William&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMultiple+comparisons+problem" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation journal">Aickin, M; Gensler, H (May 1996). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1380484">"Adjusting for multiple testing when reporting research results: the Bonferroni vs Holm methods"</a>. <i>Am J Public Health</i>. <b>86</b> (5): 726–728. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.2105%2Fajph.86.5.726">10.2105/ajph.86.5.726</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1380484">1380484</a></span>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//pubmed.ncbi.nlm.nih.gov/8629727">8629727</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Am+J+Public+Health&amp;rft.atitle=Adjusting+for+multiple+testing+when+reporting+research+results%3A+the+Bonferroni+vs+Holm+methods&amp;rft.volume=86&amp;rft.issue=5&amp;rft.pages=726-728&amp;rft.date=1996-05&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1380484&amp;rft_id=info%3Apmid%2F8629727&amp;rft_id=info%3Adoi%2F10.2105%2Fajph.86.5.726&amp;rft.aulast=Aickin&amp;rft.aufirst=M&amp;rft.au=Gensler%2C+H&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1380484&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMultiple+comparisons+problem" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation journal">Logan, B. R.; Rowe, D. B. (2004). "An evaluation of thresholding techniques in fMRI analysis". <i>NeuroImage</i>. <b>22</b> (1): 95–108. <a href="/wiki/CiteSeerX" title="CiteSeerX">CiteSeerX</a>&#160;<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.10.421">10.1.1.10.421</a></span>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1016%2Fj.neuroimage.2003.12.047">10.1016/j.neuroimage.2003.12.047</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//pubmed.ncbi.nlm.nih.gov/15110000">15110000</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=NeuroImage&amp;rft.atitle=An+evaluation+of+thresholding+techniques+in+fMRI+analysis&amp;rft.volume=22&amp;rft.issue=1&amp;rft.pages=95-108&amp;rft.date=2004&amp;rft_id=%2F%2Fciteseerx.ist.psu.edu%2Fviewdoc%2Fsummary%3Fdoi%3D10.1.1.10.421&amp;rft_id=info%3Apmid%2F15110000&amp;rft_id=info%3Adoi%2F10.1016%2Fj.neuroimage.2003.12.047&amp;rft.aulast=Logan&amp;rft.aufirst=B.+R.&amp;rft.au=Rowe%2C+D.+B.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMultiple+comparisons+problem" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation journal">Logan, B. R.; Geliazkova, M. P.; Rowe, D. B. (2008). "An evaluation of spatial thresholding techniques in fMRI analysis". <i>Human Brain Mapping</i>. <b>29</b> (12): 1379–1389. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1002%2Fhbm.20471">10.1002/hbm.20471</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//pubmed.ncbi.nlm.nih.gov/18064589">18064589</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Human+Brain+Mapping&amp;rft.atitle=An+evaluation+of+spatial+thresholding+techniques+in+fMRI+analysis&amp;rft.volume=29&amp;rft.issue=12&amp;rft.pages=1379-1389&amp;rft.date=2008&amp;rft_id=info%3Adoi%2F10.1002%2Fhbm.20471&amp;rft_id=info%3Apmid%2F18064589&amp;rft.aulast=Logan&amp;rft.aufirst=B.+R.&amp;rft.au=Geliazkova%2C+M.+P.&amp;rft.au=Rowe%2C+D.+B.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMultiple+comparisons+problem" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation journal">Qu, Hui-Qi; Tien, Matthew; Polychronakos, Constantin (2010-10-01). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC3270946">"Statistical significance in genetic association studies"</a>. <i>Clinical and Investigative Medicine. Medecine Clinique et Experimentale</i>. <b>33</b> (5): E266–E270. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0147-958X">0147-958X</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC3270946">3270946</a></span>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//pubmed.ncbi.nlm.nih.gov/20926032">20926032</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Clinical+and+Investigative+Medicine.+Medecine+Clinique+et+Experimentale&amp;rft.atitle=Statistical+significance+in+genetic+association+studies&amp;rft.volume=33&amp;rft.issue=5&amp;rft.pages=E266-E270&amp;rft.date=2010-10-01&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC3270946&amp;rft.issn=0147-958X&amp;rft_id=info%3Apmid%2F20926032&amp;rft.aulast=Qu&amp;rft.aufirst=Hui-Qi&amp;rft.au=Tien%2C+Matthew&amp;rft.au=Polychronakos%2C+Constantin&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC3270946&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMultiple+comparisons+problem" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation journal">Rothman, Kenneth J. (1990). "No Adjustments Are Needed for Multiple Comparisons". <i>Epidemiology</i>. <b>1</b> (1): 43–46. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1097%2F00001648-199001000-00010">10.1097/00001648-199001000-00010</a>. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>&#160;<a rel="nofollow" class="external text" href="//www.jstor.org/stable/20065622">20065622</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//pubmed.ncbi.nlm.nih.gov/2081237">2081237</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Epidemiology&amp;rft.atitle=No+Adjustments+Are+Needed+for+Multiple+Comparisons&amp;rft.volume=1&amp;rft.issue=1&amp;rft.pages=43-46&amp;rft.date=1990&amp;rft_id=info%3Apmid%2F2081237&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F20065622&amp;rft_id=info%3Adoi%2F10.1097%2F00001648-199001000-00010&amp;rft.aulast=Rothman&amp;rft.aufirst=Kenneth+J.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMultiple+comparisons+problem" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation journal">Benjamini, Yoav; Hochberg, Yosef (1995). "Controlling the false discovery rate: a practical and powerful approach to multiple testing". <i><a href="/wiki/Journal_of_the_Royal_Statistical_Society,_Series_B" class="mw-redirect" title="Journal of the Royal Statistical Society, Series B">Journal of the Royal Statistical Society, Series B</a></i>. <b>57</b> (1): 125–133. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>&#160;<a rel="nofollow" class="external text" href="//www.jstor.org/stable/2346101">2346101</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+the+Royal+Statistical+Society%2C+Series+B&amp;rft.atitle=Controlling+the+false+discovery+rate%3A+a+practical+and+powerful+approach+to+multiple+testing&amp;rft.volume=57&amp;rft.issue=1&amp;rft.pages=125-133&amp;rft.date=1995&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F2346101&amp;rft.aulast=Benjamini&amp;rft.aufirst=Yoav&amp;rft.au=Hochberg%2C+Yosef&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMultiple+comparisons+problem" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation journal">Storey, JD; Tibshirani, Robert (2003). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC170937">"Statistical significance for genome-wide studies"</a>. <i>PNAS</i>. <b>100</b> (16): 9440–9445. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="https://ui.adsabs.harvard.edu/abs/2003PNAS..100.9440S">2003PNAS..100.9440S</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1073%2Fpnas.1530509100">10.1073/pnas.1530509100</a>. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>&#160;<a rel="nofollow" class="external text" href="//www.jstor.org/stable/3144228">3144228</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC170937">170937</a></span>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//pubmed.ncbi.nlm.nih.gov/12883005">12883005</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=PNAS&amp;rft.atitle=Statistical+significance+for+genome-wide+studies&amp;rft.volume=100&amp;rft.issue=16&amp;rft.pages=9440-9445&amp;rft.date=2003&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC170937&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F3144228&amp;rft_id=info%3Abibcode%2F2003PNAS..100.9440S&amp;rft_id=info%3Apmid%2F12883005&amp;rft_id=info%3Adoi%2F10.1073%2Fpnas.1530509100&amp;rft.aulast=Storey&amp;rft.aufirst=JD&amp;rft.au=Tibshirani%2C+Robert&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC170937&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMultiple+comparisons+problem" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation journal">Efron, Bradley; Tibshirani, Robert; Storey, John D.; Tusher, Virginia (2001). "Empirical Bayes analysis of a microarray experiment". <i><a href="/wiki/Journal_of_the_American_Statistical_Association" title="Journal of the American Statistical Association">Journal of the American Statistical Association</a></i>. <b>96</b> (456): 1151–1160. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1198%2F016214501753382129">10.1198/016214501753382129</a>. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>&#160;<a rel="nofollow" class="external text" href="//www.jstor.org/stable/3085878">3085878</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+the+American+Statistical+Association&amp;rft.atitle=Empirical+Bayes+analysis+of+a+microarray+experiment&amp;rft.volume=96&amp;rft.issue=456&amp;rft.pages=1151-1160&amp;rft.date=2001&amp;rft_id=info%3Adoi%2F10.1198%2F016214501753382129&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F3085878&amp;rft.aulast=Efron&amp;rft.aufirst=Bradley&amp;rft.au=Tibshirani%2C+Robert&amp;rft.au=Storey%2C+John+D.&amp;rft.au=Tusher%2C+Virginia&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMultiple+comparisons+problem" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation journal">Noble, William S. (2009-12-01). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2907892">"How does multiple testing correction work?"</a>. <i>Nature Biotechnology</i>. <b>27</b> (12): 1135–1137. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1038%2Fnbt1209-1135">10.1038/nbt1209-1135</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1087-0156">1087-0156</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2907892">2907892</a></span>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//pubmed.ncbi.nlm.nih.gov/20010596">20010596</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nature+Biotechnology&amp;rft.atitle=How+does+multiple+testing+correction+work%3F&amp;rft.volume=27&amp;rft.issue=12&amp;rft.pages=1135-1137&amp;rft.date=2009-12-01&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC2907892&amp;rft.issn=1087-0156&amp;rft_id=info%3Apmid%2F20010596&amp;rft_id=info%3Adoi%2F10.1038%2Fnbt1209-1135&amp;rft.aulast=Noble&amp;rft.aufirst=William+S.&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC2907892&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMultiple+comparisons+problem" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-Deming-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-Deming_14-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Young, S. S., Karr, A. (2011). <a rel="nofollow" class="external text" href="http://www.niss.org/sites/default/files/Young%20Karr%20Obs%20Study%20Problem.pdf">"Deming, data and observational studies"</a> <span class="cs1-format">(PDF)</span>. <i>Significance</i>. <b>8</b> (3): 116–120. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1111%2Fj.1740-9713.2011.00506.x">10.1111/j.1740-9713.2011.00506.x</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Significance&amp;rft.atitle=Deming%2C+data+and+observational+studies&amp;rft.volume=8&amp;rft.issue=3&amp;rft.pages=116-120&amp;rft.date=2011&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1740-9713.2011.00506.x&amp;rft.au=Young%2C+S.+S.%2C+Karr%2C+A.&amp;rft_id=http%3A%2F%2Fwww.niss.org%2Fsites%2Fdefault%2Ffiles%2FYoung%2520Karr%2520Obs%2520Study%2520Problem.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMultiple+comparisons+problem" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: multiple names: authors list (<a href="/wiki/Category:CS1_maint:_multiple_names:_authors_list" title="Category:CS1 maint: multiple names: authors list">link</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-bmj02-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-bmj02_15-0">^</a></b></span> <span class="reference-text">
+<cite class="citation journal">Smith, G. D., Shah, E. (2002). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1124898">"Data dredging, bias, or confounding"</a>. <i>BMJ</i>. <b>325</b> (7378): 1437–1438. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1136%2Fbmj.325.7378.1437">10.1136/bmj.325.7378.1437</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1124898">1124898</a></span>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//pubmed.ncbi.nlm.nih.gov/12493654">12493654</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=BMJ&amp;rft.atitle=Data+dredging%2C+bias%2C+or+confounding&amp;rft.volume=325&amp;rft.issue=7378&amp;rft.pages=1437-1438&amp;rft.date=2002&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1124898&amp;rft_id=info%3Apmid%2F12493654&amp;rft_id=info%3Adoi%2F10.1136%2Fbmj.325.7378.1437&amp;rft.au=Smith%2C+G.+D.%2C+Shah%2C+E.&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1124898&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMultiple+comparisons+problem" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: multiple names: authors list (<a href="/wiki/Category:CS1_maint:_multiple_names:_authors_list" title="Category:CS1 maint: multiple names: authors list">link</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation journal">Kirsch, A; <a href="/wiki/Michael_Mitzenmacher" title="Michael Mitzenmacher">Mitzenmacher, M</a>; Pietracaprina, A; Pucci, G; <a href="/wiki/Eli_Upfal" title="Eli Upfal">Upfal, E</a>; Vandin, F (June 2012). "An Efficient Rigorous Approach for Identifying Statistically Significant Frequent Itemsets". <i>Journal of the ACM</i>. <b>59</b> (3): 12:1–12:22. <a href="/wiki/ArXiv" title="ArXiv">arXiv</a>:<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//arxiv.org/abs/1002.1104">1002.1104</a></span>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1145%2F2220357.2220359">10.1145/2220357.2220359</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+the+ACM&amp;rft.atitle=An+Efficient+Rigorous+Approach+for+Identifying+Statistically+Significant+Frequent+Itemsets&amp;rft.volume=59&amp;rft.issue=3&amp;rft.pages=12%3A1-12%3A22&amp;rft.date=2012-06&amp;rft_id=info%3Aarxiv%2F1002.1104&amp;rft_id=info%3Adoi%2F10.1145%2F2220357.2220359&amp;rft.aulast=Kirsch&amp;rft.aufirst=A&amp;rft.au=Mitzenmacher%2C+M&amp;rft.au=Pietracaprina%2C+A&amp;rft.au=Pucci%2C+G&amp;rft.au=Upfal%2C+E&amp;rft.au=Vandin%2C+F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMultiple+comparisons+problem" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Multiple_comparisons_problem&amp;action=edit&amp;section=9" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>F. Betz, T. Hothorn, P. Westfall (2010), <i>Multiple Comparisons Using R</i>, CRC Press</li>
+<li><a href="/wiki/Sandrine_Dudoit" title="Sandrine Dudoit">S. Dudoit</a> and M. J. van der Laan (2008), <i>Multiple Testing Procedures with Application to Genomics</i>, Springer</li>
+<li>A. Farcomeni (2008), "A Review of Modern Multiple Hypothesis Testing, with particular attention to the false discovery proportion", <i>Statistical Methods in Medical Research</i>, Vol.. 17, 347-388 <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1177%2F0962280206079046">10.1177/0962280206079046</a></li>
+<li>B. Phipson and G. K. Smyth (2010), "Permutation P-values Should Never Be Zero: Calculating Exact P-values when Permutations are Randomly Drawn", <i>Statistical Applications in Genetics and Molecular Biology</i> Vol.. 9 Iss. 1, Article 39, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.2202%2F1544-6155.1585">10.2202/1544-6155.1585</a></li>
+<li>P. H. Westfall and S. S. Young (1993), <i>Resampling-based Multiple Testing: Examples and Methods for p-Value Adjustment</i>, Wiley</li>
+<li>P. Westfall, R. Tobias, R. Wolfinger (2011) <i>Multiple comparisons and multiple testing using SAS</i>, 2nd edn, SAS Institute</li>
+<li><a rel="nofollow" class="external text" href="http://www.tylervigen.com/spurious-correlations">A gallery of examples of implausible correlations sourced by data dredging</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Design_of_experiments" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Experimental_design" title="Template:Experimental design"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Experimental_design" title="Template talk:Experimental design"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Experimental_design&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Design_of_experiments" style="font-size:114%;margin:0 4em"><a href="/wiki/Design_of_experiments" title="Design of experiments">Design of experiments</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Scientific_method" title="Scientific method">Scientific<br />method</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Experiment" title="Experiment">Scientific experiment</a></li>
+<li><a href="/wiki/Design_of_experiments" title="Design of experiments">Statistical design</a></li>
+<li><a href="/wiki/Scientific_control" title="Scientific control">Control</a></li>
+<li><a href="/wiki/Internal_validity" title="Internal validity">Internal</a> and <a href="/wiki/External_validity" title="External validity">external</a> <a href="/wiki/Validity_(statistics)" title="Validity (statistics)">validity</a></li>
+<li><a href="/wiki/Experimental_unit" class="mw-redirect" title="Experimental unit">Experimental unit</a></li>
+<li><a href="/wiki/Blind_experiment" class="mw-redirect" title="Blind experiment">Blinding</a></li></ul>
+<ul><li><b><a href="/wiki/Optimal_design" title="Optimal design">Optimal design</a></b>: <a href="/wiki/Bayesian_experimental_design" title="Bayesian experimental design">Bayesian</a></li>
+<li><a href="/wiki/Random_assignment" title="Random assignment">Random assignment</a></li>
+<li><a href="/wiki/Randomization" title="Randomization">Randomization</a></li>
+<li><a href="/wiki/Restricted_randomization" title="Restricted randomization">Restricted randomization</a></li>
+<li><a href="/wiki/Replication_(statistics)" title="Replication (statistics)">Replication versus subsampling</a></li>
+<li><a href="/wiki/Sample_size" class="mw-redirect" title="Sample size">Sample size</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Glossary_of_experimental_design" title="Glossary of experimental design">Treatment</a><br /> and <a href="/wiki/Blocking_(statistics)" title="Blocking (statistics)">blocking</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><b><a href="/wiki/Glossary_of_experimental_design" title="Glossary of experimental design">Treatment</a></b></li>
+<li><a href="/wiki/Effect_size" title="Effect size">Effect size</a></li>
+<li><a href="/wiki/Contrast_(statistics)" title="Contrast (statistics)">Contrast</a></li>
+<li><a href="/wiki/Interaction_(statistics)" title="Interaction (statistics)">Interaction</a></li>
+<li><a href="/wiki/Confounding" title="Confounding">Confounding</a></li>
+<li><a href="/wiki/Orthogonality#Statistics,_econometrics,_and_economics" title="Orthogonality">Orthogonality</a></li>
+<li><b><a href="/wiki/Blocking_(statistics)" title="Blocking (statistics)">Blocking</a></b></li>
+<li><a href="/wiki/Covariate" class="mw-redirect" title="Covariate">Covariate</a></li>
+<li><a href="/wiki/Nuisance_variable" title="Nuisance variable">Nuisance variable</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Statistical_model" title="Statistical model">Models</a> <br /> and <a href="/wiki/Statistical_inference" title="Statistical inference">inference</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Linear_regression" title="Linear regression">Linear regression</a></li>
+<li><a href="/wiki/Ordinary_least_squares" title="Ordinary least squares">Ordinary least squares</a></li>
+<li><a href="/wiki/Bayesian_linear_regression" title="Bayesian linear regression">Bayesian</a></li></ul>
+<ul><li><b><a href="/wiki/Random_effect" class="mw-redirect" title="Random effect">Random effect</a></b></li>
+<li><a href="/wiki/Mixed_model" title="Mixed model">Mixed model</a></li>
+<li><a href="/wiki/Hierarchical_linear_modeling" class="mw-redirect" title="Hierarchical linear modeling">Hierarchical model:</a> <a href="/wiki/Hierarchical_Bayes_model" class="mw-redirect" title="Hierarchical Bayes model">Bayesian</a></li></ul>
+<ul><li><b><a href="/wiki/Analysis_of_variance" title="Analysis of variance">Analysis of variance (Anova)</a></b></li>
+<li><a href="/wiki/Cochran%27s_theorem" title="Cochran&#39;s theorem">Cochran's theorem</a></li>
+<li><a href="/wiki/Multivariate_analysis_of_variance" title="Multivariate analysis of variance"><b>Manova</b> (<i>multivariate</i>)</a></li>
+<li><a href="/wiki/Analysis_of_covariance" title="Analysis of covariance"><b>Ancova</b> (<i>covariance</i>)</a></li></ul>
+<ul><li><a href="/wiki/Comparing_means" class="mw-redirect" title="Comparing means">Compare means</a></li>
+<li><a href="/wiki/Multiple_comparison" class="mw-redirect" title="Multiple comparison">Multiple comparison</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Design_of_experiments" title="Design of experiments">Designs</a> <br /> <br /><a href="/wiki/Completely_randomized_design" title="Completely randomized design">Completely<br />randomized</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><b><a href="/wiki/Factorial_experiment" title="Factorial experiment">Factorial</a></b></li>
+<li><a href="/wiki/Fractional_factorial_design" title="Fractional factorial design">Fractional factorial</a></li>
+<li><a href="/wiki/Plackett-Burman_design" class="mw-redirect" title="Plackett-Burman design">Plackett-Burman</a></li>
+<li><a href="/wiki/Taguchi_methods" title="Taguchi methods">Taguchi</a></li></ul>
+<ul><li><b><a href="/wiki/Response_surface_methodology" title="Response surface methodology">Response surface methodology</a></b></li>
+<li><a href="/wiki/Polynomial_and_rational_function_modeling" title="Polynomial and rational function modeling">Polynomial and rational modeling</a></li>
+<li><a href="/wiki/Box%E2%80%93Behnken_design" title="Box–Behnken design">Box-Behnken</a></li>
+<li><a href="/wiki/Central_composite_design" title="Central composite design">Central composite</a></li></ul>
+<ul><li><b><a href="/wiki/Randomized_block_design" class="mw-redirect" title="Randomized block design">Block</a></b></li>
+<li><a href="/wiki/Generalized_randomized_block_design" title="Generalized randomized block design">Generalized randomized block design</a> (GRBD)</li>
+<li><a href="/wiki/Latin_square" title="Latin square">Latin square</a></li>
+<li><a href="/wiki/Graeco-Latin_square" title="Graeco-Latin square">Graeco-Latin square</a></li>
+<li><a href="/wiki/Orthogonal_array" title="Orthogonal array">Orthogonal array</a></li>
+<li><a href="/wiki/Latin_hypercube_sampling" title="Latin hypercube sampling">Latin hypercube</a> <br /> <b><a href="/wiki/Repeated_measures_design" title="Repeated measures design">Repeated measures design</a></b></li>
+<li><a href="/wiki/Crossover_study" title="Crossover study">Crossover study</a></li></ul>
+<ul><li><b><a href="/wiki/Randomized_controlled_trial" title="Randomized controlled trial">Randomized controlled trial</a></b></li>
+<li><a href="/wiki/Sequential_analysis" title="Sequential analysis">Sequential analysis</a></li>
+<li><a href="/wiki/Sequential_probability_ratio_test" title="Sequential probability ratio test">Sequential probability ratio test</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><a href="/wiki/Glossary_of_experimental_design" title="Glossary of experimental design">Glossary</a></li>
+<li><a href="/wiki/Category:Design_of_experiments" title="Category:Design of experiments">Category</a></li>
+<li><a href="/wiki/File:Nuvola_apps_edu_mathematics_blue-p.svg" class="image"><img alt="Nuvola apps edu mathematics blue-p.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Nuvola_apps_edu_mathematics_blue-p.svg/28px-Nuvola_apps_edu_mathematics_blue-p.svg.png" decoding="async" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Nuvola_apps_edu_mathematics_blue-p.svg/42px-Nuvola_apps_edu_mathematics_blue-p.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Nuvola_apps_edu_mathematics_blue-p.svg/56px-Nuvola_apps_edu_mathematics_blue-p.svg.png 2x" data-file-width="128" data-file-height="128" /></a> <a href="/wiki/Portal:Mathematics" title="Portal:Mathematics">Mathematics&#32;portal</a></li>
+<li><a href="/wiki/Outline_of_statistics" title="Outline of statistics">Statistical outline</a></li>
+<li><a href="/wiki/List_of_statistics_articles" title="List of statistics articles">Statistical topics</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Statistics" style="padding:3px"><table class="nowraplinks hlist mw-collapsible uncollapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Statistics" title="Template:Statistics"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Statistics" title="Template talk:Statistics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Statistics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Statistics" style="font-size:114%;margin:0 4em"><a href="/wiki/Statistics" title="Statistics">Statistics</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*_Outline&amp;#10;*_Index">
+<ul><li><a href="/wiki/Outline_of_statistics" title="Outline of statistics">Outline</a></li>
+<li><a href="/wiki/List_of_statistics_articles" title="List of statistics articles">Index</a></li></ul>
+</div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Descriptive_statistics" style="font-size:114%;margin:0 4em"><a href="/wiki/Descriptive_statistics" title="Descriptive statistics">Descriptive statistics</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Continuous_probability_distribution" class="mw-redirect" title="Continuous probability distribution">Continuous data</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Central_tendency" title="Central tendency">Center</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Mean" title="Mean">Mean</a>
+<ul><li><a href="/wiki/Arithmetic_mean" title="Arithmetic mean">arithmetic</a></li>
+<li><a href="/wiki/Geometric_mean" title="Geometric mean">geometric</a></li>
+<li><a href="/wiki/Harmonic_mean" title="Harmonic mean">harmonic</a></li></ul></li>
+<li><a href="/wiki/Median" title="Median">Median</a></li>
+<li><a href="/wiki/Mode_(statistics)" title="Mode (statistics)">Mode</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Statistical_dispersion" title="Statistical dispersion">Dispersion</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Variance#Sample_variance" title="Variance">Variance</a></li>
+<li><a href="/wiki/Standard_deviation" title="Standard deviation">Standard deviation</a></li>
+<li><a href="/wiki/Coefficient_of_variation" title="Coefficient of variation">Coefficient of variation</a></li>
+<li><a href="/wiki/Percentile" title="Percentile">Percentile</a></li>
+<li><a href="/wiki/Range_(statistics)" title="Range (statistics)">Range</a></li>
+<li><a href="/wiki/Interquartile_range" title="Interquartile range">Interquartile range</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Shape_of_the_distribution" class="mw-redirect" title="Shape of the distribution">Shape</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Central_limit_theorem" title="Central limit theorem">Central limit theorem</a></li>
+<li><a href="/wiki/Moment_(mathematics)" title="Moment (mathematics)">Moments</a>
+<ul><li><a href="/wiki/Skewness" title="Skewness">Skewness</a></li>
+<li><a href="/wiki/Kurtosis" title="Kurtosis">Kurtosis</a></li>
+<li><a href="/wiki/L-moment" title="L-moment">L-moments</a></li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Count_data" title="Count data">Count data</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Index_of_dispersion" title="Index of dispersion">Index of dispersion</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:12.5em">Summary tables</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Grouped_data" title="Grouped data">Grouped data</a></li>
+<li><a href="/wiki/Frequency_distribution" title="Frequency distribution">Frequency distribution</a></li>
+<li><a href="/wiki/Contingency_table" title="Contingency table">Contingency table</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Correlation_and_dependence" title="Correlation and dependence">Dependence</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Pearson_correlation_coefficient" title="Pearson correlation coefficient">Pearson product-moment correlation</a></li>
+<li><a href="/wiki/Rank_correlation" title="Rank correlation">Rank correlation</a>
+<ul><li><a href="/wiki/Spearman%27s_rank_correlation_coefficient" title="Spearman&#39;s rank correlation coefficient">Spearman's ρ</a></li>
+<li><a href="/wiki/Kendall_rank_correlation_coefficient" title="Kendall rank correlation coefficient">Kendall's τ</a></li></ul></li>
+<li><a href="/wiki/Partial_correlation" title="Partial correlation">Partial correlation</a></li>
+<li><a href="/wiki/Scatter_plot" title="Scatter plot">Scatter plot</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Statistical_graphics" title="Statistical graphics">Graphics</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bar_chart" title="Bar chart">Bar chart</a></li>
+<li><a href="/wiki/Biplot" title="Biplot">Biplot</a></li>
+<li><a href="/wiki/Box_plot" title="Box plot">Box plot</a></li>
+<li><a href="/wiki/Control_chart" title="Control chart">Control chart</a></li>
+<li><a href="/wiki/Correlogram" title="Correlogram">Correlogram</a></li>
+<li><a href="/wiki/Fan_chart_(statistics)" title="Fan chart (statistics)">Fan chart</a></li>
+<li><a href="/wiki/Forest_plot" title="Forest plot">Forest plot</a></li>
+<li><a href="/wiki/Histogram" title="Histogram">Histogram</a></li>
+<li><a href="/wiki/Pie_chart" title="Pie chart">Pie chart</a></li>
+<li><a href="/wiki/Q%E2%80%93Q_plot" title="Q–Q plot">Q–Q plot</a></li>
+<li><a href="/wiki/Run_chart" title="Run chart">Run chart</a></li>
+<li><a href="/wiki/Scatter_plot" title="Scatter plot">Scatter plot</a></li>
+<li><a href="/wiki/Stem-and-leaf_display" title="Stem-and-leaf display">Stem-and-leaf display</a></li>
+<li><a href="/wiki/Radar_chart" title="Radar chart">Radar chart</a></li>
+<li><a href="/wiki/Violin_plot" title="Violin plot">Violin plot</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Data_collection" style="font-size:114%;margin:0 4em"><a href="/wiki/Data_collection" title="Data collection">Data collection</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Design_of_experiments" title="Design of experiments">Study design</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Population_(statistics)" class="mw-redirect" title="Population (statistics)">Population</a></li>
+<li><a href="/wiki/Statistic" title="Statistic">Statistic</a></li>
+<li><a href="/wiki/Effect_size" title="Effect size">Effect size</a></li>
+<li><a href="/wiki/Statistical_power" class="mw-redirect" title="Statistical power">Statistical power</a></li>
+<li><a href="/wiki/Optimal_design" title="Optimal design">Optimal design</a></li>
+<li><a href="/wiki/Sample_size_determination" title="Sample size determination">Sample size determination</a></li>
+<li><a href="/wiki/Replication_(statistics)" title="Replication (statistics)">Replication</a></li>
+<li><a href="/wiki/Missing_data" title="Missing data">Missing data</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Survey_methodology" title="Survey methodology">Survey methodology</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Sampling_(statistics)" title="Sampling (statistics)">Sampling</a>
+<ul><li><a href="/wiki/Stratified_sampling" title="Stratified sampling">stratified</a></li>
+<li><a href="/wiki/Cluster_sampling" title="Cluster sampling">cluster</a></li></ul></li>
+<li><a href="/wiki/Standard_error" title="Standard error">Standard error</a></li>
+<li><a href="/wiki/Opinion_poll" title="Opinion poll">Opinion poll</a></li>
+<li><a href="/wiki/Questionnaire" title="Questionnaire">Questionnaire</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Experiment" title="Experiment">Controlled experiments</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Scientific_control" title="Scientific control">Scientific control</a></li>
+<li><a href="/wiki/Randomized_experiment" title="Randomized experiment">Randomized experiment</a></li>
+<li><a href="/wiki/Randomized_controlled_trial" title="Randomized controlled trial">Randomized controlled trial</a></li>
+<li><a href="/wiki/Random_assignment" title="Random assignment">Random assignment</a></li>
+<li><a href="/wiki/Blocking_(statistics)" title="Blocking (statistics)">Blocking</a></li>
+<li><a href="/wiki/Interaction_(statistics)" title="Interaction (statistics)">Interaction</a></li>
+<li><a href="/wiki/Factorial_experiment" title="Factorial experiment">Factorial experiment</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:12.5em">Adaptive Designs</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Adaptive_clinical_trial" title="Adaptive clinical trial">Adaptive clinical trial</a></li>
+<li><a href="/wiki/Up-and-Down_Designs" title="Up-and-Down Designs">Up-and-Down Designs</a></li>
+<li><a href="/wiki/Stochastic_approximation" title="Stochastic approximation">Stochastic approximation</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Observational_study" title="Observational study">Observational Studies</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Cross-sectional_study" title="Cross-sectional study">Cross-sectional study</a></li>
+<li><a href="/wiki/Cohort_study" title="Cohort study">Cohort study</a></li>
+<li><a href="/wiki/Natural_experiment" title="Natural experiment">Natural experiment</a></li>
+<li><a href="/wiki/Quasi-experiment" title="Quasi-experiment">Quasi-experiment</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Statistical_inference" style="font-size:114%;margin:0 4em"><a href="/wiki/Statistical_inference" title="Statistical inference">Statistical inference</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Statistical_theory" title="Statistical theory">Statistical theory</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Population_(statistics)" class="mw-redirect" title="Population (statistics)">Population</a></li>
+<li><a href="/wiki/Statistic" title="Statistic">Statistic</a></li>
+<li><a href="/wiki/Probability_distribution" title="Probability distribution">Probability distribution</a></li>
+<li><a href="/wiki/Sampling_distribution" title="Sampling distribution">Sampling distribution</a>
+<ul><li><a href="/wiki/Order_statistic" title="Order statistic">Order statistic</a></li></ul></li>
+<li><a href="/wiki/Empirical_distribution_function" title="Empirical distribution function">Empirical distribution</a>
+<ul><li><a href="/wiki/Density_estimation" title="Density estimation">Density estimation</a></li></ul></li>
+<li><a href="/wiki/Statistical_model" title="Statistical model">Statistical model</a>
+<ul><li><a href="/wiki/Model_specification" class="mw-redirect" title="Model specification">Model specification</a></li>
+<li><a href="/wiki/Lp_space" title="Lp space">L<sup><i>p</i></sup> space</a></li></ul></li>
+<li><a href="/wiki/Statistical_parameter" title="Statistical parameter">Parameter</a>
+<ul><li><a href="/wiki/Location_parameter" title="Location parameter">location</a></li>
+<li><a href="/wiki/Scale_parameter" title="Scale parameter">scale</a></li>
+<li><a href="/wiki/Shape_parameter" title="Shape parameter">shape</a></li></ul></li>
+<li><a href="/wiki/Parametric_statistics" title="Parametric statistics">Parametric family</a>
+<ul><li><a href="/wiki/Likelihood_function" title="Likelihood function">Likelihood</a>&#160;<a href="/wiki/Monotone_likelihood_ratio" title="Monotone likelihood ratio"><span style="font-size:85%;">(monotone)</span></a></li>
+<li><a href="/wiki/Location%E2%80%93scale_family" title="Location–scale family">Location–scale family</a></li>
+<li><a href="/wiki/Exponential_family" title="Exponential family">Exponential family</a></li></ul></li>
+<li><a href="/wiki/Completeness_(statistics)" title="Completeness (statistics)">Completeness</a></li>
+<li><a href="/wiki/Sufficient_statistic" title="Sufficient statistic">Sufficiency</a></li>
+<li><a href="/wiki/Plug-in_principle" title="Plug-in principle">Statistical functional</a>
+<ul><li><a href="/wiki/Bootstrapping_(statistics)" title="Bootstrapping (statistics)">Bootstrap</a></li>
+<li><a href="/wiki/U-statistic" title="U-statistic">U</a></li>
+<li><a href="/wiki/V-statistic" title="V-statistic">V</a></li></ul></li>
+<li><a href="/wiki/Optimal_decision" title="Optimal decision">Optimal decision</a>
+<ul><li><a href="/wiki/Loss_function" title="Loss function">loss function</a></li></ul></li>
+<li><a href="/wiki/Efficiency_(statistics)" title="Efficiency (statistics)">Efficiency</a></li>
+<li><a href="/wiki/Statistical_distance" title="Statistical distance">Statistical distance</a>
+<ul><li><a href="/wiki/Divergence_(statistics)" title="Divergence (statistics)">divergence</a></li></ul></li>
+<li><a href="/wiki/Asymptotic_theory_(statistics)" title="Asymptotic theory (statistics)">Asymptotics</a></li>
+<li><a href="/wiki/Robust_statistics" title="Robust statistics">Robustness</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Frequentist_inference" title="Frequentist inference">Frequentist inference</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Point_estimation" title="Point estimation">Point estimation</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Estimating_equations" title="Estimating equations">Estimating equations</a>
+<ul><li><a href="/wiki/Maximum_likelihood" class="mw-redirect" title="Maximum likelihood">Maximum likelihood</a></li>
+<li><a href="/wiki/Method_of_moments_(statistics)" title="Method of moments (statistics)">Method of moments</a></li>
+<li><a href="/wiki/M-estimator" title="M-estimator">M-estimator</a></li>
+<li><a href="/wiki/Minimum_distance_estimation" title="Minimum distance estimation">Minimum distance</a></li></ul></li>
+<li><a href="/wiki/Bias_of_an_estimator" title="Bias of an estimator">Unbiased estimators</a>
+<ul><li><a href="/wiki/Minimum-variance_unbiased_estimator" title="Minimum-variance unbiased estimator">Mean-unbiased minimum-variance</a>
+<ul><li><a href="/wiki/Rao%E2%80%93Blackwell_theorem" title="Rao–Blackwell theorem">Rao–Blackwellization</a></li>
+<li><a href="/wiki/Lehmann%E2%80%93Scheff%C3%A9_theorem" title="Lehmann–Scheffé theorem">Lehmann–Scheffé theorem</a></li></ul></li>
+<li><a href="/wiki/Median-unbiased_estimator" class="mw-redirect" title="Median-unbiased estimator">Median unbiased</a></li></ul></li>
+<li><a href="/wiki/Plug-in_principle" title="Plug-in principle">Plug-in</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Interval_estimation" title="Interval estimation">Interval estimation</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Confidence_interval" title="Confidence interval">Confidence interval</a></li>
+<li><a href="/wiki/Pivotal_quantity" title="Pivotal quantity">Pivot</a></li>
+<li><a href="/wiki/Likelihood_interval" class="mw-redirect" title="Likelihood interval">Likelihood interval</a></li>
+<li><a href="/wiki/Prediction_interval" title="Prediction interval">Prediction interval</a></li>
+<li><a href="/wiki/Tolerance_interval" title="Tolerance interval">Tolerance interval</a></li>
+<li><a href="/wiki/Resampling_(statistics)" title="Resampling (statistics)">Resampling</a>
+<ul><li><a href="/wiki/Bootstrapping_(statistics)" title="Bootstrapping (statistics)">Bootstrap</a></li>
+<li><a href="/wiki/Jackknife_resampling" title="Jackknife resampling">Jackknife</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Statistical_hypothesis_testing" title="Statistical hypothesis testing">Testing hypotheses</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/One-_and_two-tailed_tests" title="One- and two-tailed tests">1- &amp; 2-tails</a></li>
+<li><a href="/wiki/Power_(statistics)" title="Power (statistics)">Power</a>
+<ul><li><a href="/wiki/Uniformly_most_powerful_test" title="Uniformly most powerful test">Uniformly most powerful test</a></li></ul></li>
+<li><a href="/wiki/Permutation_test" class="mw-redirect" title="Permutation test">Permutation test</a>
+<ul><li><a href="/wiki/Randomization_test" class="mw-redirect" title="Randomization test">Randomization test</a></li></ul></li>
+<li><a href="/wiki/Multiple_comparisons" class="mw-redirect" title="Multiple comparisons">Multiple comparisons</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Parametric_statistics" title="Parametric statistics">Parametric tests</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Likelihood-ratio_test" title="Likelihood-ratio test">Likelihood-ratio</a></li>
+<li><a href="/wiki/Score_test" title="Score test">Score/Lagrange multiplier</a></li>
+<li><a href="/wiki/Wald_test" title="Wald test">Wald</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:12.5em">Specific tests</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Z-test" title="Z-test"><i>Z</i>-test <span style="font-size:90%;">(normal)</span></a></li>
+<li><a href="/wiki/Student%27s_t-test" title="Student&#39;s t-test">Student's <i>t</i>-test</a></li>
+<li><a href="/wiki/F-test" title="F-test"><i>F</i>-test</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Goodness_of_fit" title="Goodness of fit">Goodness of fit</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Chi-squared_test" title="Chi-squared test">Chi-squared</a></li>
+<li><a href="/wiki/G-test" title="G-test"><i>G</i>-test</a></li>
+<li><a href="/wiki/Kolmogorov%E2%80%93Smirnov_test" title="Kolmogorov–Smirnov test">Kolmogorov–Smirnov</a></li>
+<li><a href="/wiki/Anderson%E2%80%93Darling_test" title="Anderson–Darling test">Anderson–Darling</a></li>
+<li><a href="/wiki/Lilliefors_test" title="Lilliefors test">Lilliefors</a></li>
+<li><a href="/wiki/Jarque%E2%80%93Bera_test" title="Jarque–Bera test">Jarque–Bera</a></li>
+<li><a href="/wiki/Shapiro%E2%80%93Wilk_test" title="Shapiro–Wilk test">Normality <span style="font-size:90%;">(Shapiro–Wilk)</span></a></li>
+<li><a href="/wiki/Likelihood-ratio_test" title="Likelihood-ratio test">Likelihood-ratio test</a></li>
+<li><a href="/wiki/Model_selection" title="Model selection">Model selection</a>
+<ul><li><a href="/wiki/Cross-validation_(statistics)" title="Cross-validation (statistics)">Cross validation</a></li>
+<li><a href="/wiki/Akaike_information_criterion" title="Akaike information criterion">AIC</a></li>
+<li><a href="/wiki/Bayesian_information_criterion" title="Bayesian information criterion">BIC</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Rank_statistics" class="mw-redirect" title="Rank statistics">Rank statistics</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Sign_test" title="Sign test">Sign</a>
+<ul><li><a href="/wiki/Sample_median" class="mw-redirect" title="Sample median">Sample median</a></li></ul></li>
+<li><a href="/wiki/Wilcoxon_signed-rank_test" title="Wilcoxon signed-rank test">Signed rank <span style="font-size:90%;">(Wilcoxon)</span></a>
+<ul><li><a href="/wiki/Hodges%E2%80%93Lehmann_estimator" title="Hodges–Lehmann estimator">Hodges–Lehmann estimator</a></li></ul></li>
+<li><a href="/wiki/Mann%E2%80%93Whitney_U_test" title="Mann–Whitney U test">Rank sum <span style="font-size:90%;">(Mann–Whitney)</span></a></li>
+<li><a href="/wiki/Nonparametric_statistics" title="Nonparametric statistics">Nonparametric</a> <a href="/wiki/Analysis_of_variance" title="Analysis of variance">anova</a>
+<ul><li><a href="/wiki/Kruskal%E2%80%93Wallis_one-way_analysis_of_variance" title="Kruskal–Wallis one-way analysis of variance">1-way <span style="font-size:90%;">(Kruskal–Wallis)</span></a></li>
+<li><a href="/wiki/Friedman_test" title="Friedman test">2-way <span style="font-size:90%;">(Friedman)</span></a></li>
+<li><a href="/wiki/Jonckheere%27s_trend_test" title="Jonckheere&#39;s trend test">Ordered alternative <span style="font-size:90%;">(Jonckheere–Terpstra)</span></a></li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Bayesian_inference" title="Bayesian inference">Bayesian inference</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bayesian_probability" title="Bayesian probability">Bayesian probability</a>
+<ul><li><a href="/wiki/Prior_probability" title="Prior probability">prior</a></li>
+<li><a href="/wiki/Posterior_probability" title="Posterior probability">posterior</a></li></ul></li>
+<li><a href="/wiki/Credible_interval" title="Credible interval">Credible interval</a></li>
+<li><a href="/wiki/Bayes_factor" title="Bayes factor">Bayes factor</a></li>
+<li><a href="/wiki/Bayes_estimator" title="Bayes estimator">Bayesian estimator</a>
+<ul><li><a href="/wiki/Maximum_a_posteriori_estimation" title="Maximum a posteriori estimation">Maximum posterior estimator</a></li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="CorrelationRegression_analysis" style="font-size:114%;margin:0 4em"><div class="hlist hlist-separated"><ul><li><a href="/wiki/Correlation_and_dependence" title="Correlation and dependence">Correlation</a></li><li><a href="/wiki/Regression_analysis" title="Regression analysis">Regression analysis</a></li></ul></div></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Correlation_and_dependence" title="Correlation and dependence">Correlation</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Pearson_product-moment_correlation_coefficient" class="mw-redirect" title="Pearson product-moment correlation coefficient">Pearson product-moment</a></li>
+<li><a href="/wiki/Partial_correlation" title="Partial correlation">Partial correlation</a></li>
+<li><a href="/wiki/Confounding" title="Confounding">Confounding variable</a></li>
+<li><a href="/wiki/Coefficient_of_determination" title="Coefficient of determination">Coefficient of determination</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Regression_analysis" title="Regression analysis">Regression analysis</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Errors_and_residuals_in_statistics" class="mw-redirect" title="Errors and residuals in statistics">Errors and residuals</a></li>
+<li><a href="/wiki/Regression_validation" title="Regression validation">Regression validation</a></li>
+<li><a href="/wiki/Mixed_model" title="Mixed model">Mixed effects models</a></li>
+<li><a href="/wiki/Simultaneous_equations_model" title="Simultaneous equations model">Simultaneous equations models</a></li>
+<li><a href="/wiki/Multivariate_adaptive_regression_splines" class="mw-redirect" title="Multivariate adaptive regression splines">Multivariate adaptive regression splines (MARS)</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Linear_regression" title="Linear regression">Linear regression</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Simple_linear_regression" title="Simple linear regression">Simple linear regression</a></li>
+<li><a href="/wiki/Ordinary_least_squares" title="Ordinary least squares">Ordinary least squares</a></li>
+<li><a href="/wiki/General_linear_model" title="General linear model">General linear model</a></li>
+<li><a href="/wiki/Bayesian_linear_regression" title="Bayesian linear regression">Bayesian regression</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:12.5em">Non-standard predictors</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Nonlinear_regression" title="Nonlinear regression">Nonlinear regression</a></li>
+<li><a href="/wiki/Nonparametric_regression" title="Nonparametric regression">Nonparametric</a></li>
+<li><a href="/wiki/Semiparametric_regression" title="Semiparametric regression">Semiparametric</a></li>
+<li><a href="/wiki/Isotonic_regression" title="Isotonic regression">Isotonic</a></li>
+<li><a href="/wiki/Robust_regression" title="Robust regression">Robust</a></li>
+<li><a href="/wiki/Heteroscedasticity" title="Heteroscedasticity">Heteroscedasticity</a></li>
+<li><a href="/wiki/Homoscedasticity" title="Homoscedasticity">Homoscedasticity</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Generalized_linear_model" title="Generalized linear model">Generalized linear model</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Exponential_family" title="Exponential family">Exponential families</a></li>
+<li><a href="/wiki/Logistic_regression" title="Logistic regression">Logistic <span style="font-size:90%;">(Bernoulli)</span></a>&#160;/&#32;<a href="/wiki/Binomial_regression" title="Binomial regression">Binomial</a>&#160;/&#32;<a href="/wiki/Poisson_regression" title="Poisson regression">Poisson regressions</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Partition_of_sums_of_squares" title="Partition of sums of squares">Partition of variance</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Analysis_of_variance" title="Analysis of variance">Analysis of variance (ANOVA, anova)</a></li>
+<li><a href="/wiki/Analysis_of_covariance" title="Analysis of covariance">Analysis of covariance</a></li>
+<li><a href="/wiki/Multivariate_analysis_of_variance" title="Multivariate analysis of variance">Multivariate ANOVA</a></li>
+<li><a href="/wiki/Degrees_of_freedom_(statistics)" title="Degrees of freedom (statistics)">Degrees of freedom</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Categorical_/_Multivariate_/_Time-series_/_Survival_analysis" style="font-size:114%;margin:0 4em"><a href="/wiki/Categorical_variable" title="Categorical variable">Categorical</a>&#160;/&#32;<a href="/wiki/Multivariate_statistics" title="Multivariate statistics">Multivariate</a>&#160;/&#32;<a href="/wiki/Time_series" title="Time series">Time-series</a>&#160;/&#32;<a href="/wiki/Survival_analysis" title="Survival analysis">Survival analysis</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Categorical_variable" title="Categorical variable">Categorical</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Cohen%27s_kappa" title="Cohen&#39;s kappa">Cohen's kappa</a></li>
+<li><a href="/wiki/Contingency_table" title="Contingency table">Contingency table</a></li>
+<li><a href="/wiki/Graphical_model" title="Graphical model">Graphical model</a></li>
+<li><a href="/wiki/Poisson_regression" title="Poisson regression">Log-linear model</a></li>
+<li><a href="/wiki/McNemar%27s_test" title="McNemar&#39;s test">McNemar's test</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Multivariate_statistics" title="Multivariate statistics">Multivariate</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/General_linear_model" title="General linear model">Regression</a></li>
+<li><a href="/wiki/Multivariate_analysis_of_variance" title="Multivariate analysis of variance">Manova</a></li>
+<li><a href="/wiki/Principal_component_analysis" title="Principal component analysis">Principal components</a></li>
+<li><a href="/wiki/Canonical_correlation" title="Canonical correlation">Canonical correlation</a></li>
+<li><a href="/wiki/Linear_discriminant_analysis" title="Linear discriminant analysis">Discriminant analysis</a></li>
+<li><a href="/wiki/Cluster_analysis" title="Cluster analysis">Cluster analysis</a></li>
+<li><a href="/wiki/Statistical_classification" title="Statistical classification">Classification</a></li>
+<li><a href="/wiki/Structural_equation_modeling" title="Structural equation modeling">Structural equation model</a>
+<ul><li><a href="/wiki/Factor_analysis" title="Factor analysis">Factor analysis</a></li></ul></li>
+<li><a href="/wiki/Multivariate_distribution" class="mw-redirect" title="Multivariate distribution">Multivariate distributions</a>
+<ul><li><a href="/wiki/Elliptical_distribution" title="Elliptical distribution">Elliptical distributions</a>
+<ul><li><a href="/wiki/Multivariate_normal_distribution" title="Multivariate normal distribution">Normal</a></li></ul></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Time_series" title="Time series">Time-series</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;">General</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Decomposition_of_time_series" title="Decomposition of time series">Decomposition</a></li>
+<li><a href="/wiki/Trend_estimation" class="mw-redirect" title="Trend estimation">Trend</a></li>
+<li><a href="/wiki/Stationary_process" title="Stationary process">Stationarity</a></li>
+<li><a href="/wiki/Seasonal_adjustment" title="Seasonal adjustment">Seasonal adjustment</a></li>
+<li><a href="/wiki/Exponential_smoothing" title="Exponential smoothing">Exponential smoothing</a></li>
+<li><a href="/wiki/Cointegration" title="Cointegration">Cointegration</a></li>
+<li><a href="/wiki/Structural_break" title="Structural break">Structural break</a></li>
+<li><a href="/wiki/Granger_causality" title="Granger causality">Granger causality</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;">Specific tests</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Dickey%E2%80%93Fuller_test" title="Dickey–Fuller test">Dickey–Fuller</a></li>
+<li><a href="/wiki/Johansen_test" title="Johansen test">Johansen</a></li>
+<li><a href="/wiki/Ljung%E2%80%93Box_test" title="Ljung–Box test">Q-statistic <span style="font-size:90%;">(Ljung–Box)</span></a></li>
+<li><a href="/wiki/Durbin%E2%80%93Watson_statistic" title="Durbin–Watson statistic">Durbin–Watson</a></li>
+<li><a href="/wiki/Breusch%E2%80%93Godfrey_test" title="Breusch–Godfrey test">Breusch–Godfrey</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Time_domain" title="Time domain">Time domain</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Autocorrelation" title="Autocorrelation">Autocorrelation (ACF)</a>
+<ul><li><a href="/wiki/Partial_autocorrelation_function" title="Partial autocorrelation function">partial (PACF)</a></li></ul></li>
+<li><a href="/wiki/Cross-correlation" title="Cross-correlation">Cross-correlation (XCF)</a></li>
+<li><a href="/wiki/Autoregressive%E2%80%93moving-average_model" title="Autoregressive–moving-average model">ARMA model</a></li>
+<li><a href="/wiki/Box%E2%80%93Jenkins_method" title="Box–Jenkins method">ARIMA model <span style="font-size:90%;">(Box–Jenkins)</span></a></li>
+<li><a href="/wiki/Autoregressive_conditional_heteroskedasticity" title="Autoregressive conditional heteroskedasticity">Autoregressive conditional heteroskedasticity (ARCH)</a></li>
+<li><a href="/wiki/Vector_autoregression" title="Vector autoregression">Vector autoregression (VAR)</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Frequency_domain" title="Frequency domain">Frequency domain</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Spectral_density_estimation" title="Spectral density estimation">Spectral density estimation</a></li>
+<li><a href="/wiki/Fourier_analysis" title="Fourier analysis">Fourier analysis</a></li>
+<li><a href="/wiki/Wavelet" title="Wavelet">Wavelet</a></li>
+<li><a href="/wiki/Whittle_likelihood" title="Whittle likelihood">Whittle likelihood</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Survival_analysis" title="Survival analysis">Survival</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Survival_function" title="Survival function">Survival function</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Kaplan%E2%80%93Meier_estimator" title="Kaplan–Meier estimator">Kaplan–Meier estimator (product limit)</a></li>
+<li><a href="/wiki/Proportional_hazards_model" title="Proportional hazards model">Proportional hazards models</a></li>
+<li><a href="/wiki/Accelerated_failure_time_model" title="Accelerated failure time model">Accelerated failure time (AFT) model</a></li>
+<li><a href="/wiki/First-hitting-time_model" title="First-hitting-time model">First hitting time</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Failure_rate" title="Failure rate">Hazard function</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Nelson%E2%80%93Aalen_estimator" title="Nelson–Aalen estimator">Nelson–Aalen estimator</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;">Test</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Log-rank_test" class="mw-redirect" title="Log-rank test">Log-rank test</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Applications" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_fields_of_application_of_statistics" title="List of fields of application of statistics">Applications</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Biostatistics" title="Biostatistics">Biostatistics</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bioinformatics" title="Bioinformatics">Bioinformatics</a></li>
+<li><a href="/wiki/Clinical_trial" title="Clinical trial">Clinical trials</a>&#160;/&#32;<a href="/wiki/Clinical_study_design" title="Clinical study design">studies</a></li>
+<li><a href="/wiki/Epidemiology" title="Epidemiology">Epidemiology</a></li>
+<li><a href="/wiki/Medical_statistics" title="Medical statistics">Medical statistics</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Engineering_statistics" title="Engineering statistics">Engineering statistics</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Chemometrics" title="Chemometrics">Chemometrics</a></li>
+<li><a href="/wiki/Methods_engineering" title="Methods engineering">Methods engineering</a></li>
+<li><a href="/wiki/Probabilistic_design" title="Probabilistic design">Probabilistic design</a></li>
+<li><a href="/wiki/Statistical_process_control" title="Statistical process control">Process</a>&#160;/&#32;<a href="/wiki/Quality_control" title="Quality control">quality control</a></li>
+<li><a href="/wiki/Reliability_engineering" title="Reliability engineering">Reliability</a></li>
+<li><a href="/wiki/System_identification" title="System identification">System identification</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Social_statistics" title="Social statistics">Social statistics</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Actuarial_science" title="Actuarial science">Actuarial science</a></li>
+<li><a href="/wiki/Census" title="Census">Census</a></li>
+<li><a href="/wiki/Crime_statistics" title="Crime statistics">Crime statistics</a></li>
+<li><a href="/wiki/Demographic_statistics" title="Demographic statistics">Demography</a></li>
+<li><a href="/wiki/Econometrics" title="Econometrics">Econometrics</a></li>
+<li><a href="/wiki/Jurimetrics" title="Jurimetrics">Jurimetrics</a></li>
+<li><a href="/wiki/National_accounts" title="National accounts">National accounts</a></li>
+<li><a href="/wiki/Official_statistics" title="Official statistics">Official statistics</a></li>
+<li><a href="/wiki/Population_statistics" class="mw-redirect" title="Population statistics">Population statistics</a></li>
+<li><a href="/wiki/Psychometrics" title="Psychometrics">Psychometrics</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Spatial_analysis" title="Spatial analysis">Spatial statistics</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Cartography" title="Cartography">Cartography</a></li>
+<li><a href="/wiki/Environmental_statistics" title="Environmental statistics">Environmental statistics</a></li>
+<li><a href="/wiki/Geographic_information_system" title="Geographic information system">Geographic information system</a></li>
+<li><a href="/wiki/Geostatistics" title="Geostatistics">Geostatistics</a></li>
+<li><a href="/wiki/Kriging" title="Kriging">Kriging</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" decoding="async" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /><b><a href="/wiki/Category:Statistics" title="Category:Statistics">Category</a></b></li>
+<li><b><a href="/wiki/File:Nuvola_apps_edu_mathematics_blue-p.svg" class="image"><img alt="Nuvola apps edu mathematics blue-p.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Nuvola_apps_edu_mathematics_blue-p.svg/28px-Nuvola_apps_edu_mathematics_blue-p.svg.png" decoding="async" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Nuvola_apps_edu_mathematics_blue-p.svg/42px-Nuvola_apps_edu_mathematics_blue-p.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Nuvola_apps_edu_mathematics_blue-p.svg/56px-Nuvola_apps_edu_mathematics_blue-p.svg.png 2x" data-file-width="128" data-file-height="128" /></a> <a href="/wiki/Portal:Mathematics" title="Portal:Mathematics">Mathematics&#32;portal</a></b></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" decoding="async" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /><b><a href="https://commons.wikimedia.org/wiki/Category:Statistics" class="extiw" title="commons:Category:Statistics">Commons</a></b></li>
+<li><img alt="WikiProject" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/16px-People_icon.svg.png" decoding="async" title="WikiProject" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/24px-People_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/32px-People_icon.svg.png 2x" data-file-width="100" data-file-height="100" /> <b><a href="/wiki/Wikipedia:WikiProject_Statistics" title="Wikipedia:WikiProject Statistics">WikiProject</a></b></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1267
+Cached time: 20200202050118
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.808 seconds
+Real time usage: 1.159 seconds
+Preprocessor visited node count: 2401/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 212453/2097152 bytes
+Template argument size: 2556/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 11/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 53350/5000000 bytes
+Number of Wikibase entities loaded: 7/400
+Lua time usage: 0.416/10.000 seconds
+Lua memory usage: 6.69 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  881.794      1 -total
+ 56.24%  495.927      1 Template:Reflist
+ 40.44%  356.620     13 Template:Cite_journal
+ 14.41%  127.081     12 Template:Navbox
+ 13.16%  116.043      1 Template:Statistics
+ 12.65%  111.565      1 Template:Navbox_with_collapsible_groups
+ 11.17%   98.468      2 Template:Cite_book
+  9.82%   86.581      3 Template:Citation_needed
+  8.68%   76.553      3 Template:Fix
+  5.68%   50.044      6 Template:Category_handler
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:9444220-0!canonical!math=5 and timestamp 20200202050117 and revision id 933687048
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Multiple_comparisons_problem&amp;oldid=933687048">https://en.wikipedia.org/w/index.php?title=Multiple_comparisons_problem&amp;oldid=933687048</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Statistical_hypothesis_testing" title="Category:Statistical hypothesis testing">Statistical hypothesis testing</a></li><li><a href="/wiki/Category:Multiple_comparisons" title="Category:Multiple comparisons">Multiple comparisons</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_multiple_names:_authors_list" title="Category:CS1 maint: multiple names: authors list">CS1 maint: multiple names: authors list</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_June_2016" title="Category:Articles with unsourced statements from June 2016">Articles with unsourced statements from June 2016</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_August_2012" title="Category:Articles with unsourced statements from August 2012">Articles with unsourced statements from August 2012</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_January_2012" title="Category:Articles with unsourced statements from January 2012">Articles with unsourced statements from January 2012</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+				
+
+<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Personal tools</h3>
+	<ul >
+		
+		<li id="pt-anonuserpage">Not logged in</li>
+		<li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Multiple+comparisons+problem" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Multiple+comparisons+problem" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+				<div id="left-navigation">
+					
+<div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul >
+		<li id="ca-nstab-main" class="selected"><a href="/wiki/Multiple_comparisons_problem" title="View the content page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Talk:Multiple_comparisons_problem" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></li>
+	</ul>
+</div>
+		<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+			<h3 id="p-variants-label">
+				<span>Variants</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+					
+<div id="p-views" role="navigation" class="vectorTabs " aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Views</h3>
+	<ul >
+		<li id="ca-view" class="collapsible selected"><a href="/wiki/Multiple_comparisons_problem">Read</a></li><li id="ca-edit" class="collapsible"><a href="/w/index.php?title=Multiple_comparisons_problem&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history" class="collapsible"><a href="/w/index.php?title=Multiple_comparisons_problem&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+	</ul>
+</div>
+		<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+			<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+			<h3 id="p-cactions-label"><span>More</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		
+<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" value="Special:Search" name="title"/>
+			
+			<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Wikipedia:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Multiple_comparisons_problem" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Multiple_comparisons_problem" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Multiple_comparisons_problem&amp;oldid=933687048" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Multiple_comparisons_problem&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1038757" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Multiple_comparisons_problem&amp;id=933687048" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Multiple+comparisons+problem">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Multiple+comparisons+problem&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Multiple_comparisons_problem&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Alphafehler-Kumulierung" title="Alphafehler-Kumulierung – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%85%D9%82%D8%A7%DB%8C%D8%B3%D9%87_%DA%86%D9%86%D8%AF%DA%AF%D8%A7%D9%86%D9%87" title="مقایسه چندگانه – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%8B%A4%EC%A4%91_%EB%B9%84%EA%B5%90" title="다중 비교 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%91%D7%A2%D7%99%D7%99%D7%AA_%D7%94%D7%94%D7%A9%D7%95%D7%95%D7%90%D7%95%D7%AA_%D7%94%D7%9E%D7%A8%D7%95%D7%91%D7%95%D7%AA" title="בעיית ההשוואות המרובות – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Kanskapitalisatie" title="Kanskapitalisatie – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Problem_por%C3%B3wna%C5%84_wielokrotnych" title="Problem porównań wielokrotnych – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-ru badge-Q17559452 badge-recommendedarticle" title="recommended article"><a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0_%D0%BD%D0%B0_%D0%BC%D0%BD%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D1%83_%D0%B3%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%B7" title="Поправка на множественную проверку гипотез – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Bonferroni-Holms_metod" title="Bonferroni-Holms metod – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%A4%9A%E9%87%8D%E6%AF%94%E8%BC%83%E8%AC%AC%E8%AA%A4" title="多重比較謬誤 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1038757#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 2 January 2020, at 13:49<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Multiple_comparisons_problem&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.808","walltime":"1.159","ppvisitednodes":{"value":2401,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":212453,"limit":2097152},"templateargumentsize":{"value":2556,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":11,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":53350,"limit":5000000},"entityaccesscount":{"value":7,"limit":400},"timingprofile":["100.00%  881.794      1 -total"," 56.24%  495.927      1 Template:Reflist"," 40.44%  356.620     13 Template:Cite_journal"," 14.41%  127.081     12 Template:Navbox"," 13.16%  116.043      1 Template:Statistics"," 12.65%  111.565      1 Template:Navbox_with_collapsible_groups"," 11.17%   98.468      2 Template:Cite_book","  9.82%   86.581      3 Template:Citation_needed","  8.68%   76.553      3 Template:Fix","  5.68%   50.044      6 Template:Category_handler"]},"scribunto":{"limitreport-timeusage":{"value":"0.416","limit":"10.000"},"limitreport-memusage":{"value":7015262,"limit":52428800},"limitreport-logs":"table#1 {\n}\ntable#1 {\n}\n"},"cachereport":{"origin":"mw1267","timestamp":"20200202050118","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Multiple comparisons problem","url":"https:\/\/en.wikipedia.org\/wiki\/Multiple_comparisons_problem","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1038757","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1038757","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-01-01T14:26:04Z","dateModified":"2020-01-02T13:49:46Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/0\/0c\/Spurious_correlations_-_spelling_bee_spiders.svg"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":145,"wgHostname":"mw1274"});});</script>
+</body>
+</html>
