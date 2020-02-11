@@ -12,11 +12,11 @@ contIteraciones=0
 while maximoPuntaje < 400:
         
         if data.has_key(puntero):
-            print 'encontrado '+puntero
+            print ('encontrado '+puntero)
             datos = data[puntero]           
             datos['ranking']=str(int(datos['ranking']) + 1)
-            print "puntuacion actual "+datos['ranking']
-            print 'maximo puntaje es '+str(maximoPuntaje)
+            print ("puntuacion actual "+datos['ranking'])
+            print ('maximo puntaje es '+str(maximoPuntaje))
             if int(datos['ranking'])>maximoPuntaje:
                 maximoPuntaje=int(datos['ranking'])                
             if len(datos['enlaces'])>0:

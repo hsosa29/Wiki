@@ -22,9 +22,9 @@ def getPalabras(ruta_actual,nombre_arc_act):
       os.makedirs(carpeta)
    
     text_file=open(carpeta+'/'+nombre_arc_act+'.txt','w')
-    print texto_completo
+    print (texto_completo)
     textoSinCarEsp = texto_completo.translate ({ord(c): None for c in "↑!@#$%^&*()[]{};:,./<>?\|`~-=_+"})
-    print textoSinCarEsp
+    print (textoSinCarEsp)
         
     text_file.write(textoSinCarEsp.encode('utf-8'))
     text_file.close()
@@ -39,12 +39,12 @@ def getPalabras(ruta_actual,nombre_arc_act):
 archivo_pags=open('jsonPageRank.json','r').read()
 pageRankArchivo=json.loads(archivo_pags)
 lista_pags=list(pageRankArchivo.keys())
-print len(lista_pags)
+print (len(lista_pags))
 pags_index=0
 # Lectura de todas las páginas
 for url_act in lista_pags:
   ruta_temp = pageRankArchivo[url_act]['ruta']
-  print ruta_temp
+  print (ruta_temp)
   nombre_archivo = ruta_temp.split('pags_html/')[1]
   ruta_temp = 'pags_html/'+nombre_archivo
   calif_pags=getPalabras(ruta_temp,nombre_archivo.split('.html')[0])
