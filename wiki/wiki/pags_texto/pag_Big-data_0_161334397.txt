@@ -1,0 +1,1640 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"Los datos masivos o big data son el nuevo oro"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+eldiarioes utiliza cookies para que tengas la mejor experiencia de navegación Si sigues navegando entendemos que aceptas nuestra política de cookies
+
+OK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Hola nombreusuario
+ 
+
+
+
+Mi perfil
+
+
+Regala eldiarioes
+
+
+Preguntas frecuentes
+
+
+Cerrar sesión
+
+
+
+
+Iniciar sesión
+
+
+Hazte socio
+
+
+
+
+Síguenos
+
+Facebook
+Twitter
+Telegram
+
+Boletines
+Boletines
+
+
+
+  Menú
+
+
+
+
+
+
+Secciones
+
+
+Política
+
+
+Sociedad
+
+
+Economía
+
+
+Internacional  the Guardian
+
+
+Cultura y Tecnología
+
+
+Desalambre
+
+
+Nidos
+
+
+ConsumoClaro
+
+
+ED Creativo
+
+
+Viajes
+
+
+Motor
+
+
+Comparador de seguros
+
+
+
+
+Los Focos de eldiarioes
+
+
+
+
+Opinión y blogs
+
+
+Zona Crítica
+
+
+Escolarnet
+
+
+Tribuna Abierta
+
+
+Piedras de Papel
+
+
+Guerra Eterna
+
+
+Micromachismos
+
+
+El caballo de Nietzsche
+
+
+Tu mejor yo
+
+
+Retrones
+
+
+Interferencias
+
+
+Más blogs
+
+
+
+
+Ediciones locales
+
+
+Andalucía
+
+
+Aragón
+
+
+CastillaLa Mancha
+
+
+Catalunya
+
+
+Canarias
+
+
+Cantabria
+
+
+C Valenciana
+
+
+Euskadi
+
+
+Extremadura
+
+
+Galicia
+
+
+Madrid
+
+
+Murcia
+
+
+Navarra
+
+
+
+
+Navegamos con
+
+
+Vertele
+
+
+Time Out
+
+
+Yorokobu
+
+
+Hoja de Router
+
+
+Carne Cruda
+
+
+Kinótico
+
+
+Kioskonet
+
+
+El diario de la educación
+
+
+Canino
+
+
+Gràffica
+
+
+Revista Don
+
+
+esglobal
+
+
+Campobase
+
+
+
+
+Sobre nosotros
+
+
+¿Qué es eldiarioes
+
+
+El equipo
+
+
+Ventajas socios
+
+
+Revistas
+
+
+Danos una pista
+
+
+Regala eldiarioes
+
+
+Blog de socios
+
+
+
+
+
+
+¿No encuentras algo
+ Buscador
+
+
+
+
+Estamos aquí por ti
+Contacto
+eldiarioes responde
+FAQs
+
+
+
+
+
+
+
+
+
+
+Diario Turing
+
+
+
+
+
+
+
+
+
+Software libre
+
+
+Big Data
+
+
+Propiedad Intelectual
+
+
+Vigilancia
+
+
+Videojuegos
+
+
+Criptografía
+
+
+Empresas
+
+
+Internet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DIRECTO 
+
+
+Todas las claves de la crisis de Catalunya
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Diario Turing
+
+
+
+
+
+                    "Los datos masivos o big data son el nuevo oro"
+                
+
+Los datos masivos están presentes cada vez más en nuestras vidas y su forma de utilizarlos implica cambiar nuestra mentalidad de la causa a la correlación De todo esto de sus riesgos y de sus futuros usos hablamos con el autor de Viktor Schönberger autor del libro "Big data la revolución de los datos masivos"
+
+
+
+
+Marilín Gonzalo
+
+Follow marilink
+ Madrid
+
+
+
+23
+      Comentarios
+    
+
+
+
+05082013  
+2018h
+
+
+
+
+Compartir en Facebook
+
+
+
+
+Compartir en Twitter
+
+
+
+
+
+
+ PUBLICIDAD 
+
+
+
+
+
+
+
+	Viktor MayerSchönberger
+	
+      
+
+
+
+
+
+
+
+ Google no tenía en mente que su buscador fuera un corrector ortográfico Y aún así todos los días miles de personas teclean palabras en su página no para hacer una búsqueda sino para saber cuál es su ortografía correcta en vez de usar un diccionario Lo que probablemente no saben o sí es que están haciendo uso de una de las mayores bases de datos del lenguaje actualizadas al instante Por eso si escribes con errores lo que estás buscando el algoritmo se da cuenta y te pregunta si no quisiste decir otra cosa colocando la palabra que cree que es correcta porque muchas personas la escribieron antes que tú
+
+
+ Los datos masivos están presentes cada vez más en nuestras vidas y sin embargo apenas nos damos cuenta de sus aplicaciones Cuando empiezas a conocer cómo funcionan qué posibilidades se abren y cómo se están usando ya no puedes dejar de verlos en todas partes o mejor dicho en muchos sitios donde no te imaginabas Y te preguntas también por sus usos futuros    Cada vez que metemos una serie de letras en un recuadro utilizando un sistema llamado reCAPTCHA para indicarle a un ordenador que somos personas estamos contribuyendo a digitalizar textos Decimos a la máquina qué se lee en esa palabra que un lector digital no pudo entender El sistema presenta esa palabra a 5 personas y si coinciden todas la da por válida De esta manera hacemos útil un dato que de otra manera hubiera sido usado sólo una vez para la autenticación Pocas personas son conscientes de que cada vez que hacemos este pequeño test de Turing estamos contribuyendo a que un sistema utilizado por unas 200000 páginas web entre ellas Facebook y Twitter almacene estos datos y los utilice para escanear libros algo que por su magnitud sería muy costoso producir La idea fue del brillante  Luis von Ahn a quien entrevistamos en Diario Turing y es sólo una de las formas de utilizar datos masivos en la era del big data 
+
+
+
+
+
+
+	Big Data La revolución de los datos masivos
+	
+      
+
+
+
+  Viktor MayerSchönberger es profesor de regulación y gestión de internet en el Internet Institut de la Universidad de Oxford y uno de los expertos más reconocidos internacionalmente en el mundo de los datos masivos Su último libro es "Big data la revolución de los datos masivos" que escribió conjuntamente con otro experto Kenneth Cukier editor de datos de The Economist  Big Data A Revolution That Will Transform How We Live Work and Think puede leerse online en su versión en inglés    En este ensayo hacen una muy buena introducción al mundo del big data un concepto del que se oye mucho pero se explica poco De esta obra el mismo Lawrence Lessig ha dicho que "cada década hay un puñado de libros que cambian la forma en la que ves todo Este es uno de esos libros"    "Big Data" ilustra lo que consideran el comienzo de una era la de los datos masivos La recolección de datos comienza a ser tan barata que ya no necesitaremos establecer una muestra para estudiar un hecho de forma de encontrar conocimiento sino que podremos analizar el conjunto total de datos lo que nos permitirá establecer resultados mucho más precisos más baratos y también más inesperados Pero una correlación no es una causalidad y estamos acostumbrados a buscar causas en todo por lo que esta nueva era implica una adaptación de mentalidad Deberemos estar dispuestos a aceptar resultados basados en la correlación sin entender completamente el por qué la causa  Apenas estamos viendo el principio de sus aplicaciones como el autocorrector que sugiere palabras a medida que tecleamos el análisis de precios que hace  PriceStats para indicar las tendencias inflacionarias y que en muchos casos es más acertado que las estadísticas oficiales o  Google Flu Trends el experimento que Google puso en marcha para monitorizar personas con síntomas del virus H1N1 casi en tiempo real a través de sus búsquedas En Big Data también hablan de los riesgos la obsesión con los datos y buscar causalidad donde no la hay o de confiar en los determinismos de la predicción en casos en los que se aplican castigos o penas sin dar lugar a la posibilidad de cambio de las personas De algunas de estas cosas hablamos con uno de sus autores Viktor MayerSchönberger    MG  ¿Cuál es la que podríamos considerar la base de datos más grande actualmente   VMS  Eso es muy difícil de decir porque no podemos saber cuántos datos han acumulado los gobiernos y las grandes corporaciones pero mi corazonada es que la mayor cantidad de datos en el mundo está controlada por Google que aparentemente tiene alrededor de un millón de discos duros donde guardar datos   MG  No sé si le entiendo bien usted menciona discos duros pero ¿de qué capacidades hablamos   VMS  Sí estoy hablando de discos duros Entiendo que tienen diferentes capacidades y de hecho también en Google los tienen de distintos tamaños en tanto que son reemplazados no todos de una sola vez sino permanentemente a lo largo del tiempo Por lo tanto es imposible fijar una capacidad precisa por eso lo expresé así   MG ¿Por qué los gobiernos deberían tener bases de datos abiertas con los datos de la ciudadanía ¿Cómo puede ser esto importante para el desarrollo de un país   VMS  En la era de los datos masivos los datos son el nuevo oro Pero este nuevo oro sólo puede ser desenterrado si usamos los datos que tenemos Mucho valor permanece oculto porque los datos no son usados Tener suficientes conjuntos de datos disponibles es esencial para que las startups que se dediquen a los datos masivos puedan prosperar para que haya nuevos productos y servicios innovativos y para que en una escala más amplia pueda haber crecimiento económico 
+
+
+"Me preocupa que el análisis de datos masivos sea usado para castigar a las personas basándose en predicciones"
+
+
+ Aquí el gobierno puede proveer subsidios para estimular el emprendimiento en temas de big data y también para beneficiar a la sociedad Pero este subsidio no sería económico lo que es difícil de lograr en estos tiempos de austeridad por otro lado sino que es un subsidio en forma de datos que el gobierno ha recogido de los cuales no se está usando todo su potencial y puede poner a disposición de las compañías de datos masivos y de la sociedad en su conjunto relativamente fácil   MG  En su libro anterior usted prevenía sobre el peligro de no ser capaz de olvidar cada detalle en cuanto el olvido es necesario para aprender y llegar a conclusiones Ahora muestra cierto optimismo por el tema de los datos masivos por la recogida de cada pequeño detalle y la datificación de todo lo posible ¿ha cambiado su visión como si esto fuera un nuevo paradigma   VMS  No realmente Yo estoy muy preocupado por los datos irrelevantes que quedan guardados y no nos permiten olvidar Lo que también trae problemas para los datos masivos los datos irrelevantes son ruido reducen el valor en el conjunto de datos Así es que filtrar y eliminar datos irrelevantes también es importante en la era de los datos masivos Por la misma razón he llegado a creer que la protección de la privacidad en la era del big data requiere aún más que lo que habría pensado en "Delete" su libro anterior Ahora creo que para que nuestra privacidad esté protegida en estos tiempos necesitamos hacer a los usuarios de los datos completamente responsables de la forma en la que usan los datos personales sobre nosotros que tengan como hemos explicado en el capítulo 9 de "Big Data"   MG  ¿En qué medida han sido los datos masivos la causa del éxito de compañías como Facebook Gmail Netflix o Amazon   VMS En una medida muy muy amplia Google no existiría sin los datos masivos tampoco Facebook Y Amazon supuestamente ha obtenido un tercio de sus ganancias de productos que la gente compra por el sistema de recomendaciones de Amazon que no es otra cosa que utilización de datos masivos   MG  Supongo que la mayoría de preguntas que le hacen son sobre los riesgos de vivir en una suerte de estado de determinismo de los datos ¿Cree que esto es porque no estamos realmente preparados para pensar en estos términos ¿Cuánto tiempo queda hasta que la sociedad aprenda a manejar los datos sin caer extremismos   VMS  A mí también me preocupa un montón el peligro de que el análisis de datos masivos sea abusado o usado de mala manera buscando relaciones causales para castigar a las personas basándose en predicciones La lección clave que nuestra sociedad y todas las personas que toman decisiones especialmente los que se encuentran en el gobierno necesitan aprender es que los datos masivos pueden mostrar correlaciones el qué pero no causalidad el porqué Una vez que hayamos entendido esta lección y por lo tanto la limitación inherente a los datos masivos creo que seremos capaces de cosechar mucho del tremendo potencial de los datos masivos sin exponernos demasiado a los riesgos de su lado oscuro   MG  En el libro usted indica que estamos bajo un estado de vigilancia ¿Cuál es su posición personal en temas como dar información privada o personal a cambio de obtener mejores servicios por ejemplo como en Gmail o Facebook Por ejemplo usted da  su código postal cuando va de compras ¿Alguna vez declina dar datos que son requeridos para usar servicios gratuitos en la web   VMS  Sí yo rechazo dar información personal que siento que es innecesaria para la otra parte He dejado de usar un servicio de alquiler de coches porque usaban prácticas intrusivas y he dejado de comprar en sitios online por la misma razón Creo que los consumidores debemos resistirnos a veces especialmente cuando se nos pide dar información sin causa y sin la contraprestación de un mejor servicio   MG  Compartir información es parte de la operativa habitual de servicios online pero las personas se están volviendo más conscientes de la importancia de proteger sus datos personales ¿Cree que en un futuro tendremos una especie nueva de poder colectivo en esta área de la misma manera en que ahora tenemos cierto poder con nuestras acciones como consumidores   VMS  Posiblemente Y puede ser que tengamos nuevos intermediarios que nos ayuden como un colectivo de consumidores que negocie con quienes usan nuestros datos Así podríamos superar lo que se llama el problema de la acción colectiva es decir que sólo si muchos consumidores se agrupan en un colectivo pueden crear un contrapoder a los intereses de quienes tienen los datos pero esa agrupación es difícil de lograr Quizás aquí podrían ayudar como intermediarias nuevas plataformas operativas para la utilización de datos   MG  ¿Cómo cree que afectará esta nueva relevancia de la correlación frente a la causalidad en nuestra vida cotidiana ¿La gente dejará de preguntarse por las causalidades lógicas   VMS  No como humanos estamos configurados para buscar causalidades Pero necesitamos darnos cuenta de que las correlaciones a menudo ofrecen información valiosa y son mucho más fáciles de identificar comparadas con la causalidad real A menudo pensamos que conocemos las causas de ciertas cosas pero no es así realmente y esto es peor que no conocer la causa en absoluto Así es que necesitamos tener humildad cuando pensamos en la causalidad y estar preparados para aceptar las correlaciones   MG  ¿El big data cambia la manera en la que las máquinas piensan por ejemplo cuando hablamos de búsquedas semánticas o cuando comienzan a dar mejores resultados o están las máquinas cambiando la manera en que nosotros pensamos   VMS  El big data cambia la forma en que las máquinas piensan desde tratar de enseñarles reglas hasta tener estadísticas para resolver cuestiones sin la necesidad de entender el porqué Eso cambia la forma en que dejamos a los ordenadores hacer cosas desde traducir lenguajes hasta hacer recomendaciones de libros pero no cambia la manera en la que nosotros pensamos   MG  Para los que trabajamos con información parece ser necesario que sepamos cómo operar con datos masivos ¿Deberíamos aprender programación los periodistas ¿O las competencias para manejar grandes cantidades de datos deberían ser restringidas a algunos expertos   VMS  Los periodistas no necesitan aprender a programar pero sí necesitan desarrollar mentalidad de datos masivos de manera en que entiendan que los datos contienen historias que pueden quedar sin ser contadas y que puedan tomar datos y una idea y con la ayuda de un experto de la misma manera en que trabajan con fotógrafos y artistas gráficos ahora puedan contar esa historia
+
+
+ PUBLICIDAD 
+
+
+
+
+
+
+Los socios son el muro que nos blinda ante las presiones del poder
+
+Hazte Socio
+
+También puedes llamarnos al 91 368 88 62
+
+
+
+
+
+
+05082013  
+2018h
+
+
+
+
+Compartir en Facebook
+
+
+
+
+Compartir en Twitter
+
+
+
+
+Enviar a Menéame
+
+
+
+
+Imprimir
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Comentar
+
+
+
+
+
+Enviar comentario
+
+
+Escribe tu comentario
+
+Debe ser inferior a 2048 caracteres
+
+
+
+Normas de uso
+
+
+Iniciar sesion
+
+
+
+                    RegistrarseHacerse Socio
+                
+
+
+Enviar Comentario
+
+
+
+
+
+
+
+
+ Comentarios
+
+                Ordenar por
+                Relevancia
+                
+                
+                    Fecha
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+15
+
+		  JPBe
+		
+
+
+  12122013 
+0911h
+
+
+
+
+
+	      Son malos tiempos para la lírica No preocupa tanto la recogida masiva de datos sino los criterios filtros con un sesgo político económico preventivo que determinan su almacenamiento y sobre todo su uso ¿Qué es ruido ¿que tiene valor y qué no Los sistemas totalmente automatizados que toman deciones en las grandes inversiones en bolsa y otros ámbitos no tienen variables éticas correctoras si para ganar a sus competidores tienen que hundir a un país empresa olo hacen son criterios cuantitativos en milisegundos se invierte y amortiza en un juego entre máquinas El ruido somos nosotros Si no somos negocio somos distorsión Hay tantos datos de nosotros almacenados arbitrarios casuales sin ninguna relevancia fuera de contexto pero que cuando los necesiten para criminalizar excluir manipular extorsionar chantajear los usarán No deberiamos quedarnos sólo con el extraordinario rendimiento científico o académico Hay que estar muy preocupados por la dirección etica o su falta de que están tomando nuestros dirigentes políticos y económicos
+	    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+22
+
+		  argonauth
+		
+
+
+  12082015 
+0012h
+
+
+
+
+
+	      Les recomiendo la lectura de éste enlace sobre W10httpwwwtechrepubliccomarticlewindows10violatesyourprivacybydefaulthereshowyoucanprotectyourself Hay gente que está "encantada" con el nuevo SO de Windows y su "bonita" aplicación conocida como "Cortana" que por cierto no se puede desinstalar Hay mucho "encantado" en este mundo
+	    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+19
+
+		  adn
+		
+
+
+  20082014 
+0001h
+
+
+
+
+
+	      En un pais nórdico se está utilizando más la tarjeta que el dinero físico Parecerá un adelanto beneficioso para el ciudadano pero ¿qué estamos haciendo con ello Si todo lo que hacemos está cada vez más relacionado con lo que compramos  ya sea una barra de pan un viaje un coche o el recibo de la luz Al pagar con tarjeta estaremos dando información constante al banco poder económico Seremos totalmente transparentes y careceremos de intimidad
+	    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14
+
+		  Confundido
+		
+
+
+  02092013 
+0454h
+
+
+
+
+
+	      Hola 10 Marilinel título lo dice todo son el nuevo oro y la nueva cadena coincido con lo que dices pero hoy día es imposible prácticamente decidir sobre lo que son tus datos privados o los que aceptas sean libresCuando te ofrecen sercvcios según donde estás es porque saben donde estas y quién eres por aquí todavía no pero gugle en otros países ya ha dado un paso delante No se limita a si has buscado info sobre una tele por ejemlpo colgarte publi de elementos relacionados o similares si la compras con tarjeta te anuncia solo gadgets para la misma  cruce de datos bancarios el big data no se refiere a info útil disponible sino a sistemas DW asociados de forma unívoca con una persona por ejemplo Hace poco e tema del verano Bárcenas se denegó la solicitud por parte del juez de sus mails conversaciones y geolocalizaciones de los 2 últimos años por respeto a la privacidad ergo toda esa info se almacena sin que los sepamos no aparece en la letra pequeña y puedo afirmar qué es cierto allá cada cual antes estaba claro para todo el mundo si mandaba una postal o una carta ordinariscertificada hoy todo son postales lo que más me admira es la ingenuidad de empresas y gobiernos todos nuestros "representantes" con ipad con todo en la nube icloud accesible por las leyes del novel de la paz Art 33 Yo uso ese servicio pero siempre soy consciente de que almaceno envío en plano o protegido razonablemente no por nada raro pero los planes de negocio de mi cia no le interesan a un tercero o si un conocido padece de SIDA lo dejo aquí otros temas más delicados cuando toque Saludos cordiales
+	    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10
+
+		  marilin
+		
+
+
+  08082013 
+1020h
+
+
+
+
+
+	      No no lo justifica todo ni mucho menos Por eso es importante estar informado para decidir sobre los usos que permitimos sobre nuestros datos 
+	    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11
+
+		  Dexys
+		
+
+
+  09082013 
+2016h
+
+
+
+
+
+	          “Los investigadores Ed Mayo y Agnes Nairn han hallado que ‘en Gran Bretaña los niños de hogares con más carencias pasan mucho más tiempo ante el televisor e Internet que sus homólogos de hogares más acomodados’ Los datos son asombrosos en comparación con los más privilegiados es nueve veces más probable que los niños de hogares pobres con ordenadores coman delante de estos aparatos y cinco veces más probable que permanezcan inmersos en ellos antes de acostarse … Todo lo cual equivale a decir que los niños pobres consumen más vida de pantalla que sus homólogos más pudientesHe aquí un hecho básico aunque ignorado a menudo acerca de la red social las interacciones cara a cara las relaciones personales y la presencia física pueden ser formas de privilegio Este hecho básico es conocido por cualquiera que busque empleo y haya enviado su curriculum por correo electrónico a un posible empleador las probabilidades de que alguien lo lea son muy escasas El privilegio y la proximidad la presencia y el acceso van de la mano En las comunidades más pobres las interacciones cara a cara no dan poder a los niños y la red de amigos en Internet no abre puertas”Richard Sennett Juntos Rituales placeres y políticas de cooperación
+	    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+		  Dexys
+		
+
+
+  06082013 
+0806h
+
+
+
+
+
+	      "Deberemos estar dispuestos a aceptar resultados basados en la correlación sin entender completamente el por qué la causa" Adiós al pensamiento científico
+	    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+23
+
+		  argonauth
+		
+
+
+  12082015 
+0133h
+
+
+
+
+
+	      Sigo con el post anterior No se pierdan las opiniones que genera el artículo
+	    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8
+
+		  marilin
+		
+
+
+  07082013 
+1014h
+
+
+
+
+
+	      No os veo quejaros por el uso de datos masivos cuando conseguís el mejor precio en una página de búsqueda de vuelos baratos o cuando usáis la autopredicción en los teclados de móvil para escribir más rápido Ni hablar de avances en salud o investigaciones que salvan vidas Hay mucho en lo que el uso de big data está haciéndonos la vida mejor y no hay que olvidar eso 
+	    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+20
+
+		  JesusMariaRamon
+		
+
+
+  13062015 
+1626h
+
+
+
+
+
+	      En efecto hoy ya el dinero nominativo es mucho más usado que el dinero al portador y no solo las tarjetas de crédito y debito sino las transacciones telemáticas Pero el problema no está en el dinero nominativo sino en el hecho de que esa información la almacenan las corporaciones bancarias que controlan las tarjetas y venden al mejor postor estos datosEl dinero nominativo en sí mismo no solo no es un problema sino la solución la eliminación de todos los delitos monetarios El problema de la desaparición de la intimidad se puede resolver fácilmente solo es necesario que haya una voluntad política Basta con que todas las transacciones sean encriptadas que el emisor de las tarjetas de personas físicas o jurídicas y controlador de ellas sea una banca pública que estos datos se almacenen automáticamente en el Banco emisor en la Hacienda pública y en un departamento de Justicia creado para este fin siempre todos encriptados y con unos mecanismos informáticos que señalen alertas cuando se realicen transacciones irregulares ilegales o delictivasEstas alertas llegarían a un juez que antes de conocer los datos concretos  evaluase la  necesidad de desencriptarlos e investigarlosSi a todo esto se une que existan unas cantidades máximas de dinero que cada persona pueda poseer así como de patrimonio el ser humano habría logrado llegar a un sistema que acabaría no solo con todos los delitos sino con las desigualdades y la miseria actualCONTINUA EN EL SIGUIENTE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+21
+
+		  JesusMariaRamon
+		
+
+
+  13062015 
+1626h
+
+
+
+
+
+	      CONTINUACIÓNY para ello solo es necesario que las personas tengamos la voluntad real de ser libres solidariamenteDebemos preguntarnos que es más importante para nosotros ¿Un futuro sin delitos económicos Lo que supondría la eliminación de la inmensa mayoría de ellos la esclavitud la explotación el tráfico ilegal de drogas el ilegal de sexo no el trabajo sexual reconocido y por tanto dignificado el tráfico de armas el de órganos el de menores todo lo que hoy abominamos y nos hace vivir indignamente o  ¿Permitir que sean las corporaciones bancarias quienes controlen todos estos datos los usen en su propio beneficio contra todos nosotros y continúen teniendo la capacidad de cometer delitos de financiación de todo tipo de tráficos así como blanqueo del dinero obtenido por todos los delitos además de la impunidad totalLlevo años dándole vuelta a esta idea que no es de hoy fue a un catalán de origen francés al que se le ocurrió la idea a principios del siglo XX  y después a un premio Nobel de Economía para más informaciónhttpcrisisinducidablogspotcomes200911dineronominativohtmlSalud y suerte que falta nos hará Jesús
+	    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12
+
+		  Tarzan
+		
+
+
+  17082013 
+1613h
+
+
+
+
+
+	      Creo que en el tema big data hay que distinguir entre un dato personal y un dato inocuo e impersonal A mí por ejemplo que un buscador almacene la manera como escribo una palabra de forma anónima y esto es importante no me parece mal sino que me parece útil Lo que ya no me resulta tan interesante es que junto a las palabras que introduzco en el buscador almacene el contenido de las cookies que tengo en el navegador mi dirección de correo electrónico mi perfil en redes sociales la dirección de mi blog la de mi banco el historial de páginas que visito etc etc Con todo ello el día que use otro ordenador para hacer una búsqueda y cometa los mismos errores al escribir el buscador puede saber exactamente quién soy aun cuando en ese ordenador no haya ningún dato personal que me reconozcaUn ejemplo de qué es lo que puede llegar a hacerse cruzando datos de una personahttpwwwyoutubecomwatchv6d2nYI68Y68featureyoutubegdataplayerYo entiendo que una aplicación que vaya diciéndote los pisos vacíos que hay en la calle por la que andas y su precio o las ofertas de los supermercados más cercanos o cualquier cosa parecida es un avance por el que estaré a favor El problema no son los big data en sí sino la impunidad con la que ciertas empresas los recopilan y los tratan saltándose todas las leyesLa clave aquí reside si se me permite el chiste en la criptografía No es la solución a todos los males pero sí que puede solucionar muchos problemas de privacidad de datos sin matar cualquier posibilidad de que los datos puedan ser usados anónimamente Y sobretodo la educación de los usarios para que sean muy conscientes de qué datos están compartiendo y cómo escoger los datos que comparten En definitiva creo que es un campo interesante aun de desarrollo el de crear aplicaciones que filtren qué datos se comparten a voluntad del usuario
+	    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13
+
+		  Tarzan
+		
+
+
+  17082013 
+1626h
+
+
+
+
+
+	      No estoy de acuerdo El método científico se basa en establecer modelos que describan comportamientos no en escudriñar las causas de estos comportamientos Estrictamente hablando no sabemos nunca las causas de los fenómenos sino las reglas que aparentemente gobernan dichos fenómenos y enfatizo de lo "aparentemente"httpwewe0wordpresscom20120919sobreelmodelocientificoDe hecho aceptar la correlación de datos es el primer paso del proceder del método científico es el paso en el que se observa una correspondencia entre fenómenos y es esa correspondencia lo que el científico tratará de explicar Lo que ha expresado el autor del libro con esa frase no es ni más ni menos que lo que hacemos todos inconscientemente constantemente
+	    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4
+
+		  economizamas
+		
+
+
+  06082013 
+1648h
+
+
+
+
+
+	      Por ejemplo si pagas con la tarjeta del supermercado el dueño sabe al instante cuales son tus gustos culinarios jejeje y así sucesivamente
+	    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5
+
+		  Sir
+		
+
+
+  06082013 
+1659h
+
+
+
+
+
+	      Un video imprescindible de hace bastantes años para sintetizar todo esto de forma sencillaThe Machine is Using Ushttpwwwyoutubecomwatchv6gmP4nk0EOE
+	    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6
+
+		  economizamas
+		
+
+
+  06082013 
+1703h
+
+
+
+
+
+	      Lo ideal sería vivir en un pueblecito pequeño donde ni el medico rural que pase consulta tuviese ordenador Bueno si claro ya se que eso es una utopía
+	    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7
+
+		  a8691
+		
+
+
+  06082013 
+1707h
+
+
+
+
+
+	      Es el cimiento donde se sustenta la vigilancia ciudadanaDel mismo modo en que un escenario hardware sobre el que se sustentan las aplicaciones de la nube y demás se cimenta sobre una poderoso entorno de almacenamiento todos los datos recopilados en grandisimas BBDD sobre la ciudadanía son el germen sobre el que luego se desarrollan las ingentes aplicaciones que tratan de dar uso inteligente y correlacionar todos esos datos Y son estos nada más la única tara que puedan estos gigantes encontrarse para explotarlos en su beneficio que no en el nuestro necesariamente
+	    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16
+
+		  María Pérez
+		
+
+
+  17122013 
+1933h
+
+
+
+
+
+	      ¿Innovativo traducir lenguajes Innovador traducir idiomas¿Pero cómo va este país a dejar de estar atrasado científica y tecnológicamente algún si los divulgadores ni siquiera saben hablarEs una pena que tenga que decirse esto a una profesional de la comunicación pero estas direcciones no pueden faltar en los marcadores de una periodista ni dejar de ser consultados casi a diariohttpraeesrecursosdiccionariosdraehttpraeesrecursosdiccionariosdpdhttpwwwfundeues
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2
+
+		  japolobh
+		
+
+
+  06082013 
+1043h
+
+
+
+
+
+	      Esto no es nuevo es lo que hace la estadística que es una ciencia La estadística explica como o en que manera se relacionan distintos conjuntos de datos Lo que no debemos resingarnos es a aceptar los resultados de las estadísticas sin buscar las causas de las correlaciones una vez que las hemos identificado
+	    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+18
+
+		  Robinjud
+		
+
+
+  09072014 
+1207h
+
+
+
+
+
+	      Bella entrevista
+	    
+
+
+
+
+
+
+
+
+
+Anterior
+1
+2
+  
+Siguiente
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ PUBLICIDAD 
+
+
+
+
+lo 
+
+Leído
+Comentado
+
+
+
+
+
+
+
+
+
+
+
+Puigdemont no convoca elecciones tras fracasar la negociación con el Gobierno para retirar el 155
+
+
+Neus Tomàs
+ 
+
+
+
+
+
+
+
+
+
+Puigdemont no convocará elecciones si no tiene garantías de que el 155 no se aplica
+
+
+eldiarioes 
+ 
+
+
+
+
+
+
+
+
+
+Diputados del PDeCAT anuncian que dejan su escaño si hay elecciones anticipadas
+
+
+CatalunyaPluralcat 
+ 
+
+
+
+
+
+
+
+
+
+El conseller Santi Vila dimite "Mis intentos de diálogo nuevamente han fracasado"
+
+
+Neus Tomàs
+ 
+
+
+
+
+
+
+
+
+
+El Pleno de Murcia sobre el soterramiento parado por gritos de ¡Viva Franco y ¡A tiro limpio
+
+
+Rafa López
+  Murcia
+
+
+
+
+
+
+
+
+
+Ábalos avisa a Puigdemont de que convocar elecciones es "la única alternativa" para frenar el 155
+
+
+EUROPA PRESS
+  MADRID
+
+
+
+
+
+
+
+
+
+Un coche abandonado obliga a cortar la Gran Vía de Madrid durante una hora
+
+
+Fátima Caballero
+ 
+
+
+
+
+
+
+
+
+
+Yvonne Blake presidenta de la Academia española de Cine "Un productor americano me violó"
+
+
+eldiarioes cultura
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Puigdemont no convocará elecciones si no tiene garantías de que el 155 no se aplica
+
+
+eldiarioes 
+ 
+
+
+
+
+
+
+
+
+
+Puigdemont no convoca elecciones tras fracasar la negociación con el Gobierno para retirar el 155
+
+
+Neus Tomàs
+ 
+
+
+
+
+
+
+
+
+
+El Gobierno defiende que "hay que rescatar a Catalunya aunque algunos se empeñen en dejarla fuera de la ley" 
+
+
+Irene Castro
+ 
+
+
+
+
+
+
+
+
+
+El Parlamento Europeo concede el premio Sájarov a la oposición venezolana
+
+
+EFEDesalambre
+  Estrasburgo Francia
+
+
+
+
+
+
+
+
+
+El conseller Santi Vila dimite "Mis intentos de diálogo nuevamente han fracasado"
+
+
+Neus Tomàs
+ 
+
+
+
+
+
+
+
+
+
+ERC abandonará el Govern si Puigdemont convoca elecciones
+
+
+Arturo Puente
+ 
+
+
+
+
+
+
+
+
+
+El juez José Castro dedica un premio a los que le "atacaron de forma visceral" en el Caso Nóos
+
+
+Angy Galvín
+ 
+
+
+
+
+
+
+
+
+
+La economía creó en verano 235900 puestos de trabajo
+
+
+Ana Requena Aguilar
+ 
+
+
+
+
+
+
+
+
+
+ PUBLICIDAD 
+
+
+
+ PUBLICIDAD 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SOBRE eldiarioes
+
+
+
+
+
+
+Descubre nuestras apps
+
+Android
+Apple
+
+
+
+Vivimos en redes
+
+Facebook
+Twitter
+Telegram
+Youtube
+RSS
+
+
+
+
+COLABORA
+Necesitamos tu apoyo económico para hacer un periodismo riguroso y con valores sociales
+
+
+                    Hazte socio
+                
+
+
+
+MÁS INFO
+
+¿Qué es eldiarioes
+El equipo
+eldiarioes responde
+FAQs
+Creative commons
+Aviso legal y condiciones de uso
+Contacto
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

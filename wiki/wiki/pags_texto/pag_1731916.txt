@@ -1,0 +1,248 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Gartner Says Solving 'Big Data' Challenge Involves More Than Just Managing Volumes of Data
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle navigation
+
+
+
+
+
+
+
+
+
+
+
+WHY GARTNER
+ANALYSTS
+RESEARCH
+EVENTS
+CONSULTING
+ABOUT
+
+
+
+
+
+							Select a Gartner site
+							
+
+
+Gartnercom
+Gartner Japan
+Gartner Accessibility
+
+
+
+
+Register
+
+Sign In
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Newsroom
+
+
+
+
+
+
+
+Press Release 
+
+
+Share
+
+Tweet
+
+
+
+
+
+
+
+
+
+
+STAMFORD Conn June 27 2011  View All Press Releases
+Gartner Says Solving 'Big Data' Challenge Involves More Than Just Managing Volumes of Data
+Gartner Special Report Examines How to Leverage PatternBased Strategy to Gain Value in Big Data
+﻿ 
+
+Many IT leaders are attempting to manage "big data" challenges by focusing on the high volumes of information to the exclusion of the many other dimensions of information management leaving massive challenges to be addressed later according to Gartner Inc
+Big data is a popular term used to acknowledge the exponential growth availability and use of information in the datarich landscape of tomorrow The term "big data" puts an inordinate focus on the issue of information volume in every aspect from storage through transformtransport to analysis Big data is also heavily weighted toward current issues and can lead to shortsighted decisions that will hamper the enterprise's information architecture as IT leaders try to expand and change it to meet changing business needs
+Information managers may be tempted to focus on volume alone when they are losing control of the access and qualification aspects of data at the same time Gartner analysts warn that too narrow a focus will force massive reinvestment in two to three years to address the other dimensions of big data
+"Today's information management disciplines and technologies are simply not up to the task of handling all these dynamics Information managers must fundamentally rethink their approach to data by planning for all the dimensions of information management" said Mark Beyer research vice president at Gartner "The business's demand for access to the vast resources of big data gives information managers an opportunity to alter the way the enterprise uses information IT leaders must educate their business counterparts on the challenges while ensuring some degree of control and coordination so that the bigdata opportunity doesn't become bigdata chaos which may raise compliance risks increase costs and create yet more silos"
+Worldwide information volume is growing annually at a minimum rate of 59 percent annually and while volume is a significant challenge in managing big data business and IT leaders must focus on information volume variety and velocity
+Volume The increase in data volumes within enterprise systems is caused by transaction volumes and other traditional data types as well as by new types of data Too much volume is a storage issue but too much data is also a massive analysis issue
+Variety IT leaders have always had an issue translating large volumes of transactional information into decisions — now there are more types of information to analyze — mainly coming from social media and mobile contextaware Variety includes tabular data databases hierarchical data documents email metering data video still images audio stock ticker data financial transactions and more
+Velocity This involves streams of data structured record creation and availability for access and delivery Velocity means both how fast data is being produced and how fast the data must be processed to meet demand
+While big data is a significant issue Gartner analysts said the real issue is making sense of big data and finding patterns in it that help organizations make better business decisions
+"The ability to manage extreme data will be a core competency of enterprises that are increasingly using new forms of information — such as text social and context — to look for patterns that support business decisions in what we call PatternBased Strategy" said Yvonne Genovese vice president and distinguished analyst at Gartner "PatternBased Strategy as an engine of change utilizes all the dimensions in its patternseeking process It then provides the basis of the modeling for new business solutions which allows the business to adapt The seekmodelandadapt cycle can then be completed in various mediums such as social computing analysis or contextaware computing engines"
+Additional analysis is available in the Gartner Special Report “PatternBased Strategy Getting Value from Big Data” The report provides links to numerous reports that examine key issues related to managing big data The Special Report includes video commentary from Ms Genovese as well as a Talking Technology interview that reviews the term big data and why IT leaders should act now The Special Report is available at wwwgartnercompatternbasedstrategy
+In the Gartner webinar “PatternBased Strategy Getting Value from Big Data” Ms Genovese will discuss the importance of applying a patternbased strategy approach to seek model and adapt to patterns contained in big data The complimentary webinar will be held on July 13 at 9 am EDT and noon EDT To register for the webinar please visit httpmygartnercomportalserverptopen512objID202mode2PageID5553resId1727219refWebinarCalendar
+ 
+Contacts
+
+Christy Pettey
+Gartner
+1 408 468 8318
+christypetteygartnercom
+
+
+Laurence Goasduff
+Gartner
+44 1784 267195
+laurencegoasduffgartnercom
+
+
+
+
+
+
+
+
+
+About Gartner
+Gartner Inc NYSE IT is the world's leading research and advisory company The company helps business leaders across all major functions in every industry and enterprise size with the objective insights they need to make the right decisions Gartner's comprehensive suite of services delivers strategic advice and proven best practices to help clients succeed in their missioncritical priorities Gartner is headquartered in Stamford Connecticut USA and has more than 13000 associates serving clients in 11000 enterprises in 100 countries For more information visit wwwgartnercom
+Comments or opinions expressed on this blog are those of the individual contributors only and do not necessarily represent the views of Gartner Inc or its management Readers may copy and redistribute blog postings on other blogs or otherwise for private noncommercial or journalistic purposes This content may not be used for any other purposes in any other formats or media The content on this blog is provided on an "asis" basis Gartner shall not be liable for any damages whatsoever arising out of the content or use of this blog
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Careers
+
+Contact
+
+Gartner Blog Network
+
+IT Glossary
+
+Newsroom
+
+Peer Insights
+
+Policies
+
+Privacy
+
+Site Index
+
+Webinars
+
+
+
+
+
+
+
+
+
+©  Gartner Inc andor its Affiliates All Rights Reserved
+
+
+
+
+
+
+
+
+
+
+
+
+

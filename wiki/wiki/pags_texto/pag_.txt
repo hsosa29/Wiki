@@ -1,0 +1,531 @@
+
+
+
+
+Martin Hilbert experto en redes digitales “Obama y Trump usaron el Big Data para lavar cerebros”  The Clinic Online
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sobre TConline
+Contacto
+TC en Facebook
+TC en Twitter
+TC en Flickr
+RSS
+
+
+
+Bares
+
+
+
+
+
+
+
+
+¿Sabía Ud que
+Los vampiros arribistas solo beben sangre azul
+Por 
+
+
+
+
+
+
+
+
+
+
+
+Buscador de noticias
+
+
+
+
+
+
+
+
+
+
+
+Menú
+
+
+
+
+
+Home
+Poder
+Chilean News
+Webeo
+Columnas
+La Calle
+Mundo al Instante
+Verde
+Deportes
+Cultura
+La Carne
+Juegos
+Portadas
+Around The World
+Galerías
+ 
+
+THC Videos
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Comentarios
+
+
+Martin Hilbert experto en redes digitales “Obama y Trump usaron el Big Data para lavar cerebros”
+
+Daniel Hopenhayn
+19 Enero 2017
+Tags big data Estados Unidos Martin Hilbert obama redes digitales Trump 
+
+
+
+
+
+
+
+
+
+
+Compártelo 
+Tuitéalo 
+
+Lo conocen en la academia de las TICs por haber creado el primer estudio que estimó cuánta información hay en el mundo cifras que acá comenta en un castellano aliñado con modismos chilenos tecnicismos gringos y erres alemanas Martin Hilbert 39 Doctor en Ciencias Sociales y PhD en Comunicación es alemán pero vivió largos años en Chile como funcionario de la Cepal Hoy trabaja en la Universidad de California es el asesor tecnológico de la Biblioteca del Congreso de Estados Unidos y vive a cuarenta minutos de Silicon Valley donde un futuro inevitable toma forma En esta entrevista no apta para amantes de la vida retirada explica cómo el Big Data permite a la información interpretarse a sí misma y adelantarse a nuestras intenciones cuánto saben las grandes empresas de nosotros y lo que más le preocupa lo fácil que está siendo convertir la democracia en una dictadura de la información haciendo de cada ciudadano una burbuja distinta También habla sobre la posibilidad de que la inteligencia artificial llegue a generar una conciencia superior Cree que eso va a ocurrir pero no hay que tener miedo “No va a ser Terminator contra nosotros”
+
+
+
+
+
+
+
+¿Cuánta información hay en el mundo
+–La última vez que actualicé este estudio hace dos años había 5 zetabytes Un ZB es un 1 con 21 ceros lo cual no te dirá mucho Pero si tú pones esta información en libros convirtiendo las imágenes y todo eso a su equivalente en letras podrías hacer 4500 pilas de libros que lleguen hasta el sol O sea hay mucha información
+¿Y a qué ritmo está creciendo
+–A un ritmo exponencial Se duplica cada dos años y medio Entonces ahora probablemente son 10 ZB
+O sea ocho mil pilas de libros que llegan al sol
+–Ocho o nueve mil pilas sí Piensa en esto desde el 2014 hasta hoy creamos tanta información como desde la prehistoria hasta el 2014 Y lo más impresionante para mí es que la información digital va a superar en cantidad a toda la información biológica que existe en el planeta La vida es procesamiento de información ¿no Toma del ambiente moléculas normalmente muertas toma fotones del sol y los convierte en estructuras complejas de información con un código base que es el ADN Y ya existe más información digital que código genético humano Aun contando cada copia de ADN en las trillones de células de cada persona en el mundo en la humanidad hay como 1 ZB de información Y durante este siglo la información digital va a superar a toda la información genética que existe en la biósfera Todo lo cual lleva a muchas preguntas sobre el futuro de la humanidad ¿no
+Parece que la pregunta existencial más importante va a ser cómo interpretamos tantos datos
+–Y la respuesta es que la única manera de interpretarlos es con máquinas también Este procesador apunta a su cerebro no aguanta eso sabe hacer otras cosas Ahora lo bueno es que la información crece muy rápido pero nuestro poder de computación crece tres veces más rápido Se duplica en menos de un año Porque la tecnología siempre es mejor pero también porque tenemos muchas más máquinas ¿no Tú mismo tienes ahora un celular un computador etc que interpretan muchos datos por ti Y ahí viene toda la cuestión de la inteligencia artificial en adelante IA y el Deep Learning que ahora es lo más importante
+¿Qué es el Deep Learning
+–Es la manera como se hace la IA hoy en día Son redes neuronales que funcionan de manera muy similar al cerebro con muchas jerarquías Todo esto que hacen Apple y Google y todas las Siri en el teléfono todo usa Deep Learning Es una IA súper poderosa que descubrimos hace cinco años y ya todo el mundo la usa porque es muy superior a todo lo que habíamos encontrado
+Y la otra pregunta existencial ¿qué tan espiados estamos
+–Nooo ¡súper espiados Todo está espiado Y es muy interesante porque después de Edward Snowden la gente dijo “¡Qué es esto pueden ver mis fotos desnudo Ya bueno qué tanto” Nadie se fue a protestar a la calle la cosa siguió tal cual La NSA confesó que hizo un par de cosas demasiado ilegales y bueno esas cosas se arreglaron Pero las otras no y cada vez te van a espiar más Yo no digo que esto sea bueno o malo pero la gente tiene que saber Y si la gente sabe que está espiada y no le importa está perfecto Ahora la pregunta delicada es qué pasa si esos datos llegan a las manos de alguien que pueda abusar de ellos En Silicon Valley no están muy contentos con que sus herramientas ahora las pueda usar Donald Trump Están muy decepcionados la verdad
+¿Qué cosas de nosotros se pueden saber de un momento a otro
+–De partida dónde estás y dónde has estado Si tienes Gmail en tu celular con wifi puedes ver en Google Maps un mapa mundial que muestra dónde estuviste cada día a cada hora durante los últimos dos o tres años ver wwwgooglecommapstimeline Es una información que tú les permites coleccionar al aceptar los términos de licencia cuando instalas la aplicación
+Lo que uno nunca lee
+–Exactamente Y en muchos casos tú puedes optar que no lo hagan pero nadie se fija Ahora lo interesante es que con estos datos de movilidad se pueden hacer estudios Y ya sabemos por ejemplo que se puede predecir con casi un 90 de probabilidad dónde vas a estar tú en cada momento de cada día del año que viene Imagínate lo que vale esa información para una empresa que hace marketing por ejemplo
+Cuentas que en África el celular hizo lo que nunca pudo hacer el certificado de nacimiento La huella de que una persona existe es su teléfono
+–Claro es súper poderoso Es tu verdadera huella digital Y África es el caso extremo pero piensa en América Latina donde hay tanto orgullo por los censos El censo de Chile ahora fue un desastre y era una tragedia ¿no Pero con los datos de tu celular si uso solamente lo que se llama metadata o sea sin escuchar tus conversaciones ni saber con quién hablas sino sólo con qué frecuencia y con qué duración usas tu celular con eso yo puedo hacer ingeniería reversa y reproducir el 85 de tus resultados de un censo si eres hombre o mujer cuál es tu rango de ingresos si tienes niños si estás casado tu origen étnico…
+¿Sólo conociendo la frecuencia y duración con que uso mi celular
+–Sí El censo que hacen cada 10 años que es tan costoso y tan importante lo puedo reconstruir en un 85 con esos dos datos De eso se trata el Big Data tenemos tantos datos y tanta capacidad de procesarlos de identificar correlaciones que podemos hacer a la sociedad muy predecible Y cuando puedes predecir puedes programar
+Y en el caso de las empresas de Internet que nos prestan servicios gratuitos ¿qué tan importante es para su negocio la información que tienen de nosotros
+–Todo eso es todo lo que tienen Facebook vale billones de dólares por la información no por otra cosa De las diez empresas del mundo tasadas a un precio más alto yo creo que cinco son proveedoras de información Y la gente siempre dice “no hay que regular todo eso proteger a los usuarios” Pero la demanda más extrema que he escuchado en todas esas conferencias donde voy es que necesitamos derechos de propiedad de datos como los de propiedad intelectual para que tú puedas vender tus datos y no regalarlos Y yo voy con este reclamo donde mis amigos en Silicon Valley y me dicen “pero hueón ¡si ya lo estamos haciendo Tú sigues siendo dueño de tus datos pero aceptas que yo también lo sea al aprobar los términos de licencia Y a cambio puedes usar Google Maps gratis y te ahorras una hora de taco al día ¿no es fantástico” Ahí llegamos al fin de la discusión no hay nada más que hacer Incluso ante las propuestas más progresistas Silicon Valley ya tiene respuesta Y la verdad es que la gente se beneficia tanto de eso que no le molesta
+También las empresas telefónicas que uno supone que sólo nos cobran el plan hacen buena plata con nuestros datos ¿no
+–Claro Por ejemplo Smart Steps es la empresa de Telefónica que vende los datos de la compañía Si tú tienes Movistar tus datos están ahí vendidos
+¿A quién le sirven
+–¡A mucha gente Si tú quieres abrir una tienda de corbatas en una estación de metro te vale mucho saber cuántos hombres caminan en cada salida del metro entonces compras estos datos de Telefónica Y también los puedes usar en tiempo real saber a qué hora pasa la gente e incluso si se detiene o no a ver el anuncio de oferta que pusiste afuera Y lo más impresionante es que esto convirtió a las ciencias sociales de las que siempre se burlaron en la ciencia más rica en datos Antes tenías que hasta negociar con diplomáticos para que te prestaran una base de datos de cien filas por cien columnas Y en las universidades hacían experimentos con 15 alumnos de pregrado que necesitaban créditos extra para pasar el ramo todos blancos todos de 18 años y decían “miren así funciona la psicología humana” ¡De adónde Nosotros nunca tuvimos datos y por eso nunca funcionaban las políticas públicas Y de la noche a la mañana el 95 de los sujetos que estudiamos pasó a tener un sensor de sí mismo 24 horas al día Los biólogos siempre dijeron “eso no es ciencia no tienen datos” Pero ellos no saben dónde están las ballenas en el mar Hoy nosotros sí sabemos dónde están las personas pero también sabemos qué compran qué comen cuándo duermen cuáles son sus amigos sus ideas políticas su vida social Se puede abusar también como Obama y Trump lo hicieron en sus campañas como Hillary no lo hizo y por eso perdió Pero el gran cambio es que estamos conociendo a la sociedad como nunca antes y podemos hacer predicciones con un nivel científico ¡Lo de antes era arte no era ciencia
+TRUMP TE CONOCE
+
+Entiendo que algunos estudios ya han logrado predecir un montón de cosas a partir de nuestra conducta en Facebook
+–Claro esos son los datos que Trump usó Teniendo entre 100 y 250 likes tuyos en Facebook se puede predecir tu orientación sexual tu origen étnico tus opiniones religiosas y políticas tu nivel de inteligencia y de felicidad si usas drogas si tus papás son separados o no Con 150 likes los algoritmos pueden predecir el resultado de tu test de personalidad mejor que tu pareja Y con 250 likes mejor que tú mismo Este estudio lo hizo Kosinski en Cambridge luego un empresario que tomó esto creó Cambridge Analytica y Trump contrató a Cambridge Analytica para la elección
+¿Qué hizo con eso
+–Usaron esa base de datos y esa metodología para crear los perfiles de cada ciudadano que puede votar Casi 250 millones de perfiles Obama que también manipuló mucho a la ciudadanía en 2012 tenía 16 millones de perfiles pero acá estaban todos En promedio tú tienes unos 5000 puntos de datos de cada estadounidense Y una vez que clasificaron a cada individuo según esos datos lo empezaron a atacar Por ejemplo en el tercer debate con Clinton Trump planteó un argumento ya no recuerdo sobre qué asunto La cosa es que los algoritmos crearon 175 mil versiones de este mensaje –con variaciones en el color en la imagen en el subtítulo en la explicación etc– y lo mandaron de manera personalizada Por ejemplo si Trump dice “estoy por el derecho a tener armas” algunos reciben esa frase con la imagen de un criminal que entra a una casa porque es gente más miedosa y otros que son más patriotas la reciben con la imagen de un tipo que va a cazar con su hijo Es la misma frase de Trump y ahí tienes dos versiones pero aquí crearon 175 mil Claro te lavan el cerebro No tiene nada que ver con democracia Es populismo puro te dicen exactamente lo que quieres escuchar
+¿Y qué hizo Obama
+–Obama fue como el pionero en esto En la campaña de 2012 para su reelección invirtió en esto mil millones de dólares mucho más que en comerciales de TV Y con eso contrató a un grupo de cuarenta nerds de Twitter de Google de Facebook de Craigslist tres profesionales de póker otro que trabaja con células madres en fin A esos cuarenta nerds los puso en un subterráneo les dio mil millones de dólares y un número para el servicio de pizza ¿no Y ahí en el subterráneo crearon los 16 millones de perfiles que les interesaban los votantes indecisos Sacaron datos de todos lados Incluso tuvieron acceso a las SetupBoxes lo que sería el DirectTV en Chile que registra cómo tú ves televisión Si tienen acceso a eso ya saben lo que te interesa y empezaron a llevar comerciales individualizados Lo más delicado es que no sólo pueden mandarte el mensaje como más te va a gustar también pueden mostrarte sólo aquello con lo que vas a estar de acuerdo Si Obama tiene sesenta compromisos de campaña puede que 58 te parezcan mal pero al menos con dos vas estar de acuerdo Digamos que estás a favor del desarrollo verde y a favor del aborto Bueno empezaron a mostrarte en Facebook sólo estos dos mensajes
+¿Con avisos publicitarios
+–No lo hicieron más sofisticado Como algún amigo vas a tener que hizo un like a la campaña de Obama ese like les dio acceso a los perfiles de todos sus amigos –esto también va en la licencia que nunca leemos– entonces podían ver tu historial y clasificarte Y además tenían acceso a postear desde el timeline de tu amigo porque esto también está permitido Él no lo ve Facebook no se lo muestra pero tú sí vas a ver muchos artículos así como “Obama el héroe de la energía alternativa” “Obama el héroe del aborto legal” No son propagandas de la campaña son artículos de prensa bien elegidos Y si tú por medio año ves “Obama héroe” de estas dos cosas que te gustan al final vas a decir “oye tan mal no está este Obama” Bueno en 2012 le cambiaron la opinión al 78 de la gente que atacaron así Y Trump lo hizo con 250 millones Creo que George Orwell se metería un tiro porque ni él se imaginó algo así La democracia es completamente inútil con algo así
+En un artículo explicabas que también los call center de Estados Unidos te clasifican mientras hablas y cuando vuelves a llamar te
+derivan a un empleado con una personalidad afín a la tuya
+–Así es El que habla contigo no lo sabe ¿no Una vez conté esto en una conferencia y uno de mis estudiantes la próxima vez que llamó a un call center le dijo “¡oye hueón deja de clasificarme la personalidad” El otro no entendía nada ¡ja ja ja El trabajo lo hacen alrededor de diez mil algoritmos que te escuchan hablar y clasifican tu personalidad en seis diferentes cajas La última vez que hablé con esta compañía me dijeron que ya el 30 de las llamadas a los call center de Estados Unidos están intermediadas así Y ya hay sistemas que les dan inteligencia en tiempo real el tipo está ahí con un monitor que le dice “ahora es el momento de ofrecerle tal cosa” “ahora ya no” Pero eso es reciente por ahora lo más común es que te dejan clasificado Y todo esto al final ¿a qué nos lleva A crear burbujas en todos los niveles
+¿Cómo así
+–Que la gente emocional sólo hable con gente emocional la gente de acción con la gente de acción los reactivos con los reactivos Hablamos mucho de que ahora los demócratas no hablan con republicanos pero esta fragmentación de la sociedad en subgrupos va mucho más allá de la política La verdad es una cosa triste Pero no es culpa de la tecnología es la manera en que la usamos hoy día Toda tecnología es normativamente neutral tú puedes usar un martillo para colgar un cuadro o para matar a tu vecino Lo mismo con la tecnología digital podríamos usarla para unir gente para mezclar gente de opiniones opuestas pero no lo estamos haciendo
+Y más rezagada aún queda la democracia incapaz de mediar entre tanta información fragmentada No hay denominador común
+–Claro el Big Data permite poner a la gente en muchas más cajas que antes no veías es un arma de fragmentación muy poderosa Sí esa es una amenaza Esto de la privacidad y el comercio no es el gran problema la gente tiene razón en no preocuparse tanto Es útil que las chicas reciban comerciales sobre la píldora y los chicos sobre condones ¿no Ahora Big Data para la democracia representativa… ahí termina Tú sabes que la democracia siempre estuvo muy ligada a las posibilidades informacionales que tenía cada sociedad Aristóteles fue muy claro en decir que la democracia no podía ir más allá de un radio de 70 km porque la información no podía viajar más que eso en un día Por eso la democracia griega fue para una ciudad Y en Estados Unidos ¿por qué crearon las primarias los colegios electorales por cada Estado y todo eso que conocemos Porque el viaje en caballo de costa a costa tomaba una semana Como no había acceso a la gente y la gente tampoco estaba informada se necesitó todo este constructo representativo Pero con la tecnología actual este constructo está completamente abusado y tiene potencial para constituirse en una dictadura informacional esto hay que decirlo abiertamente Esto es lo que más me preocupa La democracia representativa de esta manera no funciona
+Obligados a pensarla de nuevo…
+–La verdad es que tenemos que repensarla completamente Y ya tampoco podemos ignorar que las redes digitales son globales O sea personas que están a miles de millas se pueden ofender con una información que les llega y presentarse en la redacción de una revista para matar a los dibujantes Es que todo esto pasó muy rápido Llevábamos miles de años separados en diferentes culturas y nos tuvimos que conocer en un par de décadas En el Islam dijeron que no quieren ver mujeres desnudas y un día llegamos nosotros con el TV cable y les forzamos a mirar las tetas de Pamela Anderson Y nosotros no entendemos por qué ellos pueden tener dos esposas Entonces si la información fluye globalmente ¿hasta dónde podremos prescindir de una gobernanza global No lo sé Pero esto va a ser un camino de ensayo y error como siempre ocurrió con la tecnología Ahora vimos que Facebook después de la elección de Trump empezó a limpiar sus fake news estas noticias mentirosas Hace tres meses decían “no nosotros no somos editorial” y ahora están sacando cosas Ya es un comienzo
+Y los Estados ¿están sabiendo aprovechar el Big Data para las políticas públicas
+–No están muy atrás todavía Pero tienen una oportunidad muy grande Se estima que el Estado posee alrededor de un tercio de los datos de un país lo que es mucho ¿Acaso tiene un tercio del poder productivo Ni loco El gobierno sabe todo lo que pasa en los colegios en los hospitales en los servicios de impuestos ¡cuánta información hay ahí Se puede aprovechar mucho más para políticas sociales y económicas sobre todo en América Latina Y lo segundo es poner la información que es pública a disposición de la sociedad lo que se llama el Open Data Pero ahí estamos aún más atrasados incluso acá Por ejemplo a mí me nombraron Chair of Technology de la Biblioteca del Congreso que en EEUU siempre fue LA institución de la información Ellos mismos me invitaron porque se dan cuenta de que perdieron el tren y Google les robó el show en diez años Y cuando voy allá veo que todavía podrían recolectar mucha más información y hacerla pública Los mapas… ¡el gobierno tiene un montón de mapas No necesitamos Google Maps los militares tienen todos los mapas que necesitas ¿Por qué no los hacen disponibles Los precios de terrenos qué tipo de terrenos hay para qué tipo de agricultura quién es el dueño del terreno todo esto el gobierno lo tiene y socializarlo podría ser muy productivo Pero es una buena noticia si el insumo de esta nueva economía son los datos y el Estado tiene un tercio de ellos los puede usar para democratizar la economía
+Si es que también se democratiza la capacidad de usarlos
+–Sí esa será la clave y todavía no está claro si la disponibilidad de información crea más o menos desigualdad Pero si en otra época el Estado destinó recursos para llevar la telefonía a las áreas rurales ahora tendrá que hacerlo para igualar el acceso a Big Data Son cosas que estamos aprendiendo aunque los gobiernos ya podrían estar haciendo mucho más
+EL FUTURO ARTIFICIAL
+¿En Silicon Valley están muy locos
+–¡Ja ja ja Depende Algunos como este alemán Peter Thiel quien creó PayPal y que ahora está con Trump él está un poco loco Pero la verdad es que no son locos son un poco arrogantes Pero son arrogantes con justificación porque realmente cambian el mundo mucho más que un gobierno Por eso también les llegó pésimo lo de Trump Estaban muy enojados no podían creer que se usó su tecnología para poner a un fascista en el poder No la verdad es que todavía están muy confundidos con eso Bueno dicen que la caída viene después de la arrogancia
+Algo que cuesta asimilar es que los datos al crecer tanto ya se explican a sí mismos descubren solos sus relaciones causaefecto Como el traductor de Google que se pegó el gran salto cuando le quitaron las reglas de traducción y empezó simplemente a comparar datos
+–Y con eso además ya puede traducir entre dos idiomas aunque nadie en el mundo hable esos dos idiomas Te cuento un caso ¿Te acuerdas de ese juego para Atari y PC parecido al pimpón en que tenías que mover una barrita hacia los lados para achuntarle a una pelota que rebotaba arriba en unos bloques Y sacabas puntos al ir destruyendo esos bloques
+Sí
+–Bueno Al DeepMind un programa de IA que usa el Deep Learning lo pusieron frente a ese juego y le dijeron “tienes que ganar puntos” Pero no le dijeron cómo se ganan los puntos Ni siquiera le dijeron “vas a ver una barrita una pelota y unos bloques arriba” Solamente le dieron la capacidad de reconocer pixeles A los diez minutos el DeepMind casi no agarraba la pelota porque no entendía frente a qué situación estaba Después de dos horas jugaba al nivel de un experto Y a las cuatro horas mejor que cualquier ser humano Pero no sólo por su precisión técnica sino porque descubrió una estrategia para ganar que poca gente descubre Es decir sólo correlacionando movimientos de pixeles y puntos ganados por azar llegó a innovar y ser más creativo que la mayoría de los humanos Es lo mismo que hace la IA con el ajedrez Se suponía que Go era el juego en que nunca iba a pasar a los humanos muchísimo más complejo que el ajedrez Bueno DeepMind le ganó hace medio año al campeón de Go Entonces sí la información se autointerpreta y son mejores que nosotros
+¿Es cierto que las grandes compañías ya toman decisiones sin saber por qué las toman Sólo porque la IA ve los datos y les dicen “hagan esto” 
+–Claro y está perfecto Además las relaciones de causalidad muy filosóficamente nunca las podemos conocer Como decía Popper sólo podemos descartar causas tú no puedes saber si realmente X causó Y sólo puedes comprobar que Z no causa Y Pero estas correlaciones nos sirven para explicar y predecir Ahora si tú cambias el sistema que produjo estos datos ahí te puedes equivocar muchas veces Pero ese ya es otro problema
+Pero también sería un problema si por ejemplo llegáramos a meter preso a alguien porque su conducta en Facebook según un programa predice que es un potencial asesino
+–Sí pero esto también lo hacen las personas Si un sicólogo dice que eres un peligro para la sociedad también te pueden encerrar Y la verdad es que la IA es muchas veces más exacta que un psicólogo Al final el juego con la tecnología siempre ha sido ver cuáles tareas se pueden automatizar y cuáles se quedan con nosotros Los primeros imperios por ejemplo su gran innovación fue hacer canales de agua para sus plantaciones Así ya no necesitaban usar un tercio de su fuerza laboral en ir cada vez al río y traer agua Imagínate qué brutal un tercio de la gente quedó desempleada ¿Pero qué hicieron con ellos A la mitad los convirtieron en soldados y empezaron a dominar a otros pueblos A otros los hicieron arquitectos y constructores y crearon las ciudades y templos más grandes de la humanidad Otros se hicieron artistas otros empezaron a escribir… ¡a escribir hueón no tenían nada más que hacer Y es así como las sociedades han avanzado ahorrando tiempo y automatizando tareas Si un robot reconoce células de cáncer te ahorras al médico En San Francisco hay una farmacia donde no hay ninguna persona trabajando yo soy un robot tú me das una receta yo te mezclo un poco de este polvo un poco de este otro lo pongo en una caja y te lo doy Además el robot sabe exactamente qué interacción hay entre qué medicamentos más que ningún farmacéutico Más del 50 de los actuales empleos son digitalizables incluso escribir noticias rápidas como sabrás Y ya no hablamos de reemplazar a los obreros como en la revolución industrial sino también los trabajos de la clase más educada médicos contadores ¡abogados hueón Hay una aplicación en el teléfono que te dice cuánto estás obligado a pagar si te divorcias según los detalles de tu caso Te ahorraste mil dólares de abogado por pedirle ese estudio Claro es brutal Pero esto ya ha pasado antes y no fue el fin de la historia Inventaron hueás nuevas tan locas como escribir que antes nadie tenía tiempo de pensar en eso
+Lo que sí sería nuevo y es el gran miedo cuando se habla de la “era de la singularidad” que supuestamente viene es que el robot pase a decidir por nosotros En el fondo que nos ganen
+–Claro es la pregunta si va a ser “el Terminator contra nosotros” Mira la singularidad viene O ya está acá Trata de deshacerte de tu celular por un año Ya estamos fusionados con esta tecnología como sociedad y como especie Nuestra distribución de recursos ocurre básicamente en la bolsa y acá el 80 de las transacciones de la bolsa son decididas por IA El 99 de las decisiones de la red de electricidad son tomadas por IA que localiza en tiempo real quién necesita energía Y si tú me dices “mira Martin recién descubrimos una especie donde un sistema que se llama IA distribuye el 80 de los recursos y el 99 de la energía” yo diría “bueno IA es una parte inseparable de esta sociedad” Y ya no se puede deshacer no se puede desenredar Tú podrías irte a la cordillera dejar tu celular atrás y nunca más tener interacciones digitales pero ya no serías parte de nuestra sociedad Dejarías de evolucionar con nosotros El punto aquí es que la especie humana ya evoluciona en convergencia con la tecnología que en algunos aspectos ya es mejor que nosotros… no en todos De nuevo la pregunta es qué cosas dejamos a la IA y qué cosas no
+Mientras eso lo decidamos nosotros y no ellos si aprenden a pensar por su cuenta
+–Sí Y si me preguntas a mí digamos filosóficamente lo que creo que está pasando es que efectivamente estamos creando una supraespecie otra especie superior Pero la verdad es que no tengo tanto miedo de eso
+¿Por qué no
+–A ver… Normalmente entendemos que la selección natural cuando hay dos especies elige a una de las dos la famosa “supervivencia del más apto” ¿no Pero también hay ejemplos de simbiosis en que las dos especies se fusionan y yo creo que en este caso las dos especies se van a fusionar Pero ya hablamos tanto que no sé si vale la pena explicar todo esto…
+Parece que sí
+–Quizás para entenderlo hay que mirar cómo funciona la vida los sistemas vivos Como sabes existen diferentes niveles de abstracción abajo tienes partículas subatómicas que interactúan para formar átomos los átomos forman redes para crear moléculas las moléculas para crear células y las células se ponen en redes –cada una con su respectiva pega– para crear organismos Después los organismos se ponen en redes para crear sociedades Y ahora ¿qué viene después Sociedades que se ponen en red a través de la tecnología para crear algo superior El punto es que cada uno de esos niveles cree funcionar con sus propias leyes y no saben que gracias a esas leyes se han formado otras leyes que han creado un nivel superior Mis células no saben que yo tengo conciencia Se encuentran y dicen “mira ahí hay una bacteria ¿la atacas tú o yo” Piensan que son bastante libres ¿no Pero los grandes números crean una estadística confiable de que esa bacteria va a ser atacada y gracias a la estabilidad de esos promedios es que mi sistema tiene la tranquilidad para crear lo que llamamos conciencia Y lo que creo que va a terminar haciendo la digitalización es convertirnos a nosotros en células de un organismo mayor
+¿Cómo
+–A medida que la IA empiece a organizarnos a programar a la sociedad Y va a poder hacerlo porque si bien tú y yo creemos ser muy distintos el funcionamiento de la sociedad con los grandes números consigue promedios muy estables Entonces este organismo puede sobrevivir hasta que yo me imagino que va a poder producir una conciencia Pero nosotros ni vamos a saber que esa conciencia existe Por eso te digo que no va a ser “Terminator contra nosotros” Es un supraorganismo con el que nos estamos fusionando y la digitalización es como el aceite que nos une La verdad es que normalmente no hablo de esto en entrevistas públicas pero eso significa para mí la singularidad estamos convergiendo con la tecnología para crear un ente superior que se llama sociotecnología tecnosociedad o como lo quieras llamar
+¿Por qué no te gusta hablar de esto en entrevistas
+–Porque es muy loco ¿no Es muy profundo y hay gente que se preocupa más de la cuenta Prefieren hablar del robot de Amazon que les mandó un paquete equivocado Nos descoloca que nos hablen de un chip implementado en el cerebro pero ya todos usamos tecnología para aumentar nuestras capacidades No es en ningún caso el fin de la humanidad es la evolución que sigue su camino Y la manera en que esto ocurra va a depender de nosotros Entonces nos conviene entender que tenemos por delante una gran responsabilidad porque nosotros diseñamos las instituciones que van a definir el futuro de estas convergencias
+
+
+
+
+Compártelo 
+Tuitéalo 
+
+
+
+
+
+
+
+Notas Relacionadas
+
+Michael Moore convoca a una funa masiva contra Donald Trump para el día en que asuma como presidente
+La reacción de la OTAN luego de que Donald Trump la calificara como “obsoleta”
+Pedro Pascal actor de Game of Thrones y Narcos “Pinochet es el villano de nuestra historia… un  Trump”
+Independentista puertorriqueño recibe perdón de Obama tras 35 años en prisión
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Columna de Paula Recart La postverdad y la metamentira
+
+
+Por Paula Recart
+19 Enero 2017
+
+ Comentarios
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Y mientras en el planeta The Clinic Online
+
+
+
+
+
+
+ 
+
+
+
+Alejandra Matus “Pinochet percibió que el sistema de las AFP iba a ser perjudicial para los trabajadores”
+
+
+Por Benjamín Miranda
+09 Octubre 2017
+
+ Comentarios
+
+
+									Fotos 
+								The Clinic Online								
+
+
+
+
+
+ 
+
+
+
+Mauricio Duce presidente de Espacio Público y creación de Chile Check “Esperamos que los candidatos basen sus afirmaciones en evidencia y no en prejuicios”
+
+
+Por Macarena García Lorca
+05 Octubre 2017
+
+ Comentarios
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Gonzalo Iturra guionista y fanático de Playboy “No entiendo por qué las minas no miran a Hugh Hefner como un aliado”
+
+
+Por Wladimir Salcedo
+10 Octubre 2017
+
+ Comentarios
+
+
+
+
+
+
+ 
+
+
+Director del instituto de neurociencia BNI
+Andrés Couve científico “El gobierno quiere sacar el ministerio por beneficios políticos No hay una real convicción de fortalecer la ciencia”
+
+
+Por Andrea Moletto
+24 Septiembre 2017
+
+ Comentarios
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Gerardo Scheel padre de Nicolás el estudiante de la Alianza Francesa que se suicidó  “Creo que sufrió una humillación insoportable”
+
+
+Por Andrea Moletto
+11 Octubre 2017
+
+ Comentarios
+
+
+									Fotos 
+								Alejandro Olivares								
+
+
+
+
+
+ 
+
+
+
+María Eugenia Lorenzini “Al Frente Amplio le falta feminismo”
+
+
+Por Benjamín Miranda
+06 Octubre 2017
+
+ Comentarios
+
+
+									Fotos 
+								The Clinic Online								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Inicio
+Poder
+Chilean News
+Webeo
+Columnas y Entrevistas
+La Calle
+Mundo al Instante
+Verde
+Cultura
+ 
+
+
+
+ 
+
+
+
+Sobre TConline
+Política de Privacidad
+TC en Facebook
+TC en Twitter
+TC en Flickr
+RSS
+Bar The Clinic
+Colabora con The Clinic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

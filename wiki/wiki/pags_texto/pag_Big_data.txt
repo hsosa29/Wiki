@@ -1,0 +1,394 @@
+
+
+
+
+Big data  Wikipedia la enciclopedia libre
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+Big data
+
+De Wikipedia la enciclopedia libre
+
+
+					Saltar a					navegación 					búsqueda
+
+
+
+
+
+
+
+
+
+
+
+En este artículo se detectaron varios problemas por favor edítalo para mejorarlo
+
+Las referencias no son claras o tienen un formato incorrecto
+Podría ser difícil de entender para lectores interesados en el tema
+
+Estas deficiencias fueron encontradas el 1 de enero de 2015
+
+
+
+
+
+
+
+Un sistema de representación creado por IBM que muestra macrodatos que consisten en las ediciones de Wikipedia realizadas por el bot Pearle mostrando su visualización más racional al ser acompañada de colores y posiciones en su representación
+
+
+Big data macrodatos1​ datos masivos inteligencia de datos o datos a gran escala es un concepto que hace referencia a un conjuntos de datos tan grandes que aplicaciones informáticas tradicionales de procesamiento de datos no son suficientes para tratar con ellos y los procedimientos usados para encontrar patrones repetitivos dentro de esos datos Los textos científicos en español con frecuencia se usa directamente el término en inglés big data tal como aparece en el ensayo de Viktor Schönberger La revolución de los datos masivos2​
+La disciplina dedicada a los datos masivos se enmarca en el sector de las tecnologías de la información y la comunicación Esta disciplina se ocupa de todas las actividades relacionadas con los sistemas que manipulan grandes conjuntos de datos Las dificultades más habituales vinculadas a la gestión de estas cantidades de datos se centran en la recolección y el almacenamiento3​ búsqueda compartición análisis4​ y visualización La tendencia a manipular enormes cantidades de datos se debe a la necesidad en muchos casos de incluir dicha información para la creación de informes estadísticos y modelos predictivos utilizados en diversas materias como los análisis de negocio publicitarios los datos de enfermedades infecciosas el espionaje y seguimiento a la población o la lucha contra el crimen organizado5​
+El límite superior de procesamiento ha ido creciendo a lo largo de los años Se estima que el mundo almacenó unos 5 zettabytes en 2014 Si se pone esta información en libros convirtiendo las imágenes y todo eso a su equivalente en letras se podría hacer 4500 pilas de libros que lleguen hasta el sol6​ Los científicos con cierta regularidad encuentran límites en el análisis debido a la gran cantidad de datos en ciertas áreas tales como la meteorología la genómica7​ la conectómica las complejas simulaciones de procesos físicos8​ y las investigaciones relacionadas con los procesos biológicos y ambientales9​ Las limitaciones también afectan a los motores de búsqueda en internet a los sistemas finanzas y a la informática de negocios Los data sets crecen en volumen debido en parte a la recolección masiva de información procedente de los sensores inalámbricos y los dispositivos móviles por ejemplo las VANET el constante crecimiento de los históricos de aplicaciones por ejemplo de los logs cámaras sistemas de teledetección micrófonos lectores de identificación por radiofrecuencia10​11​ La capacidad tecnológica per cápita a nivel mundial para almacenar datos se dobla aproximadamente cada cuarenta meses desde los años 198012​ Se estima que en 2012 cada día fueron creados cerca de 25 trillones de bytes de datos del inglés quintillion 25×101813​
+
+
+
+Índice
+
+
+1 Definición
+2 Tecnología
+
+21 Captura
+22 Transformación
+23 Almacenamiento NoSQL
+24 Análisis de datos
+25 Visualización de datos
+
+
+3 Utilidad
+
+31 Democracia
+32 Empresas
+33 Deportes
+34 Investigación
+
+
+4 Véase también
+5 Referencias
+6 Enlaces externos
+
+
+
+Definicióneditar
+Big data o macrodatos es un término que hace referencia a una cantidad de datos tal que supera la capacidad del software convencional para ser capturados administrados y procesados en un tiempo razonable El volumen de los datos masivos crece constantemente En 2012 se estimaba su tamaño de entre una docena de terabytes hasta varios petabytes de datos en un único conjunto de datos En la metodología MIKE20 dedicada a investigar temas relacionados con la gestión de información definen big data14​ en términos de permutaciones útiles complejidad y dificultad para borrar registros individuales
+Se ha definido también como datos lo suficientemente masivos como para poner de relieve cuestiones y preocupaciones en torno a la efectividad del anonimato desde una perspectiva más práctica que teórica15​
+En 2001 en un informe de investigación que se fundamentaba en congresos y presentaciones relacionadas16​ la META Group ahora Gartner definía el crecimiento constante de datos como una oportunidad y un reto para investigar en el volumen la velocidad y la variedad Gartner' continúa usando datos masivos como referencia17​ Además grandes proveedores del mercado de datos masivos están desarrollando soluciones para atender las demandas más críticas sobre cómo procesar tal cantidad de datos como MapR y Cloudera
+Tecnologíaeditar
+Existen muchísimas herramientas para tratar con big data Algunos ejemplos incluyen Hadoop NoSQL Cassandra inteligencia empresarial aprendizaje automático y MapReduce Estas herramientas tratan con algunos de los tres tipos de big data18​
+
+Datos estructurados datos que tienen bien definidos su longitud y su formato como las fechas los números o las cadenas de caracteres Se almacenan en tablas Un ejemplo son las bases de datos relacionales y los almacenes de datos
+Datos no estructurados datos en el formato tal y como fueron recolectados carecen de un formato específico No se pueden almacenar dentro de una tabla ya que no se puede desgranar su información a tipos básicos de datos Algunos ejemplos son los PDF documentos multimedia correos electrónicos o documentos de texto
+Datos semiestructurados datos que no se limitan a campos determinados pero que contiene marcadores para separar los diferentes elementos Es una información poco regular como para ser gestionada de una forma estándar Estos datos poseen sus propios metadatos semiestructurados19​ que describen los objetos y las relaciones entre ellos y pueden acabar siendo aceptados por convención Como ejemplos tenemos los archivos tipo hojas de cálculo HTML XML o JSON
+
+Capturaeditar
+¿De dónde provienen todos estos datos Los fabricamos directa e indirectamente segundo tras segundo Un iPhone hoy en día tiene más capacidad de cómputo que la NASA cuando el hombre llegó a la luna20​ por lo que la cantidad de datos generados por persona y en unidad de tiempo es muy grande Catalogamos la procedencia de los datos según las siguientes categorías21​
+
+Generados por las personas el hecho de enviar correos electrónicos o mensajes por WhatsApp publicar un estado en Facebook tuitear contenidos o responder a una encuesta por la calle son cosas que hacemos a diario y que crean nuevos datos y metadatos que pueden ser analizados Se estima que cada minuto al día se envían más de 200 millones de correos electrónicos se comparten más de 700000 piezas de contenido en Facebook se realizan dos millones de búsquedas en Google o se editan 48 horas de vídeo en YouTube22​ Por otro lado las trazas de utilización en un sistema ERP incluir registros en una base de datos o introducir información en una hoja de cálculo son otras formas de generar estos datos
+Transacciones de datos la facturación las llamadas o las transacciones entre cuentas generan información que tratada puede ser datos relevantes Un ejemplo más claro lo encontraremos en las transacciones bancarias lo que el usuario conoce como un ingreso de X euros la computación lo interpretará como una acción llevada a cabo en una fecha y momento determinado en un lugar concreto entre unos usuarios registrados y más metadatos
+Marketing electrónico y web se generan una gran cantidad de datos cuando se navega por internet Con la web 20 se ha roto el paradigma webmastercontenidolector y los mismos usuarios se convierten en creadores de contenido gracias a su interacción con el sitio Existen muchas herramientas de seguimiento utilizadas en su mayoría con fines de marketing y análisis de negocio Los movimientos de ratón quedan grabados en mapas de calor y queda registro de cuánto pasamos en cada página y cuándo las visitamos
+Máquina a máquina machine to machine M2M son las tecnologías que comparten datos con dispositivos medidores sensores de temperatura de luz de altura de presión de sonido… que transforman las magnitudes físicas o químicas y las convierten en datos Existen desde hace décadas pero la llegada de las comunicaciones inalámbricas WiFi Bluetooth RFID… ha revolucionado el mundo de los sensores Algunos ejemplos son los GPS en la automoción o los sensores de signos vitales en la medicina
+Biométrica son el conjunto de datos que provienen de la seguridad defensa y servicios de inteligencia23​ Son cantidades de datos generados por lectores biométricos como escáneres de retina escáneres de huellas digitales o lectores de cadenas de ADN El propósito de estos datos es proporcionar mecanismos de seguridad y suelen estar custodiados por los ministerios de defensa y departamentos de inteligencia Un ejemplo de aplicación es el cruce de ADN entre una muestra de un crimen y una muestra en nuestra base de datos
+
+Transformacióneditar
+Una vez encontradas las fuentes de los datos necesarios muy posiblemente dispongamos de un sinfín de tablas de origen que no estarán relacionadas El siguiente objetivo es hacer que los datos se recojan en un mismo lugar y darles un formato
+Aquí entran en juego las plataformas extraer transformar y cargar ETL Su propósito es extraer los datos de las diferentes fuentes y sistemas para después hacer transformaciones conversiones de datos limpieza de datos sucios cambios de formato… y finalmente cargar los datos en la base de datos o almacén de datos especificada24​ Un ejemplo de plataforma ETL es el Pentaho Data Integration más concretamente su aplicación Spoon
+Almacenamiento NoSQLeditar
+El término NoSQL se refiere a Not Only SQL y son sistemas de almacenamiento que no cumplen con el esquema entidadrelación25​ Proveen un sistema de almacenamiento mucho más flexible y concurrente y permiten manipular grandes cantidades de información de manera mucho más rápida que las bases de datos relacionales
+Distinguimos cuatro grandes grupos de bases de datos NoSQL
+
+Almacenamiento clavevalor keyvalue los datos se almacenan de forma similar a los mapas o diccionarios de datos donde se accede al dato a partir de una clave única26​ Los valores datos son aislados e independientes entre ellos y no son interpretados por el sistema Pueden ser variables simples como enteros o caracteres u objetos Por otro lado este sistema de almacenamiento carece de una estructura de datos clara y establecida por lo que no requiere un formateo de los datos muy estricto27​
+
+Son útiles para operaciones simples basadas en las claves Un ejemplo es el aumento de velocidad de carga de un sitio web que puede utilizar diferentes perfiles de usuario teniendo mapeados los archivos que hay que incluir según el id de usuario y que han sido calculados con anterioridad Apache Cassandra es la tecnología de almacenamiento clavevalor más reconocida por los usuarios28​
+
+Almacenamiento documental las bases de datos documentales guardan un gran parecido con las bases de datos ClaveValor diferenciándose en el dato que guardan Si en el anterior no se requería una estructura de datos concreta en este caso guardamos datos semiestructurados28​ Estos datos pasan a llamarse documentos y pueden estar formateados en XML JSON Binary JSON o el que acepte la misma base de datos
+
+
+Todos los documentos tienen una clave única con la que pueden ser accedidos e identificados explícitamente Estos documentos no son opacos al sistema por lo que pueden ser interpretados y lanzar queries sobre ellos26​ Un ejemplo que aclare cómo se usa lo encontramos en un blog se almacena el autor la fecha el título el resumen y el contenido del post
+
+CouchDB o MongoDB28​ son quizá las más conocidas Hay que hacer mención especial a MapReduce una tecnología de Google inicialmente diseñada para su algoritmo PageRank que permite seleccionar un subconjunto de datos agruparlos o reducirlos y cargarlos en otra colección y a Hadoop que es una tecnología de Apache diseñada para almacenar y procesar grandes cantidades de datos
+
+Almacenamiento en grafo las bases de datos en grafo rompen con la idea de tablas y se basan en la teoría de grafos donde se establece que la información son los nodos y las relaciones entre la información son las aristas28​ algo similar al modelo relacional Su mayor uso se contempla en casos de relacionar grandes cantidades de datos que pueden ser muy variables Por ejemplo los nodos pueden contener objetos variables y atributos diferentes en unos y otros Las operaciones de join se sustituyen por recorridos a través del grafo y se guarda una lista de adyacencias entre los nodos26​ Encontramos un ejemplo en las redes sociales en Facebook cada nodo se considera un usuario que puede tener aristas de amistad con otros usuarios o aristas de publicación con nodos de contenidos Soluciones como Neo4J y GraphDB28​ son las más conocidas dentro de las bases de datos en grafo
+Almacenamiento orientado a columnas por último el almacenamiento ColumnOriented es parecido al Documental Su modelo de datos es definido como “un mapa de datos multidimensional poco denso distribuido y persistente”26​ Se orienta a almacenar datos con tendencia a escalar horizontalmente por lo que permite guardar diferentes atributos y objetos bajo una misma clave A diferencia del documental y el clavevalor en este caso se pueden almacenar varios atributos y objetos pero no serán interpretables directamente por el sistema Permite agrupar columnas en familias y guardar la información cronológicamente mejorando el rendimiento Esta tecnología se acostumbra a usar en casos con 100 o más atributos por clave28​ Su precursor es BigTable de Google pero han aparecido nuevas soluciones como HBase o HyperTable
+
+Análisis de datoseditar
+Teniendo los datos necesarios almacenados según diferentes tecnologías de almacenamiento nos daremos cuenta que necesitaremos diferentes técnicas de análisis de datos como las siguientes
+
+Asociación permite encontrar relaciones entre diferentes variables29​ Bajo la premisa de causalidad se pretende encontrar una predicción en el comportamiento de otras variables Estas relaciones pueden ser los sistemas de ventas cruzadas en los comercios electrónicos
+Minería de datos data mining tiene como objetivo encontrar comportamientos predictivos Engloba el conjunto de técnicas que combina métodos estadísticos y de aprendizaje automático con almacenamiento en bases de datos30​ Está estrechamente relacionada con los modelos utilizados para descubrir patrones en grandes cantidades de datos
+Agrupación clustering el análisis de clústeres es un tipo de minería de datos que divide grandes grupos de individuos en grupos más pequeños de los cuales no conocíamos su parecido antes del análisis30​ El propósito es encontrar similitudes entre estos grupos y el descubrimiento de nuevos conociendo cuáles son las cualidades que lo definen Es una metodología apropiada para encontrar relaciones entre resultados y hacer una evaluación preliminar de la estructura de los datos analizados Existen diferentes técnicas y algoritmos de clusterización31​
+Análisis de texto text analytics gran parte de los datos generados por las personas son textos como emails búsquedas web o contenidos Esta metodología permite extraer información de estos datos y así modelar temas y asuntos o predecir palabras32​
+
+Visualización de datoseditar
+
+
+
+
+Esto es una infografía
+
+
+Tal y como el Instituto Nacional de Estadística dice en sus tutoriales “una imagen vale más que mil palabras o que mil datos” Nuestra mente agradecerá mucho más la visualización amigable de unos resultados estadísticos en gráficos o mapas que no en tablas con números y conclusiones En los macrodatos se llega un paso más allá parafraseando a Edward Tufte uno de los expertos en visualización de datos más reconocidos a nivel mundial "El mundo es complejo dinámico multidimensional el papel es estático y plano ¿Cómo vamos a representar la rica experiencia visual del mundo en la mera planicie” Mondrian33​ es una plataforma que permite visualizar la información a través de los análisis llevados a cabo sobre los datos que disponemos Con esta plataforma se intenta llegar a un público más concreto y una utilidad más acotada como un Cuadro de Mando Integral de una organización Por otro lado las infografías se han vuelto un fenómeno viral donde se recogen los resultados de los diferentes análisis sobre nuestros datos y son un material atractivo entretenido y simplificado para audiencias masivas34​
+Utilidadeditar
+Este conjunto de tecnologías se puede usar en una gran variedad de ámbitos como los siguientes
+Democraciaeditar
+Los datos masivos se usan habitualmente para influenciar el proceso democrático Los representantes del pueblo pueden ver todo lo que hacen los ciudadanos y los ciudadanos pueden dictar la vida pública de los representantes mediante tuits y otros métodos de extender ideas en la sociedad Las campañas presidenciales de Obama y Trump los usaron de manera generalizada6​ y hay expertos que advierten que hay que "reinventar la democracia representativa Si no es posible que se convierta en una dictadura de la información"35​
+Empresaseditar
+Redes sociales
+Cada vez más los internautas tienden a subir a las redes sociales toda su actividad y la de sus conocidos Las empresas utilizan esta información para cruzar los datos de los candidatos a un trabajo Oracle ha desarrollado una herramienta llamada Taleo Social Sourcing36​ la cual está integrada con las API de Facebook Twitter y LinkedIn Gracias a su uso los departamentos de recursos humanos pueden ver entrando la identidad del candidato su perfil social y profesional en cuestión de segundos Por otro lado les permite crear una lista de posibles candidatos según el perfil profesional necesario y así pasar a ofrecer el puesto de trabajo a un público mucho más objetivo
+Por otro lado Gate Gourmet —una compañía de cáterin para aerolíneas— experimentaba una tasa de abandono del 50  de sus trabajadores asignados al aeropuerto de Chicago y sospecharon que el problema existía en el tiempo dedicado al viaje Para demostrarlo hicieron análisis juntando varios data sets de sus sistemas internos y de otros externos como datos demográficos datos de tráfico y datos de uso de redes sociales Los resultados que obtuvieron fueron patrones que relacionaban muy consistentemente la alta tasa de abandono con la distancia del lugar de trabajo a casa y la accesibilidad al transporte público37​
+Consumo
+Amazon es líder en ventas cruzadas El éxito se basa en la minería de datos masiva basando los patrones de compra de un usuario cruzados con los datos de compra de otro creando así anuncios personalizados y boletines electrónicos que incluyen justo aquello que el usuario quiere en ese instante38​ También hay casos sin conexión de aplicaciones de macrodatos Los teléfonos móviles envían peticiones de escucha WiFi a todos los puntos de acceso que se cruzan Algunas compañías han decidido hacer un trazo de estas peticiones con su localización y dirección MAC para saber qué dispositivo hace cuál ruta dentro de un recinto No hay que asustarse ya que con la dirección MAC no pueden invadir la intimidad39​ Las grandes superficies aprovechan estos datos para sacar información como contabilizar cuánto tiempo pasan los clientes en su interior qué rutas siguen dónde permanecen más tiempo ya sea escogiendo un producto o el tiempo de espera en caja o cuál es la frecuencia de visita
+
+Macrodatos e intimidad
+La cantidad de datos creados anualmente es de 28 zettabytes en 2012 de los cuales el 75  son generados por los individuos según su uso de la red ya sea bajarse un archivo conectar el GPS o enviar un correo electrónico Se calcula que un oficinista medio genera 18 terabytes al año por lo que son unos 5 GB al día de información40​
+Aquí entran en juego las empresas llamadas corredores de datos Acxiom es una de ellas y posee unas 1500 trazas de datos de más de 500 millones de usuarios de internet Todos estos datos son transformados y cruzados para incluir al usuario analizado en uno de los 70 segmentos de usuarios llamado PersonicX41​ Descrito como un “resumen de indicadores de estilo de vida intereses y actividades” esta correduría de datos basa su clusterización en los acontecimientos vitales y es capaz de predecir más de 3 000 reacciones ante estímulos de estos clientes En un primer momento captaba la información de los hechos reales y no virtuales de los usuarios42​ En febrero de 2013 Facebook acordó la cesión de la información personal de sus usuarios con Acxiom y otros corredores de datos haciendo cruzar las actividades de la vida offline con las actividades en línea 30
+A nivel usuario nos encontramos con Google Location History un servicio de Google que registra las ubicaciones en las cuales ha estado un usuario que lleva el móvil encima y con el servicio de localización activado que por defecto lo está en los terminales con Android Al acceder a él muestra un mapa con las rutas que ha seguido el usuario con la hora de llegada y salida de cada ubicación43​ Gracias a esta utilidad se crean algoritmos de recomendaciones de amigos en redes sociales y ubicaciones a visitar basados en el historial de ubicaciones del usuario44​
+Por último Google pagó 3200 millones de dólares por Nest una empresa de detectores de humo45​ Ahora Google ha abierto Nest Labs donde se pretende desarrollar sensores para convertir la casa en una Smart home Incluir estos sensores permitirá saber por ejemplo cuándo hay alguien o no en casa gracias a su interacción con los wearables a qué temperatura está el ambiente o detectar si hay algún peligro dentro como fuego46​
+Deporteseditar
+Profesional
+En un ámbito donde se mueve tanto dinero suelen utilizar las nuevas tecnologías antes que los usuarios de base Nos encontramos por ejemplo que el análisis de los partidos constituye una parte fundamental en el entrenamiento de los profesionales y la toma de decisiones de los entrenadores
+Amisco47​ es un sistema aplicado por los más importantes equipos de las ligas Española Francesa Alemana e Inglesa desde el 2001 Consta de 8 cámaras y diversos ordenadores instalados en los estadios que registran los movimientos de los jugadores a razón de 25 registros por segundo y luego envían los datos a una central donde hacen un análisis masivo de los datos La información que se devuelve como resultado incluye una reproducción del partido en dos dimensiones los datos técnicos y estadísticas y un resumen de los datos físicos de cada jugador permitiendo seleccionar varias dimensiones y visualizaciones diferentes de datos47​
+Aficionado
+Aplicaciones como Runtastic Garmin o Nike proveen de resultados big data al usuario Este último —Nike— va un paso más allá a nivel de organización ya que fabrican un producto básico para sus usuarios las zapatillas Los 7 millones de usuarios generan una gran cantidad de datos para medir el rendimiento y su mejora por lo que la empresa genera unos clústeres con los patrones de comportamiento de sus usuarios Uno de sus objetivos pues es controlar el tiempo de vida de sus zapatillas encontrando fórmulas para mejorar la calidad Por último aumenta la competitividad entre sus usuarios con el uso de la gamificación establece que comunidades de usuarios lleguen a metas y consigan objetivos conjuntamente con el uso de la aplicación motivando e inspirando a los corredores para usar su aplicación y a más largo plazo sus productos deportivos
+Investigacióneditar
+Salud y medicina
+Hacia mediados 2009 el mundo experimentó una pandemia de gripe A llamada gripe porcina o H1N1 El website Google Flu Trends fue capaz de predecirla gracias a los resultados de las búsquedas Flu Trends usa los datos de las búsquedas de los usuarios que contienen "síntomas parecidos a la enfermedad de la gripe" InfluenzaLike Illness Symptoms y los agrupa según ubicación y fecha y es capaz de predecir la actividad de la gripe hasta con dos semanas de antelación más que los sistemas tradicionales
+Más concretamente en Nueva Zelanda48​ cruzaron los datos de las tendencias de gripe de Google con datos existentes de los sistemas de salud nacionales y comprobaron que estaban alineados Los gráficos mostraron una correlación con las búsquedas de síntomas relacionados con la gripe y la extensión de la pandemia en el país Los países con sistemas de predicción poco desarrollados pueden beneficiarse de una predicción fiable y pública para abastecer a su población de las medidas de seguridad oportunas
+
+Defensa y seguridad
+Para incrementar la seguridad frente a los ataques de las propias organizaciones ya sean empresas en el entorno económico o los propios ministerios de defensa en el entorno de ciberataques se contempla la utilidad de las tecnologías de big data en escenarios como la vigilancia y seguridad de fronteras lucha contra el terrorismo y crimen organizado contra el fraude planes de seguridad ciudadana o planeamiento táctico de misiones e inteligencia militar49​
+
+Caso específico del proyecto Aloja
+
+
+
+
+Una de las máquinas del Marenostrum Supercomputador del BSC
+
+
+El proyecto Aloja50​ ha sido iniciado por una apuesta en común del Barcelona Supercomputing Center BSC y Microsoft Research El objetivo de este proyecto de big data quiere "conseguir una optimización automática en despliegues de Hadoop en diferentes infraestructuras" 40
+Caso específico de sostenibilidad
+Conservation International es una organización con el propósito de concienciar a la sociedad de cuidar el entorno de una manera responsable y sostenible Con la ayuda de la plataforma Vertica Analytics de HP han situado 1000 cámaras a lo largo de 16 bosques en 4 continentes Estas cámaras incorporan unos sensores y a modo de cámara oculta graban el comportamiento de la fauna Con estas imágenes y los datos de los sensores precipitaciones temperatura humedad solar… consiguen información sobre cómo el cambio climático o el desgaste de la tierra afecta en su comportamiento y desarrollo51​
+Véase tambiéneditar
+
+ciencias de la computación
+Medios sociales
+Internet de las cosas
+
+Referenciaseditar
+
+
+↑ «macrodatos e inteligencia de datos alternativas a big data» Consultado el 11 de abril de 2017 
+↑ «"Los datos masivos o big data son el nuevo oro"» eldiarioes Consultado el 23 de mayo de 2017 
+↑ Kusnetzky Dan What is "Big Data" ZDNet httpblogszdnetcomvirtualizationp1708
+↑ Vance Ashley StartUp Goes After Big Data With Hadoop Helper New York Times Blog 22 de abril de 2010 httpbitsblogsnytimescom20100422startupgoesafterbigdatawithhadoophelperdbk
+↑ Cukier K 25 February 2010 «Data data everywhere» The Economist httpwwweconomistcomspecialreportsdisplaystorycfmstoryid15557443
+↑ a b Martin Hilbert experto en redes digitales “Obama y Trump usaron el Big Data para lavar cerebros” httpwwwthecliniccl20170119martinhilbertexpertoredesdigitalesobamatrumpusaronbigdatalavarcerebros
+↑ Community cleverness required Nature 4557209 1 2008 httpwwwnaturecomnaturejournalv455n7209full455001ahtml
+↑ Sandia sees data management challenges spiral HPC Projects 4 August 2009 «Copia archivada» Archivado desde el original el 11 de mayo de 2011 Consultado el 22 de abril de 2011 
+↑ ReichmanOJ Jones MB and Schildhauer MP 2011 Challenges and Opportunities of Open Data in Ecology Science 3316018 703705DOI101126science1197962
+↑ Hellerstein Joe Parallel Programming in the Age of Big Data Gigaom Blog 9 November 2008 httpgigaomcom20081109mapreduceleadsthewayforparallelprogramming
+↑ Segaran Toby and Hammerbacher Jeff Beautiful Data 1st Edition O'Reilly Media Pg 257
+↑ «The World’s Technological Capacity to Store Communicate and Compute Information» Martin Hilbert y Priscila López 2011 Science 3326025 6065 free access to the article through here martinhilbertnetWorldInfoCapacityhtml
+↑ 1
+↑ Big Data Definition
+↑ Douglas Patterson 2012 Big Ethics for Big Data 
+↑ Douglas Laney «3D Data Management Controlling Data Volume Velocity and Variety» Gartner Consultado el 6 de febrero de 2001 
+↑ Beyer Mark «Gartner Says Solving 'Big Data' Challenge Involves More Than Just Managing Volumes of Data» Gartner Consultado el 13 de julio de 2011 
+↑ Purcell Bernice 2013 «The emergence of Big Data technology and Analytics» Holy Family University  fechaacceso requiere url ayuda
+↑ Lopez García David 20122013 Analysis of the possibilities of use of Big Data in organizations Consultado el 18 de octubre de 2014 
+↑ Paniagua Soraya Junio  septiembre 2013 «A world of sensors from Data to Big Data» Revista Telos 
+↑ “Conceptos básicos de Big Data” TRC Informática SL 2013
+↑ Paniagua Soraya junioseptiembre 2013 «A world of sensors from Data to Big Data» Revista Telos 
+↑ Kohlwey Edmund Sussman Abel Trost Jason Maurer Amber 2011 «Leveraging the Cloud for Big Data Biometrics» IEEE World Congress on Services 
+↑ Tomsen Christian Pedersen Torben Bach 2009 «pygrametl A Powerful Programming Framework for Extract–Transform–Load Programmers» 1DB Technical Report No 25 Department of Computer Science Aalborg University 
+↑ Martín Adriana Chávez Susana Rodríguez Nelson R Valenzuela Adriana Murazzo Maria A 2013 «Bases de datos NoSql en cloud computing» WICC Consultado el 18 de octubre de 2014 
+↑ a b c d Hecht Robin Jablonski Stefan 2011 «NoSQL Evaluation a use case oriented survey» International Conference on Cloud and Service Computing 
+↑ Seeger Marc 21 de septiembre de 2009 KeyValue stores a practical overview Consultado el 1 de enero de 2015 
+↑ a b c d e f Bianchi Widder Maria Belén septiembre de 2012 «Els beneficis de l’ús de tecnologies NoSQL» UPCommons Consultado el 1 de enero de 2015 
+↑ Vila M Amparo Sanchez Daniel Escobar Luis 2004 «Relaciones Causales en Reglas de Asociación» XII Congreso Español sobre tecnologías y lógica Fuzzy 
+↑ a b Manyika James Chui Michael Brown Brad Bughin Jacques Dobbs Richard Roxburgh Charles Byers Angela Hung Mayo de 2011 «Big data The next frontier for innovation competition and productivity» McKinsey Consultado el 1 de enero de 2015 
+↑ Jain AK Murty MN Flynn PJ septiembre de 1999 «Data Clustering A Review» ACM Computing Surveys 31 3 Consultado el 1 de enero de 2015 
+↑ Maltby Dylan 9 de octubre de 2011 «Big Data Analytics» ASIST 2011 New Orleans 
+↑ Theus Martin 2003 «Interactive Data Visualization using Mondrian» Journal of Statistical Software 
+↑ Albarracín Pablo 12 de agosto de 2013 «Visualización avanzada de datos La belleza del Big Data» Revista América Economía Tecno Archivado desde el original el 1 de enero de 2015 Consultado el 18 de octubre de 2014 
+↑ Martin Hilbert gurú del Big Data "La democracia no está preparada para la era digital y está siendo destruida" httpwwwbbccommundonoticiasinternacional39511606
+↑ Social Recruiting Automation with Oracle Taleo Social Sourcing Cloud Service 2013 
+↑ Bernstein David 2014 «How Big Data is taking recruiters from “I Think” to “I Know"» 
+↑ McAfee Andrew Brynjolfsson Eric October 2012 «Big Data The Management Revolution» Harvard Business Review 
+↑ López Revilla Juan Carlos 14 de noviembre de 2013 «Las compañías de «WiFi tracking» en tiendas quieren que sepas lo que está pasando» Mobile World Capital 
+↑ Tucker Patric 16 de mayo de 2013 «¿Han hecho los grandes volúmenes de datos que el anonimato sea imposible» MIT Technology Review 
+↑ PersonicX Cluster Perspectives 2010 
+↑ McManus John 2013 «Street Wiser» American Demographics 
+↑ Sevilla Fernando 27 de enero de 2013 El Historial de Ubicaciones de Android ¿qué sabe Google de tu posición 
+↑ Zheng Yu Zhang Lizhu Zhengxin Ma Xie Xing Ma WeiYing 5 de febrero de 2011 «Recommending Friends and locations based on individual location history» ACM Transactions on the Web 5 1 
+↑ «Por qué quiere Google a Nest una empresa de detectores de humo» ABC 15 de enero de 2014 
+↑ Olson Parmy 24 de junio de 2014 «Google's Nest Moves To Become Master Of The Smart Home By Talking To Other Devices» Forbes 
+↑ a b Reilly Thomas Korkusuz Feza 2009 Science and Football VI The proceedings of the Sixth World Congress on Science and Football p 209 ISBN 0203893689 
+↑ Wilson N Mason M Tobias M Peacey M Huang Q S Baker M Eurosurveillance Edition 2009 «Interpreting “Google Flu Trends” data for pandemic H1N1 influenza The New Zealand Experience» Eurosurveillance Edition 2009 14  Issue 44 4 
+↑ Carrillo Ruiz Jose Antonio Marco de Lucas Jesus E Cases Vega Fernando Dueñas Lopez Juan Carlos Cristino Fernandez Jose Gonzalez Muñoz de Morales Guillermo Pereda Laredo Luis Fernando Marzo de 2013 «Big Data en los entornos de Defensa y Seguridad» Instituto Español de Estudios Estratégicos 
+↑ «El BSC y Microsoft Research Center optimizarán Big Data con el proyecto Aloja» Computing 31 de julio de 2014 Consultado el 1 de enero de 2015 
+↑ How Big Data Is Helping to Save the Planet 15 de septiembre de 2014 
+
+
+Enlaces externoseditar
+
+Big Data ofrecido por las grandes empresas SAP Oracle Microsoft y otros
+Historia cronológica del Big Data Una línea del tiempo visual con los principales hitos de la historia del almacenamiento de la información
+IBM crea una universidad de Big Data para aprender gratis
+
+
+
+
+
+ 
+						Obtenido de «httpseswikipediaorgwindexphptitleBigdataoldid102701984»					
+Categoría Sistemas de gestión de bases de datosCategorías ocultas WikipediaPáginas con referencias sin URL y con fecha de accesoWikipediaArtículos que necesitan formato correcto de referenciasWikipediaArtículos demasiado complejos 
+
+
+
+Menú de navegación
+
+
+Herramientas personales
+
+No has iniciado sesiónDiscusiónContribucionesCrear una cuentaAcceder 
+
+
+
+Espacios de nombres
+
+Artículo
+Discusión
+
+
+
+
+Variantes
+
+
+
+
+
+
+
+
+
+Vistas
+
+Leer
+Editar
+Ver historial
+
+
+
+Más
+
+
+
+
+
+
+
+Buscar
+
+
+
+ 
+
+
+
+
+
+
+
+Navegación
+
+
+PortadaPortal de la comunidadActualidadCambios recientesPáginas nuevasPágina aleatoriaAyudaDonacionesNotificar un error 
+
+
+
+Imprimirexportar
+
+
+Crear un libroDescargar como PDFVersión para imprimir 
+
+
+
+En otros proyectos
+
+
+Wikimedia Commons 
+
+
+
+Herramientas
+
+
+Lo que enlaza aquíCambios en enlazadasSubir archivoPáginas especialesEnlace permanenteInformación de la páginaElemento de WikidataCitar esta página 
+
+
+
+En otros idiomas
+
+
+العربيةAzərbaycancaБеларускаяBosanskiCatalàکوردیČeštinaDanskDeutschEnglishEuskaraفارسیSuomiFrançaisעבריתहिन्दीMagyarBahasa IndonesiaÍslenskaItaliano日本語한국어LietuviųLatviešuNederlandsNorskPolskiPortuguêsRomnăРусскийසිංහලSimple EnglishСрпски  srpskiSvenskaதமிழ்తెలుగుไทยTürkçeТатарчаtatarçaУкраїнськаOʻzbekchaўзбекчаTiếng Việt中文 
+Editar enlaces 
+
+
+
+
+
+ Se editó esta página por última vez el 19 oct 2017 a las 1804
+El texto está disponible bajo la Licencia Creative Commons Atribución Compartir Igual 30
+pueden aplicarse cláusulas adicionales Al usar este sitio usted acepta nuestros términos de uso y nuestra política de privacidad Wikipedia® es una marca registrada de la Fundación Wikimedia Inc una organización sin ánimo de lucro
+
+
+Normativa de privacidad
+Acerca de Wikipedia
+Limitación de responsabilidad
+Desarrolladores
+Declaración de cookies
+Versión para móviles
+
+
+
+ 
+
+ 
+
+
+
+
+
+

@@ -5,7 +5,7 @@ import os
 import string
 
 def getPalabras(ruta_actual,nombre_arc_act):
-    soup=BeautifulSoup(open(ruta_actual),"html.parser")
+    soup=BeautifulSoup(open(ruta_actual, encoding="utf8"),"html.parser")
     for script in soup(["script","style"]):
       script.extract()
     texto_completo = soup.get_text()

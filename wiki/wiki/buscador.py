@@ -5,7 +5,7 @@ data=json.loads(open('jsonIndexer.json').read().encode("utf-8").decode("utf-8","
 def obtenerRelevancia(lista, palabras):
         rel=0
         for palabra in palabras:
-                if lista.has_key(palabra):
+                if lista.__contains__(palabra):
                         rel=rel+int(lista[palabra])
                
         return rel
@@ -13,7 +13,7 @@ def obtenerRelevancia(lista, palabras):
 print ("se ha cargado el archivo con el listado de paginas por palabra")
 print ("se ha cargado el archivo con los datos PageRank")
 
-entrada=raw_input("Ingrese la palabra que quiere buscar: ")
+entrada=input("Ingrese la palabra que quiere buscar: ")
 palabras=entrada.split()
 print ("Resultado de Busqueda")
 

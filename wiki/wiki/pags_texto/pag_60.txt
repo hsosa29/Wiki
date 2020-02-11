@@ -1,0 +1,659 @@
+
+
+
+
+
+
+
+
+The World’s Technological Capacity to Store Communicate and Compute Information  Science
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+ 
+
+HomeNewsJournalsTopicsCareers 
+
+ Search
+
+Search
+
+ 
+
+
+
+
+Toggle menu
+
+
+
+
+
+ Search
+
+Search
+
+ 
+
+
+
+
+
+
+
+
+Log in 
+My account
+Contact Us
+
+
+
+
+
+
+
+
+Become a member Renew my subscription
+Sign up for newsletters
+
+
+
+ 
+
+
+
+
+  
+
+
+
+
+ Facebook
+ Twitter
+ Google
+ Rss
+
+
+
+Authors
+Members
+Librarians
+Advertisers
+
+
+
+
+HomeRecent VideosLatest PodcastsPhoto GalleriesDance Your PhD ContestData Stories ContestNewsLatest NewsScienceInsiderScienceShotsSifterFrom the MagazineAbout NewsQuizzesJournalsScienceScience AdvancesScience ImmunologyScience RoboticsScience SignalingScience Translational MedicineTopicsAll TopicsSpecial IssuesCustom PublishingCareersArticlesFind JobsCareer ResourcesForumFor EmployersEmployer ProfilesGraduate ProgramsBookletsCareers FeaturesAbout Careers Search
+
+Search
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+          share        
+
+
+
+
+
+
+
+
+
+
+
+Research Article
+The World’s Technological Capacity to Store Communicate and Compute Information
+
+Martin Hilbert1 Priscila López21Annenberg School of Communication University of Southern California Los Angeles CA 90089 USA United Nations Economic Commission for Latin America and the Caribbean ECLAC2Information and Communication Sciences Department Open University of Catalonia Barcelona 08018 Spain↵To whom correspondence should be addressed Email mhilbertatuscedu
+
+
+ See allHide authors and affiliations
+
+
+
+Science  01 Apr 2011Vol 332 Issue 6025 pp 6065DOI 101126science1200970      
+
+Martin HilbertAnnenberg School of Communication University of Southern California Los Angeles CA 90089 USA United Nations Economic Commission for Latin America and the Caribbean ECLACFind this author on Google Scholar
+Find this author on PubMed
+Search for this author on this site
+Priscila LópezInformation and Communication Sciences Department Open University of Catalonia Barcelona 08018 SpainFind this author on Google Scholar
+Find this author on PubMed
+Search for this author on this site
+ 
+
+
+
+ 
+
+
+Article
+Figures  Data
+Info  Metrics
+eLetters
+ PDF
+
+
+
+
+
+
+
+You are currently viewing the abstract
+View Full Text
+
+
+As a service to the community this article is available to view for free Use your via AAAS ID to log in or register for a free account
+ 
+
+
+Register for Free
+JoinSubscribe
+Recommend a subscription to your library
+Help for librarians
+
+
+
+
+
+
+Order a single issue
+
+
+
+
+
+
+
+
+
+Abstract
+We estimated the world’s technological capacity to store communicate and compute information tracking 60 analog and digital technologies during the period from 1986 to 2007 In 2007 humankind was able to store 29 × 1020 optimally compressed bytes communicate almost 2 × 1021 bytes and carry out 64 × 1018 instructions per second on generalpurpose computers Generalpurpose computing capacity grew at an annual rate of 58 The world’s capacity for bidirectional telecommunication grew at 28 per year closely followed by the increase in globally stored information 23 Humankind’s capacity for unidirectional information diffusion through broadcasting channels has experienced comparatively modest annual growth 6 Telecommunication has been dominated by digital technologies since 1990 999 in digital format in 2007 and the majority of our technological memory has been in digital format since the early 2000s 94 digital in 2007
+View Full Text 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Science
+Vol 332 Issue 602501 April 2011 
+Table of Contents 
+Print Table of Contents 
+Advertising PDF
+Classified PDF
+Masthead PDF
+ 
+ 
+
+
+
+
+          Article Tools        
+
+
+ Email
+
+
+
+
+
+Thank you for your interest in spreading the word about ScienceNOTE We only request your email address so that the person you are recommending the page to knows that you wanted them to see it and that it is not junk mail We do not capture any email address
+
+
+Your Email
+
+
+
+Your Name
+
+
+
+Send To
+
+Enter multiple addresses on separate lines or separate them with commas
+
+
+You are going to email the following
+The World’s Technological Capacity to Store Communicate and Compute Information
+
+
+Message Subject
+ Your Name has forwarded a page to you from Science
+
+
+Message Body
+ Your Name thought you would like to see this page from the Science web site
+
+
+Your Personal Message
+
+
+
+
+
+
+
+Send Message 
+
+
+
+
+ 
+
+
+
+
+ Download Powerpoint 
+
+
+
+
+ Print 
+
+
+
+
+ Save to my folders
+User Name
+
+
+
+Password
+
+
+
+ Remember my user name  password
+
+Submit
+
+
+ 
+
+
+
+
+ Alerts
+
+
+Please log in to add an alert for this article 
+
+
+
+
+Username
+
+Enter your Sciencemagorg username
+
+
+Password
+
+Enter the password that accompanies your username
+
+
+
+Log in 
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+ Citation tools
+
+
+
+
+
+
+The World’s Technological Capacity to Store Communicate and Compute Information
+By Martin Hilbert Priscila López
+Science01 Apr 2011  6065 
+
+An inventory of the world’s technological capacity from 1986 to 2007 reveals the evolution from analog to digital technologies 
+
+ 
+
+Citation Manager Formats
+
+BibTeX
+Bookends
+EasyBib
+EndNote tagged
+EndNote 8 xml
+Medlars
+Mendeley
+Papers
+RefWorks Tagged
+Ref Manager
+RIS
+Zotero
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+ Share 
+
+
+
+
+
+The World’s Technological Capacity to Store Communicate and Compute Information
+By Martin Hilbert Priscila López
+Science01 Apr 2011  6065 
+
+An inventory of the world’s technological capacity from 1986 to 2007 reveals the evolution from analog to digital technologies 
+
+ 
+
+
+
+
+Permalink
+
+ 
+
+Copy
+
+ 
+
+
+
+         
+
+ 
+
+
+
+
+
+
+          Related Content        
+
+
+
+
+          Similar Articles in        
+
+
+
+
+          Citing Articles in        
+
+
+
+
+          Related Jobs from ScienceCareers        
+Computers Mathematics
+
+ 
+
+ 
+
+
+
+Science 
+27 October 2017
+Vol 358 Issue 6362
+
+
+
+Feature
+Medicine's future
+Ethics
+Ethics of maternal vaccination
+Ecosystem Management
+The invaders
+SCI COMMUN
+News at a glance
+Bridge – Conservation and Development
+Roads to riches or ruin
+Working Life
+Lessons from learning disabilities
+Table of Contents
+
+
+
+
+  
+
+
+
+
+About usJournals
+Leadership
+Team members
+Work at AAAS
+
+AdvertiseAdvertising kits
+Custom publishing
+
+For subscribersSite license info
+For members
+
+InternationalChinese
+Japanese
+
+HelpAccess  subscriptions
+Order a Single Issue
+Reprints  permissions
+Contact us
+Accessibility
+
+Stay Connected Facebook
+ Twitter
+ GooglePlus
+ RSS Feeds
+
+ 
+
+
+
+
+
+ 
+
+
+© 2017 American Association for the Advancement of Science All rights Reserved AAAS is a partner of HINARI AGORA OARE PatientInform  CHORUS  CLOCKSS  CrossRef and COUNTER Science ISSN 10959203
+
+Terms of Service
+Privacy Policy
+Contact Us
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

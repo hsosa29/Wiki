@@ -1,0 +1,426 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bases de datos NoSQL en cloud computing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+SEDICI  Repository of National University of La Plata
+
+
+ 
+			 		
+
+
+
+
+
+Home
+
+
+Search
+
+
+Collections
+
+
+Authors
+
+
+Subjects
+
+
+
+
+Upload Material
+
+
+Institutional
+
+
+What is SEDICI
+
+
+Repository policies
+
+
+Links
+
+
+Staff
+
+
+How to get here
+
+
+
+
+Frequentes questions
+
+
+How to add documents
+
+
+Information for posgraduated contributors
+
+
+Open Access Journals
+
+
+FAQ
+
+
+
+
+Contact
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+JavaScript is disabled for your browser Some features of this site may not work without it
+
+
+
+
+
+
+Search resources
+Search among more than 55000 resources available in the repository
+
+
+
+
+
+
+
+
+Upload resources
+Upload your works to SEDICI to increase its visibility and improve its impact
+
+
+ 
+			 		
+
+
+
+			 
+		
+
+
+
+
+Red de Universidades con Carreras en Informática RedUNCI
+
+→
+
+Eventos
+
+→
+
+WICC
+
+→
+
+WICC 2013
+
+
+
+
+
+
+Bases de datos NoSQL en cloud computing
+
+
+
+Authors 
+							
+
+Martín Adriana Elizabeth  
+
+Chávez Susana Beatriz  
+
+Rodríguez Nelson R  
+
+Valenzuela Adriana  
+
+Murazzo María Antonia
+
+
+
+
+2013
+ 
+
+
+
+
+ 
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+Document type
+
+Objeto de conferencia
+
+
+
+Abstract
+
+Las bases de datos NoSQL son sistemas de almacenamiento de información que no cumplen con el esquema entidadrelación Mientras que las tradicionales bases de datos relacionales basan su funcionamiento en tablas joins y transacciones Las bases de datos NoSQL no imponen una estructura de datos en forma de tablas y relaciones entre ellas sino que proveen un esquema mucho más flexible
+Las bases NoSQL son adecuadas para una escalabilidad realmente enorme y tienden a utilizar modelos de consistencia relajados no garantizando la consistencia de los datos con el fin de lograr una mayor performance y disponibilidad A esto se agrega el inconveniente de que no tienen un lenguaje de consulta declarativo por lo que requiere de mayor programación para la manipulación de los datos
+En general se pueden mencionar Sistemas NoSQL clasificados en cuatro categorías
+• Framework MapReduce usado por aplicaciones que hacen procesamiento analítico online  OLAP Por ejemplo Hadoop
+• Almacenamiento ClaveValor sistemas que tienden al procesamiento de transacciones online  OLTP Por ejemplo Google BigTable Amazon Dynamo Cassandra Voldemort HBase
+• Almacenamiento de Documentos Por ejemplo CouchDB MongoDDB SimpleDB 
+• Sistemas de base de datos GráficasPor ejemplo Neo4j FlockDB Pregel
+Con respecto al almacenamiento en Columnas que en general son tratados como Sistemas NoSQL no son más que una forma de organización de un sistema de base de datos relacional Sin embargo por la alta performance para cierto tipo de aplicaciones son considerados como del tipo almacenamiento ClaveValor
+En resumen para manipular enormes cantidades de información de manera muy rápida los Sistemas NoSQL trabajan mejor que los sistemas de base de datos tradicionales sin embargo para muchísimas aplicaciones la solución está en las bases de datos tradicionales
+
+
+
+Notes
+Eje Bases de Datos y Minería de Datos
+
+General information
+
+Exposure date
+abril 2013
+
+
+Document language
+Spanish
+
+
+Event
+XV Workshop de Investigadores en Ciencias de la Computación
+
+
+Origin
+Red de Universidades con Carreras en Informática RedUNCI
+
+
+Extent
+p 166170
+
+
+
+Subjects
+
+Ciencias Informáticas
+
+
+
+Descriptors
+base de datos
+
+
+Keywords
+NoSQL mapreduce cloud computing
+
+
+
+Download Files
+
+
+
+
+
+
+
+
+
+Documento completo
+Download file
+ 1017Kb  PDF
+
+
+
+
+
+
+
+							 
+						
+
+
+
+BASE
+
+
+
+
+GoogleScholar
+
+
+
+
+Created
+7 de junio de 2013
+
+
+Available since
+7 de junio de 2013
+
+Please use this identificatorURI for cite o linking this item httphdlhandlenet1091527121
+
+
+
+Show full item record
+
+This item appears in the following Collections
+
+
+WICC
+→
+WICC 2013
+
+
+
+
+
+
+
+Except where otherwise noted this item's license is described as Creative Commons AttributionNonCommercialShareAlike 25 Argentina CC BYNCSA 25
+
+
+
+
+
+
+
+
+Login
+
+
+	         
+		
+
+
+
+
+
+
+
+PREBI
+  
+SEDICI
+		                    © 20032017
+National University of La Plata
+
+
+Rights reserved contemplated by 11723 law
+
+Supported by Dspace
+
+
+
+49 and 115 St  Ex Liceo Apt Floor 1La Plata Buenos Aires CP 1900Phone 0221 423 66966677 int 141 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

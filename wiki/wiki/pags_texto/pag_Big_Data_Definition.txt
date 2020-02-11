@@ -1,0 +1,430 @@
+
+
+
+
+
+
+
+
+
+
+
+
+ Big Data Definition  MIKE20 the open source methodology for Information Development
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Help
+Login 
+
+
+
+ 
+
+
+
+
+
+
+
+Home
+Profile
+
+
+
+EnglishالعربيةEspañolFrançais한국어中文 
+
+
+Wiki
+
+Blogs
+Discussion
+Community
+Bookmarks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wiki Home
+
+
+
+
+
+
+
+
+
+Wiki Start
+ About MIKE20
+ Executive Summary
+ What is MIKE20
+ Structural Overview of MIKE20
+ The History of MIKE20
+ The Case for MIKE20
+ The Value of MIKE20
+ MIKE20 Case Studies
+ Tutorials
+ Contribution Model and Governance
+  How to Contribute
+Solution Offerings
+Core Solution Offerings
+ Business Intelligence and Performance Management
+Information Asset Management
+Access Search and Content Delivery
+Enterprise Data Management
+Enterprise Content Management
+Information Strategy Architecture and Governance
+Composite Solution Offerings
+Agile Information Development
+Enterprise 20
+Enterprise Information Management Strategy
+IT Transformation
+Information Sharing
+Governance 20
+Semantic Enterprise
+Big Data
+Business Solution Offerings
+Product Solution Offerings
+ Foundational Solutions
+ Solution Capabilities
+Implementation Guide
+Overview and Key Concepts
+ Rationale
+The 5 Phases of MIKE2
+Overall Task List
+Usage Model
+ Deliverable Templates
+ Tools and Technique Papers
+ Deliverable Templates
+ Capability Statements
+ Software Assets
+ Engagement Management Assets
+ Project Examples
+SAFE Architecture
+ Information Governance
+Foundational Solutions
+ Featured Articles
+  Content Model
+ Information Development
+  Integrated Content Repository
+ Open Methodology Framework
+ MIKE20 Expertise
+ IM Events
+Recent Changes
+Random Page
+Wiki index  Help
+
+
+
+
+
+
+
+
+
+
+
+
+Members
+
+
+
+
+
+
+
+
+MGA Platinum Members
+BearingPoint
+Deloitte
+
+
+To join please contact us 
+
+ 
+
+
+
+
+
+
+Improve MIKE 20
+
+
+
+
+
+
+
+		Need somewhere to start How about the most wanted pages or the pages we know need more work or even the stub that somebody else has started but hasn't been able to finish Or create a ticket for any issues you have found
+	
+
+
+
+
+
+Big Data Definition
+
+From MIKE20 Methodology
+
+Jump to navigation search 
+  You are here Big Data Definition Contents
+
+1 Defining Big Data
+
+11 Big data that is very small
+12 Large datasets that aren’t big
+13 Read More
+
+
+
+
+  Defining Big Data 
+Elements of "Big Data" include
+
+ The degree of complexity within the data set
+ The amount of value that can be derived from innovative vs noninnovative analysis techniques
+ The use of longitudinal information supplements the analysis
+
+
+Size is the primary definition of big data  The answer is in the number of independent data sources each with the potential to interact  Big data doesn't lend itself well to being tamed by standard data management techniques simply because of its inconsistent and unpredictable combinations
+Another attribute of big data is its tendency to be hard to delete making privacy a common concern  For example it is nearly impossible to purge all of the data associated with an individual car driver from toll road data  The sensors counting the number of cars would no longer balance with the individual billing records which in turn wouldn’t match payments received by the company
+A good definition of big data is to describe “big” in terms of the number of useful permutations of sources making useful querying difficult like the sensors in an aircraft and complex interrelationships making purging difficult as in the toll road example
+Big then refers to big complexity rather than big volume  Of course valuable and complex datasets of this sort naturally tend to grow rapidly and so big data quickly becomes truly massive
+
+Big Data can be very small and not all large datasets are big
+
+  Big data that is very small 
+Modern machines such as cars trains power stations and planes all have increasing numbers of sensors constantly collecting masses of data  It is common to talk of having thousands or even hundreds of thousands of sensors all collecting information about the performance and activities of a machine
+A plane on a regular one hour flight with a hundred thousand sensors covering everything from the speed of air over every part of the airframe through to the amount of carbon dioxide in each section of the cabin  Each sensor is effectively an independent device with its own physical characteristics  The real interest is usually in combinations of sensor readings such as carbon dioxide combined with cabin temperature and the speed of air combined with air pressure  With so many sensors the combinations are incredibly complex and vary with the error tolerance and characteristics of individual devices
+The data streaming from a hundred thousand sensors on an aircraft is big data  However the size of the dataset is not as large as might be expected  Even a hundred thousand sensors each producing an eight byte reading every second would produce less than 3GB of data in an hour of flying 100000 sensors x 60 minutes x 60 seconds x 8 bytes
+
+  Large datasets that aren’t big 
+There are an increasing number of systems that generate very large quantities of very simple data  For instance media streaming is generating very large volumes with increasing amounts of structured metadata  Similarly telecommunications companies have to track vast volumes of calls and internet connections
+Even if these two activities are combined and petabytes of data is produced the content is extremely structured  As search engines such as Google and relational databases have shown datasets can be parsed extremely quickly if the content is well structured  Even though this data is large it isn’t “big” in the same way as the data coming from the machine sensors in the earlier example
+
+ Read More
+ Big Data Solution Offering
+ All articles in the Big Data category
+ MIKE20 solutions for IM Strategy
+
+
+
+Retrieved from "httpmike2openmethodologyorgwikiBigDataDefinition"
+Category Big Data 
+
+
+
+
+
+
+
+
+Wiki asset search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Main
+File
+Category
+MIKE2
+
+
+
+
+
+
+
+
+
+
+
+
+Toolbox
+
+
+
+
+
+
+
+
+What links here
+Related changes
+Special pages
+Printable version
+Permanent link
+Import from Word
+Invite Friends
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+
+
+
+
+
+Page
+
+
+Discussion
+
+
+View source
+
+
+History
+
+
+Help
+
+
+
+
+
+
+
+
+
+Wiki Contributors
+
+
+
+
+
+
+
+AndreasrindlerArticle Score24Total Score1712SeanmcclowryArticle Score3Total Score12356RoberthillardArticle Score3Total Score367 
+
+
+
+
+
+
+Suggestions
+
+
+
+
+
+
+
+ ArticlesBig Data Solution OfferingBig sensor dataGraph databases BookmarksSupply and Demand Can Infrastructure Support Big DataHadoop and big data management How does it fit in the enterprise 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Licensing Model    
+				Privacy Policy    
+				About    
+				Disclaimers    
+				Give Us Feedback     
+				Related     
+				Sitemap
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
